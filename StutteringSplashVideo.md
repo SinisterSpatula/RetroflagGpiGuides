@@ -4,6 +4,8 @@
 
 # Stuttering Splash Video guide
 
+Source: [sudomod.com](https://sudomod.com/forum/viewtopic.php?f=44&t=5953&sid=a445fc61f5d69f18b005c1318d303f41&start=10&fbclid=IwAR3gbe9t2zlxNYArphrEwmjOXJnHU55lpKSNYPAUhlmON59dnwsXvtqykis#p61371)
+
 Follow this short guide to fix Splash (boot-up) video stuttering/slowness on the Gpi/Piezero.
 
 * Connect to your GPi using SSH.
