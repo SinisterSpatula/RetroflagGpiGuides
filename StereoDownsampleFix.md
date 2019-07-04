@@ -4,7 +4,7 @@
 
 # Stereo Downsample Fix guide
 
-  > If your Retroflag Gpi is missing some sounds (you only hear sounds destined for the Right speaker of the stereo audio), it may be due to the fact that it's outputing audio in a stero format, but only has a mono speaker.  This fix will downsample the stero audio into mono audio.
+  > If your Retroflag Gpi is missing some sounds (you only hear sounds destined for the Right speaker of the stereo audio), it may be due to the fact that it's outputing audio in a stereo format, but only has a mono speaker.  This fix will downsample the stero audio into mono audio.
 
   * [SSH into your Pi](https://www.youtube.com/watch?v=aEJoQZBSlSs)
   * Enter the command `sudo nano /etc/asound.conf`
