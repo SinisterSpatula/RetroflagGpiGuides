@@ -8,7 +8,7 @@ Source: [sudomod.com](https://sudomod.com/forum/viewtopic.php?f=44&t=5953&sid=a4
 
 Follow this short guide to fix Splash (boot-up) video stuttering/slowness on the Gpi/Piezero.
 
-* Connect to your GPi using SSH.
+* [Connect to your GPi using SSH.](https://www.youtube.com/watch?v=aEJoQZBSlSs)
 * Edit the configuration file: sudo nano /opt/retropie/supplementary/splashscreen/asplashscreen.sh
   * Edit Line 35 which looks like:
 `omxplayer -o both -b --layer 10000 "$line"`
