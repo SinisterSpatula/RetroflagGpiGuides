@@ -5,11 +5,11 @@
 # Pisnes Emulator install guide
 
 
-  1. Go to RetroPie-Setup and manage packages,
-  2. Remove snes9x.
-  3. Install pisnes from source.
-  4. Edit the configuration file: sudo nano /opt/retropie/emulators/pisnes/snes9x.cfg
-     (edit the joystick section to match):
+* Go to RetroPie-Setup and manage packages,
+* Remove snes9x.
+* Install pisnes from source.
+* Edit the configuration file: sudo nano /opt/retropie/emulators/pisnes/snes9x.cfg
+  * (edit the joystick section to match):
 
 ```
 [Joystick]
