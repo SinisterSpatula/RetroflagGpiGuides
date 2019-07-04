@@ -1,6 +1,6 @@
-![SR Image](https://sinisterspatula.github.io/Retroflag-Gpi-Guides/images/SRimage-short.jpg)
+![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
 
-[Back to Index](https://sinisterspatula.github.io/Retroflag-Gpi-Guides/)
+[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
 # Pisnes Emulator install guide
 
