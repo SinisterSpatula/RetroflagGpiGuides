@@ -8,6 +8,7 @@
   4. [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
   5. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
   6. [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
-  6. Work in progress
+  7. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
+  8. Work in progress
 
 ## Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
