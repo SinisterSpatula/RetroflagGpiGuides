@@ -24,4 +24,6 @@ Now you have the output.m2v file, you can rename it to match the original name (
 ## Support Thread
 There is no main thread for this topic yet.
 
+[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
