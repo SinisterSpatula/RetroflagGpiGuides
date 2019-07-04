@@ -48,6 +48,10 @@ Useful Testing/development commands:
    (while the emulator is running):
    evtest /dev/input/event[1]
 ```
+
+## See also
+[Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
+
 ## Support Thread
 No main support thread for this topic yet.
 
