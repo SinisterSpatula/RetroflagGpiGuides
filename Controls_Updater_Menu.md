@@ -18,7 +18,7 @@ command prompt.
   * It takes 1 hour 15 mins to compile.
 
 * Select 'Enable xboxdrv' from the setup menu. [enter]
-  *and then 'Disable xboxdrv' [enter]
+  * and then 'Disable xboxdrv' [enter]
 * Exit the setup menu.
 
 * pi@retropie:~ $  sudo reboot [enter] and wait for it to reboot.
