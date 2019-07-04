@@ -8,6 +8,7 @@
 * Go to RetroPie-Setup and manage packages,
 * Remove snes9x.
 * Install pisnes from source.
+* Connect to your GPi using SSH.
 * Edit the configuration file: sudo nano /opt/retropie/emulators/pisnes/snes9x.cfg
   * (edit the joystick section to match):
 
