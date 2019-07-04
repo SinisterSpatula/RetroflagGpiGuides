@@ -4,6 +4,8 @@
 
 # System File Checks on every boot guide
 
+If your Retroflag Gpi is doing a system file check every time you turn it on or reboot, follow the below guide to fix it.
+
 ## The Problem
 
 fsck is supposed to only run only when it needs to: either the filesystem wasn't cleanly unmounted or "it's been a while since it ran". The filesystem records the timestamp of when it was last unmounted for that second reason.
@@ -15,7 +17,7 @@ So during boot (without ntp, the date is set back 1970), it looks at the current
 There's already a workaround this: a service called fake-hwclock which keeps the time going forward by auto saving and loading from a file. It's enabled by default. The problem with it is that the boot order is such that often the fsck part is run before the system time is restored by fake-hwclock.
 
 
-##The Solution
+## The Solution
 
 The correct solution is to fix the boot order. We need to configure systemd so that fake-hwclock runs before the fsck.
 
