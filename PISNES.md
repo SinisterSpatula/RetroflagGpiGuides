@@ -5,7 +5,7 @@
 # Pisnes Emulator install guide
 
 
-* Go to RetroPie-Setup and manage packages,
+* Go to RetroPie-Setup and manage packages.
 * Remove snes9x.
 * Install pisnes from source.
 * Connect to your GPi using SSH.
@@ -23,9 +23,9 @@ R_1=5
 START_1=7
 SELECT_1=6
 ```
-[Ctrl+O] (save) and [Ctrl+X] (exit)
+[Ctrl+O] (to save) [Enter] and [Ctrl+X] (to exit)
 
-Set your SNES default emu to pisnes. Fire up some classic super nintendo action!
+Set your SNES default emulator to pisnes. Fire up some classic super nintendo action!
 
 Some folks have had to change these bindings for some odd reason, so you may want to double check your button numbers using jstest like the config file will tell you when you look inside it.
 
