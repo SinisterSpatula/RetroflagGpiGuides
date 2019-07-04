@@ -61,6 +61,7 @@ Source: [8bcraft.com](http://forum.8bcraft.com/viewtopic.php?f=2&t=1432)
 ```
 
 After rebooting go to the Retropie menu and you will find new menu entries.
+  > If you are having trouble finding the new WiFi and Bluetooth toggle items in your menu, make sure you press start and go to "Other Settings" and make sure "Parse Gamelists Only" is set to OFF. (and restart emulation station, so it will parse and show them).
 
 
 ## Support Thread
