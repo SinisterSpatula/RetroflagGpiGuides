@@ -26,6 +26,8 @@ The controls in our image are set for the d-pad “hat” mode, so if you find t
 working, try switching back to this mode as instructed above. If you switch to joystick mode you
 will have to remap your controls (not advised).
 
+## See also
+[Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
 
 ## Support Thread
 There is no main thread for this topic yet.
