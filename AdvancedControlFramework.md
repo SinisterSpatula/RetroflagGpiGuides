@@ -28,6 +28,7 @@ will have to remap your controls (not advised).
 
 ## See also
 [Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
+
 [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
 ## Support Thread
