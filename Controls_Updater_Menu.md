@@ -8,7 +8,7 @@ Our new SD card image has arrived!  It's a much easier way to go.  This process 
 
 Follow this guide to manually add our Controls_Updater_Menu to an existing image.
 
-* Connect to your GPi with SSH (Putty).
+* [Connect to your GPi with SSH (Putty).](https://www.youtube.com/watch?v=aEJoQZBSlSs)
 * Log in (username pi and pw raspberry)
   * and you should be at the pi@retropie:~ $
 command prompt.
