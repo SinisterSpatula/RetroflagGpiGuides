@@ -3,7 +3,7 @@
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
 # Wifi and Bluetooth toggle menu install guide
-note: this is already included in the Super Retroboy image.
+Note: this is already included in the Super Retroboy image.
 
 Source: [8bcraft.com](http://forum.8bcraft.com/viewtopic.php?f=2&t=1432)
 
@@ -11,6 +11,7 @@ Source: [8bcraft.com](http://forum.8bcraft.com/viewtopic.php?f=2&t=1432)
  > This will install the Linux-Kernel subsystem that allows you to toggle the wireless connectivities of the W
 * Next up you have to [login via Winscp as root](https://www.youtube.com/watch?v=O6RRRsqG9nQ) into the pi to get the permission to copy the files from [Pi Zero W Scripts](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/Pi%20Zero%20W%20Scripts.zip) over to your correct pi folders.
 * After you have root acces via Winscp just copy the files from Pi Zero W Scripts.zip to the correspoding folders of your pi (with one exception see note below). After you're done, just reboot your pi to make these new changes.
+
   > **IMPORTANT** Do not overwrite your entire gamelist.xml file with the one provided, instead you will modify your existing gamelist.xml by adding these entries to `opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml` before the </gameList> tag:
 
 
