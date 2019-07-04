@@ -1,8 +1,8 @@
-![SR Image](https://sinisterspatula.github.io/Retroflag-Gpi-Guides/images/SRimage-short.jpg)
+![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
 
 # Retroflag GPi case guides
 
-  1. [Pisnes Emulator install guide](https://sinisterspatula.github.io/Retroflag-Gpi-Guides/PISNES)
+  1. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
   2. Daphne M2V file conversion
   3. Work in progress
 
