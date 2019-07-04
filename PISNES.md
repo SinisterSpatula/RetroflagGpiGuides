@@ -29,6 +29,7 @@ Set your SNES default emu to pisnes. Fire up some classic super nintendo action!
 ## Controls:
 Start+Select=quit. Select+LB=load state, Select+RB=Save state.
 
-## [Support Thread](https://www.facebook.com/groups/SuperRetroPie/permalink/2448328332120812/)
+## Support Thread
+[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2448328332120812/)
 
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
