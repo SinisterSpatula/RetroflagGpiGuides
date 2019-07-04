@@ -3,7 +3,7 @@
 # Retroflag GPi case guides
 
   1. [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
-  2. [Controls_Updater_Menu install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
+  2. [Advanced Controller Framework install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
   3. [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
   4. [Daphne M2V file conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion)
   5. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
