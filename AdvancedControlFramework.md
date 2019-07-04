@@ -13,6 +13,9 @@ You will find a script installed in the Retropie section of Emulation Station, c
 control_updater_menu, which will allow you to download updates to the control scheme. This
 way, rather than downloading a new GPi image or installing the software yourself, you can
 download new controller setups or even support for additional emulators.
+
+[Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
+
 The script has the following menu items:
 
 ![ControlsUpdateMenuImg](https://sinisterspatula.github.io/SuperRetropieGuides/images/ControlsUpdateMenuImg.PNG)
@@ -27,7 +30,6 @@ working, try switching back to this mode as instructed above. If you switch to j
 will have to remap your controls (not advised).
 
 ## See also
-[Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
 
 [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
