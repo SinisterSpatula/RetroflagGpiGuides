@@ -31,7 +31,7 @@ cd && cd RetroPie/retropiemenu && wget -N https://raw.githubusercontent.com/Sini
   * This will be the way you update the controller scripts as well.  Just launch it again to get the latest changes.
   * If you are having trouble finding the Controls_Updater_Menu in your menu, make sure you press start and go to "Other Settings" and make sure "Parse Gamelists Only" is set to OFF. (and restart emulation station, so it will parse and show it).
 
-##Things to keep in mind:
+## Things to keep in mind:
 If you have previously setup your key bindings in one of the standalone cores, it is helpful to reset them back to default settings (usually by deleting it's config file, check the [retropie wiki](https://github.com/RetroPie/RetroPie-Setup/wiki/) for the core in question to find the config file location).  Our controller scripts  are based on default bindings.  If you want to check if a script has been written for a core, [check the script here.](https://github.com/SinisterSpatula/Gpi/blob/master/runcommand-onstart.sh)  Controller Diagrams are [located here](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
 * If you have suggestions for improving these control maps, please add your comments or questions.
