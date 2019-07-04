@@ -1,4 +1,4 @@
-![SR Image](https://sinisterspatula.github.io/Retroflag-Gpi-Guides/images/SRimage.jpg)
+![SR Image](https://sinisterspatula.github.io/Retroflag-Gpi-Guides/images/SRimage-short.jpg)
 
 # Retroflag GPi case guides
 
