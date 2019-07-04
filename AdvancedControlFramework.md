@@ -14,7 +14,7 @@ control_updater_menu, which will allow you to download updates to the control sc
 way, rather than downloading a new GPi image or installing the software yourself, you can
 download new controller setups or even support for additional emulators.
 The script has the following menu items:
-![ControlsUpdateMenuImg](https://sinisterspatula.github.io/SuperRetropieGuides/images/ControlsUpdateMenuImg.png)
+![ControlsUpdateMenuImg](https://sinisterspatula.github.io/SuperRetropieGuides/images/ControlsUpdateMenuImg.PNG)
 Update Controls is the option most users will want, while Update Controls Beta is for testers
 ONLY and is highly discouraged from use.
 IF YOUR D-PAD STOPS WORKING: The Gpi has a hidden option to change the D-PAD mode. To
