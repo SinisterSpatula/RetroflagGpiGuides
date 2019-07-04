@@ -49,4 +49,6 @@ Useful Testing/development commands:
 ## Support Thread
 No main support thread for this topic yet.
 
+[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
