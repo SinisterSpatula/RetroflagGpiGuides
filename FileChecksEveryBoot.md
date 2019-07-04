@@ -27,8 +27,8 @@ We will need to modify the file `/etc/systemd/system/fake-hwclock.service.d/fsck
 ```
 [Unit]
 Before=systemd-fsck-root.service
-the directory /etc/systemd/system/ exists but fake-hwclock.service.d doesn't, so you'll have to create that first before editing the file.
 ```
+The directory /etc/systemd/system/ exists but fake-hwclock.service.d doesn't, so you'll have to create that first before editing the file.
 
 
 ## Support Thread
