@@ -4,6 +4,7 @@
 
 # Wifi and Bluetooth toggle menu install guide
 note: this is already included in the Super Retroboy image.
+
 Source: [8bcraft.com](http://forum.8bcraft.com/viewtopic.php?f=2&t=1432)
 
 * [SSH into the pi via Putty](https://www.youtube.com/watch?v=aEJoQZBSlSs) and type the following command in: `sudo apt-get install rfkill`
