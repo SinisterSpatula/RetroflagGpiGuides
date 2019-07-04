@@ -12,6 +12,7 @@
   8. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
   9. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
   10. [Emulator Compatibility Chart](https://sinisterspatula.github.io/SuperRetropieGuides/EmulatorChart)
+  11. [File Checks on Every Bootup](https://sinisterspatula.github.io/SuperRetropieGuides/FileChecksEveryBoot)
   11. Work in progress
 
 ## Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
