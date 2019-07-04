@@ -3,6 +3,7 @@
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
 # System File Checks on every boot guide
+Source: [reddit.com](https://www.reddit.com/r/RetroPie/comments/bzin0l/gpi_case_performing_disk_check_each_boot/)
 
 If your Retroflag Gpi is doing a system file check every time you turn it on or reboot, follow the below guide to fix it.
 
