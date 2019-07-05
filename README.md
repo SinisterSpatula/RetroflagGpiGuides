@@ -1,6 +1,6 @@
 ![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
 
-  >  >  > ### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
+  >  >  > #### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
 
 # Retroflag GPi case guides
 
