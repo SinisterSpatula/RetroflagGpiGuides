@@ -4,6 +4,8 @@
 
 # Controls_Updater_Menu install guide
 
+ ### **IMPORTANT please do not perform updates other than Controls_Menu_Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup first, should you choose to do any major updates.**
+
 Our new SD card image has arrived!  It's a much easier way to go.  This process will still be an option for those who want to add it to an existing image, but by far the easier way is going to be the SuperRetropie [RetroFlag GPi Pre-Made Image](https://www.facebook.com/notes/super-retropie/retroflag-gpi-pre-made-image/2425992267687752/)
 
 Follow this guide to manually add our Controls_Updater_Menu to an existing image.
