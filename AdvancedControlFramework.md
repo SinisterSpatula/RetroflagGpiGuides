@@ -4,7 +4,7 @@
 
 # Advanced Controller Framework
 
-  > #### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
+#### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
 
 The Super Retropie GPi image has additional software and drivers installed which allow the GPi
 controls to be remapped to virtually any standalone emulator. This not only allows full
