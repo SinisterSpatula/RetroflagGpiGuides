@@ -13,7 +13,7 @@ Arcade (MAME) | mame4all | Uses [Advanced Control Framework.](https://sinistersp
 Arcade (MAME) | lr-mame2000 | Speed and compatibility varies by game |
 Atari 7800 | lr-prosystem | |
 Atari Lynx | lr-handy | |
-Daphne | Daphne | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework) |
+Daphne | Daphne | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  and [Videos need conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion) |
 Game Gear | lr-genesis-plus-gx | |
 Gameboy | lr-gambatte | A few games experience slowdown |
 Gameboy Advance | gpsp | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Many games run great. |
