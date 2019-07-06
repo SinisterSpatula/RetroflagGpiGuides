@@ -15,12 +15,13 @@ Atari Lynx | lr-handy | |
 Daphne | Daphne | |
 Game Gear | lr-genesis-plus-gx | |
 Gameboy | lr-gambatte | A few games experience slowdown |
+Gameboy Advance | gpsp | Uses Advanced Control Framework.  Many games run great. |
 Gameboy Advance | lr-gpsp | A few games experience sound crackling |
 Gameboy Color | lr-gambatte | A few games experience slowdown |
 Master System | lr-genesis-plus-gx | |
 Neo Geo | pifba | Full speed, some games have graphical glitches |
 NES | lr-nestopia | |
-PS1 | pcsx | |
+PS1 | pcsx-rearmed | Uses Advanced Control Framework, many games run great. |
 SCUMMVM | libretro core? | Needs testing |
 Sega CD | lr-picodrive | |
 Sega Genesis | lr-picodrive | |
