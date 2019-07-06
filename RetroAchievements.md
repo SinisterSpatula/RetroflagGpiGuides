@@ -2,6 +2,8 @@
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
+Source: [alexandershalin](https://github.com/alexandershalin)
+
 # Retroachievements
 
   > Because of lack of a keyboard, there is no way to set up [RetroAchievements](http://retroachievements.org/) in RetroArch, but it can be done by editing retroarch.cfg.
