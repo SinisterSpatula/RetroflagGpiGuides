@@ -10,7 +10,7 @@ Source: [Reddit.com](https://www.reddit.com/r/retroflag_gpi/comments/c8xtq3/solv
 
 * Firstly, please make an image of your SD card before you update. That way you can revert to it if the update goes wrong.
 
-* Then upgrade with apt. I use aptitude so I did aptitude update and then aptitude upgrade (but you can probably do the apt or apt-get equivalents)
+* Then upgrade with apt. I use aptitude so I did `aptitude update` and then `aptitude upgrade` (but you can probably do the apt or apt-get equivalents)
 
 * 2 things will break after an update, but this isn't my first rodeo so I fixed both of them before rebooting post-upgrade:
 
