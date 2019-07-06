@@ -50,6 +50,7 @@ command prompt.
 ```
 cd && cd RetroPie/retropiemenu && wget -N https://raw.githubusercontent.com/SinisterSpatula/Gpi/master/control_updater_menu.sh && sudo chmod 775 control_updater_menu.sh
 ```
+  > Newer versions of the Controls_Updater_Menu will have a self-update function.
 
 ## Developers
 For developers who would like to help with mapping, you can find xboxdrv documentation [HERE](https://xboxdrv.gitlab.io/xboxdrv.html)
