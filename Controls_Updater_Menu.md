@@ -12,7 +12,7 @@ Follow this guide to manually add our Controls_Updater_Menu to an existing image
 
 * [Connect to your GPi with SSH (Putty).](https://www.youtube.com/watch?v=aEJoQZBSlSs)
 * Log in (username pi and pw raspberry)
-  * and you should be at the pi@retropie:~ $
+  * you should be at the pi@retropie:~ $
 command prompt.
 
 * pi@retropie:~ $  sudo ./RetroPie-Setup/retropie_setup.sh [enter]
@@ -39,6 +39,17 @@ cd && cd RetroPie/retropiemenu && wget -N https://raw.githubusercontent.com/Sini
 If you have previously setup your key bindings in one of the standalone cores, it is helpful to reset them back to default settings (usually by deleting it's config file, check the [retropie wiki](https://github.com/RetroPie/RetroPie-Setup/wiki/) for the core in question to find the config file location).  Our controller scripts  are based on default bindings.  If you want to check if a script has been written for a core, [check the script here.](https://github.com/SinisterSpatula/Gpi/blob/master/runcommand-onstart.sh)  Controller Diagrams are [located here](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
 * If you have suggestions for improving these control maps, please add your comments or questions.
+
+## Updating your Controls_Menu_Updater itself
+
+* [Connect to your GPi with SSH (Putty).](https://www.youtube.com/watch?v=aEJoQZBSlSs)
+* Log in (username pi and pw raspberry)
+  * you should be at the pi@retropie:~ $
+command prompt.
+* Paste the following:
+```
+cd && cd RetroPie/retropiemenu && wget -N https://raw.githubusercontent.com/SinisterSpatula/Gpi/master/control_updater_menu.sh && sudo chmod 775 control_updater_menu.sh
+```
 
 ## Developers
 For developers who would like to help with mapping, you can find xboxdrv documentation [HERE](https://xboxdrv.gitlab.io/xboxdrv.html)
