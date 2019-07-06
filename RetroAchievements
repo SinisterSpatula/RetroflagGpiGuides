@@ -1,9 +1,0 @@
-Because of lack of a keyboard, there is no way to set up RetroAchievements (http://retroachievements.org/) in RetroArch, but it can be done by editing retroarch.cfg.
-
-Open /opt/retropie/configs/all/retroarch.cfg
-
-Add following strings in to the end of this file:
-
-cheevos_username = "yourusername"
-cheevos_password = "yourpassword"
-cheevos_enable = true
