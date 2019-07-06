@@ -14,11 +14,11 @@ Source: [Reddit.com](https://www.reddit.com/r/retroflag_gpi/comments/c8xtq3/solv
 
 * 2 things will break after an update, but this isn't my first rodeo so I fixed both of them before rebooting post-upgrade:
 
-* Problem: The autologin will no longer work because the upgrade overwrites a setting.
-* Solution: This can be fixed with sudo raspi-config -> Boot Options -> Desktop/CLI -> Console Autologin.
+  * Problem: The autologin will no longer work because the upgrade overwrites a setting.
+  * Solution: This can be fixed with sudo raspi-config -> Boot Options -> Desktop/CLI -> Console Autologin.
 
-* Problem: The upgrade will overwrite /boot/overlays/dpi24.dtbo with the stock version.
-* Solution: Just overwrite the patch version again.
+  * Problem: The upgrade will overwrite /boot/overlays/dpi24.dtbo with the stock version.
+  * Solution: Just overwrite the patch version again.
 
 * Then you can reboot and it will all work. Even the controls. Then you can reboot again and it will still be working 🎉
 
