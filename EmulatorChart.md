@@ -21,7 +21,7 @@ Gameboy Advance | lr-gpsp | A few games experience sound crackling |
 Gameboy Color | lr-gambatte | A few games experience slowdown |
 Master System | lr-genesis-plus-gx | Runs great |
 Minecraft | Minecraft (ports) | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Runs great. |
-Neo Geo | pifba | Uses Advanced Control Framework.  Full speed, some games have graphical glitches |
+Neo Geo | pifba | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Full speed, some games have graphical glitches |
 NES | lr-nestopia | |
 PS1 | pcsx-rearmed | Uses [Advanced Control Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework), many games run great. |
 SCUMMVM | libretro core? | Needs testing |
