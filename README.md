@@ -2,6 +2,11 @@
 
   > #### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
 
+# Just got your GPi?  Quick setup guides
+
+  1. [Wagners Guide](http://wagnerstechtalk.com/gpi-quick-setup/)
+  2. [Howchoo Guide](https://howchoo.com/g/ndc3njbhytv/retroflag-gpi-setup)
+
 # Retroflag GPi case guides
 
   1. [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
