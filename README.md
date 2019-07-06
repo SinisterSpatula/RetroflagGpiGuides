@@ -2,10 +2,6 @@
 
   > #### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
 
-# Just got your GPi?  Quick setup guides
-
-  1. [Wagners Guide](http://wagnerstechtalk.com/gpi-quick-setup/)
-  2. [Howchoo Guide](https://howchoo.com/g/ndc3njbhytv/retroflag-gpi-setup)
 
 # Retroflag GPi case guides
 
@@ -22,5 +18,10 @@
   11. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
   12. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
   13. Work in progress
+  
+# Additional Resources
+  
+  1. [Wagners Beginners Guide](http://wagnerstechtalk.com/gpi-quick-setup/)
+  2. [Howchoo Beginners Guide](https://howchoo.com/g/ndc3njbhytv/retroflag-gpi-setup)  
 
 ## Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
