@@ -8,16 +8,17 @@
   1. [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
   2. [Advanced Controller Framework install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
   3. [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
-  4. [Daphne M2V file conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion)
-  5. [Emulator Compatibility Chart](https://sinisterspatula.github.io/SuperRetropieGuides/EmulatorChart)
-  6. [File Checks on Every Bootup](https://sinisterspatula.github.io/SuperRetropieGuides/FileChecksEveryBoot)
-  7. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
-  8. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
-  9. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
-  10. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
-  11. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
-  12. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
-  13. Work in progress
+  4. [Controls Not Working after Reboot](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsBrokeAfterReboot)
+  5. [Daphne M2V file conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion)
+  6. [Emulator Compatibility Chart](https://sinisterspatula.github.io/SuperRetropieGuides/EmulatorChart)
+  7. [File Checks on Every Bootup](https://sinisterspatula.github.io/SuperRetropieGuides/FileChecksEveryBoot)
+  8. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
+  9. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
+  10. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
+  11. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
+  12. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
+  13. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
+  14. Work in progress
   
 # Additional Resources
   
