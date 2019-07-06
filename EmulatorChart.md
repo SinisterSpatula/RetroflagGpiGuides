@@ -8,7 +8,7 @@
 System Name | Recommended Core/Emulator | Notes
 ------------|---------------------------|--------------------------------
 2600 | lr-stella2014 | |
-Amiga | Amiberry | |
+Amiga | Amiberry | using whdload games the speed varies from game to game (some fully playable and others too slow, far from perfect but many games run great). |
 Arcade (MAME) | lr-mame2000 or mame4all | Speed and compatibility varies by game |
 Atari 7800 | lr-prosystem | |
 Atari Lynx | lr-handy | |
@@ -30,6 +30,7 @@ SNES | lr-snes9x2002 | Some games have slight audio glitches, a few do not run f
 Turbografx 16 | lr-beetle-pce-fast | |
 Turbografx CD | lr-beetle-pce-fast | |
 Vectrex | lr-vecx | |
+Zxspectrum | lr-fuse | works great |
 
 
 
