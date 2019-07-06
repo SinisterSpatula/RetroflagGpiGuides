@@ -43,6 +43,8 @@ If you have previously setup your key bindings in one of the standalone cores, i
 
 ## Updating your Controls_Menu_Updater itself
 
+  > Newer versions of the Controls_Updater_Menu will have a self-update function, and have additional enhancements like saftey checks before updating (making sure there is wifi connection before deleting the old versions and grabbing new versions).
+
 * [Connect to your GPi with SSH (Putty).](https://www.youtube.com/watch?v=aEJoQZBSlSs)
 * Log in (username pi and pw raspberry)
   * you should be at the pi@retropie:~ $
@@ -51,7 +53,7 @@ command prompt.
 ```
 cd && cd RetroPie/retropiemenu && wget -N https://raw.githubusercontent.com/SinisterSpatula/Gpi/master/control_updater_menu.sh && sudo chmod 775 control_updater_menu.sh
 ```
-  > Newer versions of the Controls_Updater_Menu will have a self-update function, and have additional enhancements like saftey checks before updating (making sure there is wifi connection before deleting the old versions and grabbing new versions).
+
 
 ## Developers
 For developers who would like to help with mapping, you can find xboxdrv documentation [HERE](https://xboxdrv.gitlab.io/xboxdrv.html)
