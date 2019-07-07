@@ -14,6 +14,7 @@ Arcade (MAME) | lr-mame2000 | Speed and compatibility varies by game |
 Atari 7800 | lr-prosystem | |
 Atari Lynx | lr-handy | |
 Daphne | Daphne | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  and [Videos need conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion) |
+Doom | lr-prboom | works great |
 Game Gear | lr-genesis-plus-gx | |
 Gameboy | lr-gambatte | A few games experience slowdown |
 Gameboy Advance | gpsp | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Many games run great. |
@@ -28,7 +29,7 @@ SCUMMVM | libretro core? | Needs testing |
 Sega CD | lr-picodrive | |
 Sega Genesis | lr-picodrive | |
 SG-1000 | lr-genesis-plus-gx | |
-SNES | pisnes | The fastest snes emulator but suffers inaccuracy, no superfx, some games not compatible |
+SNES | pisnes | The fastest snes emulator but suffers inaccuracy, no superfx, some games not compatible, setup controls in it's config file |
 SNES | lr-snes9x2002 | Some games have slight audio glitches, a few do not run full speed |
 Turbografx 16 | lr-beetle-pce-fast | |
 Turbografx CD | lr-beetle-pce-fast | |
