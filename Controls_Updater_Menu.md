@@ -41,7 +41,7 @@ If you have previously setup your key bindings in one of the standalone cores, i
 
 * If you have suggestions for improving these control maps, please add your comments or questions.
 
-## Updating your Controls_Menu_Updater itself
+## Updating your Controls__Updater_Menu itself
 
   > Newer versions of the Controls_Updater_Menu will have a self-update function, and have additional enhancements like saftey checks before updating (making sure there is wifi connection before deleting the old versions and grabbing new versions).
 
