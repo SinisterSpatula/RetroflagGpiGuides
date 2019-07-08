@@ -15,6 +15,7 @@ Atari 7800 | lr-prosystem | |
 Atari Lynx | lr-handy | |
 Daphne | Daphne | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  and [Videos need conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion) |
 Doom | lr-prboom | works great |
+Duke Nukem 3D | eduke32 | works great, Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework) |
 Game Gear | lr-genesis-plus-gx | |
 Gameboy | lr-gambatte | A few games experience slowdown |
 Gameboy Advance | gpsp | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Many games run great. |
