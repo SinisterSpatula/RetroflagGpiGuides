@@ -16,7 +16,7 @@ control_updater_menu, which will allow you to download updates to the control sc
 way, rather than downloading a new GPi image or installing the software yourself, you can
 download new controller setups or even support for additional emulators.
 
-[Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
+You can also install this on your own custom image, see: [Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
 
 The script has the following menu items:
 
