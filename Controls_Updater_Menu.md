@@ -25,7 +25,7 @@ command prompt.
 * Exit the setup menu.
 
 * pi@retropie:~ $  sudo reboot [enter] and wait for it to reboot.
-* Then reconnect to the SSH session again.  Paste the following:
+* Then reconnect to the SSH session again.
 
 * First, modify your `runcommand-onstart.sh` to include the xboxdrv command (and remove any previous controller mappings, they are no longer being housed in this script and they have a new home in xboxdrvstart.sh):
 
