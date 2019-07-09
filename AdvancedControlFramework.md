@@ -12,7 +12,7 @@ button/dpad compatibility but also allows for hotkeys and even additional button
 present in the GPi case (such as L2 and R2). Wherever possible, the hotkeys have been mapped
 to mimic Libretro controls, i.e. select+start to exit, select+R to save state, etc.
 You will find a script installed in the Retropie section of Emulation Station, called
-control_updater_menu, which will allow you to download updates to the control scheme. This
+Controllertools/control_updater_menu, which will allow you to download updates to the control scheme. This
 way, rather than downloading a new GPi image or installing the software yourself, you can
 download new controller setups or even support for additional emulators.
 
@@ -26,10 +26,7 @@ Update Controls is the option most users will want, while Update Controls Beta i
 ONLY and is highly discouraged from use.
 IF YOUR D-PAD STOPS WORKING: The Gpi has a hidden option to change the D-PAD mode. To
 switch to hat mode (default) press SELECT+DPAD UP for 5 seconds. To switch to joystick/axis
-mode, press SELECT+DPAD LEFT for 5 seconds. You will know it worked when the LED flashes.
-The controls in our image are set for the d-pad “hat” mode, so if you find that the d-pad is not
-working, try switching back to this mode as instructed above. If you switch to joystick mode you
-will have to remap your controls (not advised).
+mode, press SELECT+DPAD LEFT for 5 seconds. You will know it worked when the LED flashes.  The newest versions of the updater menu and scripts now support both D-pad modes, so it won't matter anymore, which mode you have your D-pad set.
 
 ## See also
 
