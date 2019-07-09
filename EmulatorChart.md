@@ -20,6 +20,7 @@ Game Gear | lr-genesis-plus-gx | |
 Gameboy | lr-gambatte | A few games experience slowdown |
 Gameboy Advance | gpsp | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Many games run great. |
 Gameboy Advance | lr-gpsp | A few games experience sound crackling |
+Gameboy Advance | lr-mgba | |
 Gameboy Color | lr-gambatte | A few games experience slowdown |
 Master System | lr-genesis-plus-gx | Runs great |
 Minecraft | Minecraft (ports) | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Runs great. |
