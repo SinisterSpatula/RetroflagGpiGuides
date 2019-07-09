@@ -27,7 +27,7 @@ command prompt.
 * pi@retropie:~ $  sudo reboot [enter] and wait for it to reboot.
 * Then reconnect to the SSH session again.  Paste the following:
 
-* First, modify your `runcommand-onstart.sh` to include the xboxdrv command:
+* First, modify your `runcommand-onstart.sh` to include the xboxdrv command (and remove any previous controller mappings, they are no longer being housed in this script and they have a new home in xboxdrvstart.sh):
 
 `sudo nano /opt/retropie/configs/all/runcommand-onstart.sh`
 
@@ -76,7 +76,10 @@ If you have previously setup your key bindings in one of the standalone cores, i
 
   > Newer versions of the Controls_Updater_Menu will have a self-update function, and have additional enhancements like saftey checks before updating (making sure there is wifi connection before deleting the old versions and grabbing new versions).
 
-It's best to remove your runcommand-onstart.sh and runcommand-onend.sh and start them fresh just like the above instructions. Don't forget to make them executable with `sudo chmod a+x *.sh`
+* It's best to remove your runcommand-onstart.sh and runcommand-onend.sh and start them fresh just like the above instructions. Don't forget to make them executable with `sudo chmod a+x *.sh`
+
+* delete the old controls_update_menu.sh, it will be replaced by a new one, and inside of a new directory.  Once you've cleaned house on your runcommand-onstart.sh and runcommand-onend.sh and removed the old controls_updater_menu.sh, just follow the above install instructions.
+
 
 ## Developers
 For developers who would like to help with mapping, you can find xboxdrv documentation [HERE](https://xboxdrv.gitlab.io/xboxdrv.html)
