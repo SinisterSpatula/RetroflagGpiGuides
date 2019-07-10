@@ -68,7 +68,7 @@ https://retropie.org.uk/forum/topic/13784/openbor-finally-working-fine-on-retrop
 You must update your controls using Controltools/Controls_Updater_menu if you wan't working controls with Openbor.  (Option 1).
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2452964808323831/)
+[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2453139831639662/)
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
