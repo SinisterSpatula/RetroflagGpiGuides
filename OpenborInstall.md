@@ -38,10 +38,13 @@ mkdir -p /opt/retropie/configs/all/runcommand-menu && wget "http://raw.githubuse
 * I don't know if this actually helped or not, but it's what I did
 
 `sudo nano OpenBOR\ -\ Beats\ of\ Rage\ Engine\ Selection.sh`
+
+```
 Change this:
-`--menu "There are $((${#dialog_array[@]}/2)) games available\nWhich you want to play:" 16 70 16)`
+--menu "There are $((${#dialog_array[@]}/2)) games available\nWhich you want to play:" 16 70 16)
 To this:
-`--menu "There are $((${#dialog_array[@]}/2)) games available\nWhich you want to play:" 25 75 20)`
+--menu "There are $((${#dialog_array[@]}/2)) games available\nWhich you want to play:" 25 75 20)
+```
 
 Execute this from SSH instead to see the menu:
 ./OpenBOR\ -\ Beats\ of\ Rage\ Engine\ Selection.sh
