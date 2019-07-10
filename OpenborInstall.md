@@ -47,7 +47,9 @@ To this:
 ```
 
 Execute this from SSH instead to see the menu:
-./OpenBOR\ -\ Beats\ of\ Rage\ Engine\ Selection.sh
+
+`./OpenBOR\ -\ Beats\ of\ Rage\ Engine\ Selection.sh`
+
 Pick <Joypad config>, option 1,xbox 360 wireless.
 Exit out.
 This creates master.bor.cfg which is a binary file. (unreadable)
