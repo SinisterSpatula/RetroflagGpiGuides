@@ -67,10 +67,10 @@ sudo nano OpenBOR\ -\ Module\ Selection\ Script.sh
 [[ -e $JOY2KEY_SCRIPT ]] || (cd /home/pi/retropie/openbor_openbeta; ./OpenBOR; kill $$)
 
 * Add this to the end of the last line if you want to log errors:
-` >> /dev/shm/runcommand.log 2>&1`
+ `>> /dev/shm/runcommand.log 2>&1`
 
-Update the emulators.cfg:
-sudo nano /opt/retropie/configs/ports/openbor/emulators.cfg
+* Update the emulators.cfg:
+`sudo nano /opt/retropie/configs/ports/openbor/emulators.cfg`
 ```
 openbor = "pushd /home/pi/openbor_openbeta; /home/pi/openbor_openbeta/OpenBOR %ROM%; popd"
 default = "openbor"
