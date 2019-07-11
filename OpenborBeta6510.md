@@ -64,7 +64,7 @@ sudo cp libGL.so.1 ~/openbor_openbeta/lib/
 
 change the module selection script:
 ```
-sudo nano /home/pi/RetroPie/roms/ports/OpenBOR - Module Selection Script.sh
+sudo nano /home/pi/RetroPie/roms/ports/OpenBOR\ -\ Module\ Selection\ Script.sh
 ```
 
 ```
