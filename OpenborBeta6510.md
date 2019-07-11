@@ -4,7 +4,7 @@
 
 [See this thread for more information](https://retropie.org.uk/forum/topic/19326/openbor-6xxx-openbeta-testphase/)
 
-# Beggining
+# Beginning
 
  * Install this script module
 ```
