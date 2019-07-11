@@ -63,7 +63,10 @@ sudo cp libGL.so.1 ~/openbor_openbeta/lib/
 * The below is where I think I started to go wrong, and the part I can't figure out, this isn't right.
 
 change the module selection script:
-`sudo nano OpenBOR\ -\ Module\ Selection\ Script.sh`
+```
+sudo nano /home/pi/RetroPie/roms/ports/OpenBOR - Module Selection Script.sh
+OpenBOR\ -\ Module\ Selection\ Script.sh
+```
 
 ```
 [[ -e $JOY2KEY_SCRIPT ]] || (cd /home/pi/retropie/openbor_openbeta; ./OpenBOR; kill $$)
