@@ -45,11 +45,11 @@ sudo cp ~/OpenBOR-Raspberry-master/OpenBOR.elf /opt/retropie/ports/openbor-6xxx
 
 # GL4gs - Open GL
 
-`cd ~`
-`mkdir opengl`
-`git clone https://github.com/ptitSeb/gl4es.git opengl/`
-`cd opengl`
-`mkdir build; cd build; cmake .. -DBCMHOST=1; make`
+* `cd ~`
+* `mkdir opengl`
+* `git clone https://github.com/ptitSeb/gl4es.git opengl/`
+* `cd opengl`
+* `mkdir build; cd build; cmake .. -DBCMHOST=1; make`
 
 * after you have openGL compiled it should give you a libGL.so.1 file, copy this file to lib folder next to openbor binary.
 ```
