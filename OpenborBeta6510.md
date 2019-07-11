@@ -56,6 +56,9 @@ sudo cp ~/OpenBOR-Raspberry-master/OpenBOR.elf /opt/retropie/ports/openbor-6xxx
 sudo cp ~/opengl/build/lib/libGL.so.1 /opt/retropie/ports/openbor-6xxx/ && sudo chmod a+x /opt/retropie/ports/openbor-6xxx/libGL.so.1
 ```
 
+# Add some pak files
+* Go and download HE-man masters of the universe or TNMNT Rescue Palooza (you can get the pak file from within it)
+* place your pak's to: `roms/ports/openbor/`
 
 
 # Where I think I'm going wrong...
