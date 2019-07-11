@@ -39,8 +39,8 @@ wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/4
 
 * copy the compiled OpenBOR binary, replacing the one we got from the retropie-setup installation.
 ```
-sudo cp ~/OpenBOR-Raspberry-master/OpenBOR ~/openbor_openbeta/
-sudo cp ~/OpenBOR-Raspberry-master/OpenBOR.elf ~/openbor_openbeta/
+sudo cp ~/OpenBOR-Raspberry-master/OpenBOR /opt/retropie/ports/openbor
+sudo cp ~/OpenBOR-Raspberry-master/OpenBOR.elf /opt/retropie/ports/openbor
 ```
 
 # GL4gs - Open GL
