@@ -56,11 +56,7 @@ sudo cp ~/OpenBOR-Raspberry-master/OpenBOR.elf /opt/retropie/ports/openbor-6xxx
 sudo cp ~/opengl/build/lib/libGL.so.1 /opt/retropie/ports/openbor-6xxx/ && sudo chmod a+x /opt/retropie/ports/openbor-6xxx/libGL.so.1
 ```
 
-* be in the location of your compiled/finished libGL.so.1 (usually inside of the build directory) then do:
 
-```
-sudo cp libGL.so.1 ~/openbor_openbeta/lib/
-```
 
 # Where I think I'm going wrong...
 * The below is where I think I started to go wrong, and the part I can't figure out, this isn't right.
