@@ -4,6 +4,8 @@
 
 # NEW Openbor Beta 6xxx Install Guide
 
+#For Pi Zero/One
+
 ## follow at your own risk. (consider having a backup first)
 
 [See this thread for more information](https://retropie.org.uk/forum/topic/19326/openbor-6xxx-openbeta-testphase/)
@@ -30,7 +32,7 @@ wget https://github.com/crcerror/OpenBOR-Raspberry/archive/master.zip
 
 * then `cd ~/OpenBOR-Raspberry-master`
 
-* then get the patch
+* then get the patch (this is a pi zero specific patch!)
 ```
 wget https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/4-Galina.diff
 ```
