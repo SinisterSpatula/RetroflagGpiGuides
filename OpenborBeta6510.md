@@ -1,3 +1,7 @@
+![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+
+[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+
 # Openbor Beta 6510-dev guide
 
 ## follow at your own risk. (consider having a backup first)
@@ -70,3 +74,17 @@ add a line to end of emulators.cfg:
 ```
 openbor = "pushd /opt/retropie/ports/openbor; /opt/retropie/ports/openbor/OpenBOR; popd"
 ```
+
+## Controls:
+Controls are Work in Progress.  It will use [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
+
+## Support Thread
+[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2455312278089084/)
+
+## Additoional Resources
+
+[See this thread for more information](https://retropie.org.uk/forum/topic/19326/openbor-6xxx-openbeta-testphase/)
+
+[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
