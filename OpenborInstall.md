@@ -57,13 +57,9 @@ This creates master.bor.cfg which is a binary file. (unreadable)
 Now you can launch the games using the entry under ports "OpenBOR - Beats of Rage Engine"
 
 
-# UNBOR for windows based Pak's
-
-If you have a game that is sourced from windows PC (For example, turtles palooza), you must "UNBOR it", see this link and read the UNBOR section toward the bottom:
-https://retropie.org.uk/forum/topic/13784/openbor-finally-working-fine-on-retropie-with-es/2
 
 
-# Controls
+# Controls - retroflag gpi
 
 You must update your controls using Controltools/Controls_Updater_menu if you wan't working controls with Openbor.  (Option 1).
 
