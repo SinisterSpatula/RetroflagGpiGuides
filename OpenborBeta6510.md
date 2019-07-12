@@ -64,7 +64,10 @@ sudo mkdir -p /opt/retropie/ports/openbor-6xxx/lib/ && sudo cp ~/opengl/build/li
 
 # Add some pak files
 * Go and download HE-man masters of the universe or TNMNT Rescue Palooza (you can get the pak file from within it)
+
 * place your pak's to: `~/RetroPie/roms/ports/openbor/`
+
+* There's no need to unpack them, and no need to place them in pak folder.
 
 # Let the fun begin
 
