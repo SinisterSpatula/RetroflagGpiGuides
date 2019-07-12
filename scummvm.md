@@ -9,7 +9,9 @@
  > Scummvm works great (I've tested the talkie versions of monkey island 1&2, curse of monkey island, Beavis & Butthead etc.
  
  * For scummvm Install lr-scummvm (experimental?)
+ 
  * place your games within folders into the scummvm folder in: `retropie/roms/scummvm/`
+ 
  * rename your game's folder (say monkeyisland) to monkeyisland.svm for it to show in EmulationStation.
 
 ## Controls:
