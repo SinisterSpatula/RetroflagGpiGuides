@@ -2,7 +2,7 @@
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
-# Openbor Beta 6510-dev guide
+# NEW Openbor Beta 6xxx Install Guide
 
 ## follow at your own risk. (consider having a backup first)
 
