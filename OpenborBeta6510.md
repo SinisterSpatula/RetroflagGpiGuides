@@ -50,6 +50,7 @@ wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/5
 wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/latest_build.diff
 ```
   > 5-Dmitri.diff is the newest.
+  > Use https://github.com/DCurrent/openbor/archive/02375fbcd9c3848045dd7d11819542e83ae46cb1.zip as your master.zip for Dmitri.
 
 * apply patch
 `patch -p0 -i 4-Galina.diff`
