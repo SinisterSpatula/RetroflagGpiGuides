@@ -64,22 +64,10 @@ sudo mkdir -p /opt/retropie/ports/openbor-6xxx/lib/ && sudo cp ~/opengl/build/li
 # Where I think I'm going wrong...
 * The below is where I think I started to go wrong, and the part I can't figure out, this isn't right.
 
-change the module selection script:
-```
-sudo nano /home/pi/RetroPie/roms/ports/OpenBOR\ -\ Module\ Selection\ Script.sh
-```
+add a line to /opt/retropie/configs/ports/openbor/emulators.cfg:
 
-```
-[[ -e $JOY2KEY_SCRIPT ]] || (cd /home/pi/retropie/openbor_openbeta; ./OpenBOR; kill $$)
-```
-
-* Add this to the end of the last line if you want to log errors:
- `>> /dev/shm/runcommand.log 2>&1`
-
-* Update the emulators.cfg:
 `sudo nano /opt/retropie/configs/ports/openbor/emulators.cfg`
 
 ```
-openbor = "pushd /home/pi/openbor_openbeta; /home/pi/openbor_openbeta/OpenBOR %ROM%; popd"
-default = "openbor"
+openbor = "pushd /opt/retropie/ports/openbor; /opt/retropie/ports/openbor/OpenBOR; popd"
 ```
