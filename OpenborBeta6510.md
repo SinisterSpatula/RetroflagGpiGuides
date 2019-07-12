@@ -81,7 +81,7 @@ Controls are Work in Progress.  It will use [Advanced Controller Framework](http
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2455312278089084/)
 
-## Additoional Resources
+## Additional Resources
 
 [See this thread for more information](https://retropie.org.uk/forum/topic/19326/openbor-6xxx-openbeta-testphase/)
 
