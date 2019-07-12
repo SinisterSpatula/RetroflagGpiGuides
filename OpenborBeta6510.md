@@ -28,7 +28,7 @@ wget https://github.com/crcerror/OpenBOR-Raspberry/archive/master.zip
 
 * then get the patch
 ```
-wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/4-Galina.diff
+wget https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/4-Galina.diff
 ```
 ## Galina isn't working for me, going to try these others:
 ```
