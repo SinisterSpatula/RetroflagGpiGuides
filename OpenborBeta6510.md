@@ -53,7 +53,7 @@ sudo cp ~/OpenBOR-Raspberry-master/OpenBOR.elf /opt/retropie/ports/openbor-6xxx
 
 * after you have openGL compiled it should give you a libGL.so.1 file, copy this file to lib folder next to openbor binary.
 ```
-sudo cp ~/opengl/build/lib/libGL.so.1 /opt/retropie/ports/openbor-6xxx/ && sudo chmod a+x /opt/retropie/ports/openbor-6xxx/libGL.so.1
+sudo mkdir -p /opt/retropie/ports/openbor-6xxx/lib/ && sudo cp ~/opengl/build/lib/libGL.so.1 /opt/retropie/ports/openbor-6xxx/lib/ && sudo chmod a+x /opt/retropie/ports/openbor-6xxx/lib/libGL.so.1
 ```
 
 # Add some pak files
