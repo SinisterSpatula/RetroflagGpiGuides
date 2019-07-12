@@ -49,6 +49,8 @@ source /opt/retropie/configs/all/xboxdrvend.sh > /dev/null 2>&1
 sudo pkill -CONT mpg123 > /dev/null 2>&1
 ```
 
+`Make them executable with: sudo chmod +x *.sh`
+
 ## Install the controls_updater_menu
 
 ```shell
