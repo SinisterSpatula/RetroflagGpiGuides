@@ -65,7 +65,7 @@ sudo mkdir -p /opt/retropie/ports/openbor-6xxx/lib/ && sudo cp ~/opengl/build/li
 * place your pak's to: `~/RetroPie/roms/ports/openbor/`
 
 
-# This might not be needed, but something you can try if it won't load a game.
+## This might not be needed, but something you can try if it won't load a game.
 
 add a line to end of emulators.cfg:
 
@@ -74,6 +74,17 @@ add a line to end of emulators.cfg:
 ```
 openbor = "pushd /opt/retropie/ports/openbor; /opt/retropie/ports/openbor/OpenBOR; popd"
 ```
+Per Cypherghost
+They above may not be correct, you may consider trying this instead:
+
+ >About the emulators.cfg
+ >it should be
+
+```
+openbor = "pushd /opt/retropie/ports/openbor; /opt/retropie/ports/openbor/OpenBOR %ROM%; popd"
+The %ROM% is needed to start PAK-files through dialog menu or via EmulationStation as own system.
+```
+
 
 ## Controls:
 Controls are Work in Progress.  It will use [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
