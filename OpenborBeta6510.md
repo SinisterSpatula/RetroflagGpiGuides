@@ -4,7 +4,7 @@
 
 # NEW Openbor Beta 6xxx Install Guide
 
-#For Pi Zero/One
+## For Pi Zero/One
 
 ## follow at your own risk. (consider having a backup first)
 
