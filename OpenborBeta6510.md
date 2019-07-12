@@ -6,7 +6,7 @@
 
 ## For Pi Zero/One
 
-## follow at your own risk. (consider having a backup first)
+## (It's good practice to make a backup first)
 
 [See this thread for more information](https://retropie.org.uk/forum/topic/19326/openbor-6xxx-openbeta-testphase/)
 
