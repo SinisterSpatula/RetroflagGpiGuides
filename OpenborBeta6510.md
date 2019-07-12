@@ -80,13 +80,11 @@ add a line to end of emulators.cfg:
 ```
 openbor = "pushd /opt/retropie/ports/openbor; /opt/retropie/ports/openbor/OpenBOR; popd"
 ```
+* the above emulators.cfg might not be fully correct.
+
 Per Cypherghost
 
-> The above may not be correct, you may consider trying this instead:
-
- > About the emulators.cfg
- 
- > it should be:
+> you may consider trying this instead, about the emulators.cfg, it should be:
 
 ```
 openbor = "pushd /opt/retropie/ports/openbor; /opt/retropie/ports/openbor/OpenBOR %ROM%; popd"
