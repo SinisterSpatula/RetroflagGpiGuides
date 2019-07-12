@@ -30,6 +30,26 @@ wget https://github.com/crcerror/OpenBOR-Raspberry/archive/master.zip
 ```
 wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/4-Galina.diff
 ```
+## Galina isn't working for me, going to try these others:
+```
+wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/1-anna.diff
+```
+```
+wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/2-Boris.diff
+```
+```
+wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/3-Wassili.diff
+```
+```
+wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/4-Galina.diff
+```
+```
+wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/5-Dmitri.diff
+```
+```
+wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/latest_build.diff
+```
+  > 5-Dmitri.diff is the newest.
 
 * apply patch
 `patch -p0 -i 4-Galina.diff`
