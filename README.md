@@ -15,12 +15,13 @@
   8. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
   9. [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
   10. [Openbor Install Guide](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborInstall)
-  11. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
-  12. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
-  13. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
-  14. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
-  15. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
-  16. Work in progress
+  11. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
+  12. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
+  13. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
+  14. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
+  15. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
+  16. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
+  17. Work in progress
   
 # Additional Resources
   
