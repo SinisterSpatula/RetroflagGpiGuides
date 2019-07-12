@@ -28,7 +28,7 @@ Minecraft | Minecraft (ports) | Uses [Advanced Control Framework.](https://sinis
 Neo Geo | pifba | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Full speed, some games have graphical glitches |
 NES | lr-nestopia | |
 PS1 | pcsx-rearmed | Uses [Advanced Control Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework), many games run great. |
-SCUMMVM | libretro core? | Needs testing |
+SCUMMVM | lr-scummvm | Works great.  See [Scummvm Information](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm) |
 Sega CD | lr-picodrive | |
 Sega Genesis | lr-picodrive | |
 SG-1000 | lr-genesis-plus-gx | |
