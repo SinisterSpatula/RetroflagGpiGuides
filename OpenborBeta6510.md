@@ -64,6 +64,10 @@ sudo mkdir -p /opt/retropie/ports/openbor-6xxx/lib/ && sudo cp ~/opengl/build/li
 * Go and download HE-man masters of the universe or TNMNT Rescue Palooza (you can get the pak file from within it)
 * place your pak's to: `~/RetroPie/roms/ports/openbor/`
 
+# Let the fun begin
+
+* Launch a game using the Openbor - Module Selection Script found in your Ports section of emulation station.  You may need to restart Emulation station before it shows up.
+
 
 ## This might not be needed, but something you can try if it won't load a game.
 
