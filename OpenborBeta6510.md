@@ -100,7 +100,7 @@ The %ROM% is needed to start PAK-files through dialog menu or via EmulationStati
 > You need to download the default.cfg file
 
 ```
-mkdir -p /opt/retropie/configs/ports/openbor/Saves && cd /opt/retropie/configs/ports/openbor/Saves && wget https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/openbor/default.cfg
+mkdir -p /opt/retropie/configs/ports/openbor/Saves && cd /opt/retropie/configs/ports/openbor/Saves && wget -O default.cfg https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/openbor/default.cfg 
 ```
 * Then use controllertools/controls Updater Menu to grab the latest update that adds proper controls for Openbor Beta.
 
