@@ -62,9 +62,8 @@ sudo mkdir -p /opt/retropie/ports/openbor-6xxx/lib/ && sudo cp ~/opengl/build/li
 
 
 # Still working on this part
-* The below is where I think I started to go wrong, and the part I can't figure out, this isn't right.
 
-add a line to /opt/retropie/configs/ports/openbor/emulators.cfg:
+add a line to end of emulators.cfg:
 
 `sudo nano /opt/retropie/configs/ports/openbor/emulators.cfg`
 
