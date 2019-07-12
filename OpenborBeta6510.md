@@ -96,7 +96,19 @@ The %ROM% is needed to start PAK-files through dialog menu or via EmulationStati
 
 
 ## Controls:
-Controls are Work in Progress.  It will use [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
+
+> You need to download the default.cfg file
+
+```
+cd /opt/retropie/configs/ports/openbor/Saves && wget https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/openbor/default.cfg
+```
+* Then use controllertools/controls Updater Menu to grab the latest update that adds proper controls for Openbor Beta.
+
+* For TNMNT Rescue Palooza, the controls will be mapped without any bindings needing to be set, via the default.cfg file you just installed.  For Other games, You need to ask the game to load default.cfg, or read the openbor beta thread at retropie forums about how to setup a script that will automatically copy default.cfg for each game.  Right now you can only play as Leo, but I'm sure we will figure out how to expand that soon.
+
+Controls use [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
+
+
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2455312278089084/)
