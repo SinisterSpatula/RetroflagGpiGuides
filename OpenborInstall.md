@@ -2,7 +2,7 @@
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
-# Openbor install guide
+# Openbor 3400 (older openbor) install guide
 
 # This is a work in progress, follow at your own risk :)
 
