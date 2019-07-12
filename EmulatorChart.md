@@ -32,7 +32,7 @@ SCUMMVM | libretro core? | Needs testing |
 Sega CD | lr-picodrive | |
 Sega Genesis | lr-picodrive | |
 SG-1000 | lr-genesis-plus-gx | |
-SNES | pisnes | The fastest snes emulator but suffers inaccuracy, no superfx, some games not compatible, setup controls in it's config file |
+SNES | pisnes | The fastest snes emulator but suffers inaccuracy, no superfx, some games not compatible, [setup controls in it's config file](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES) |
 SNES | lr-snes9x2002 | Some games have slight audio glitches, a few do not run full speed |
 Turbografx 16 | lr-beetle-pce-fast | |
 Turbografx CD | lr-beetle-pce-fast | |
