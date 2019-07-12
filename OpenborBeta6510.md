@@ -1,4 +1,4 @@
-# Openbor Beta 6510-dev work in progress guide
+# Openbor Beta 6510-dev guide
 
 ## follow at your own risk. (consider having a backup first)
 
@@ -30,27 +30,6 @@ wget https://github.com/crcerror/OpenBOR-Raspberry/archive/master.zip
 ```
 wget https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/4-Galina.diff
 ```
-## Galina isn't working for me, going to try these others:
-```
-wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/1-anna.diff
-```
-```
-wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/2-Boris.diff
-```
-```
-wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/3-Wassili.diff
-```
-```
-wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/4-Galina.diff
-```
-```
-wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/5-Dmitri.diff
-```
-```
-wget https://raw.githubusercontent.com/crcerror/OpenBOR-Raspberry/master/patch/latest_build.diff
-```
-  > 5-Dmitri.diff is the newest.
-  > Use https://github.com/DCurrent/openbor/archive/02375fbcd9c3848045dd7d11819542e83ae46cb1.zip as your master.zip for Dmitri.
 
 * apply patch
 `patch -p0 -i 4-Galina.diff`
@@ -82,7 +61,7 @@ sudo mkdir -p /opt/retropie/ports/openbor-6xxx/lib/ && sudo cp ~/opengl/build/li
 * place your pak's to: `~/RetroPie/roms/ports/openbor/`
 
 
-# Still working on this part
+# This might not be needed, but something you can try if it won't load a game.
 
 add a line to end of emulators.cfg:
 
