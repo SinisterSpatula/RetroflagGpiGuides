@@ -68,7 +68,7 @@ sudo mkdir -p /opt/retropie/ports/openbor-6xxx/lib/ && sudo cp ~/opengl/build/li
 
 # Let the fun begin
 
-* Launch a game using the Openbor - Module Selection Script found in your Ports section of emulation station.  You may need to restart Emulation station before it shows up.
+* Launch a game using the **Openbor - Module Selection Script** found in your Ports section of emulation station.  You may need to restart Emulation station before it shows up.
 
 
 ## This might not be needed, but something you can try if it won't load a game.
