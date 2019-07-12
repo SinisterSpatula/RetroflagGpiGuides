@@ -47,7 +47,7 @@ sudo cp ~/OpenBOR-Raspberry-master/OpenBOR /opt/retropie/ports/openbor-6xxx
 sudo cp ~/OpenBOR-Raspberry-master/OpenBOR.elf /opt/retropie/ports/openbor-6xxx
 ```
 
-# GL4gs - Open GL
+# GL4ES - Open GL
 
 * `cd ~`
 * `mkdir opengl`
