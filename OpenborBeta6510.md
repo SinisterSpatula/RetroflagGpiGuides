@@ -113,7 +113,7 @@ sudo cp /opt/retropie/configs/ports/openbor/Saves/default.cfg /opt/retropie/conf
 
 * Then use controllertools/controls Updater Menu to grab the latest update that adds proper controls for Openbor Beta.
 
-* For TNMNT Rescue Palooza, the controls will be mapped without any bindings needing to be set, via the default.cfg file you just installed.  For Other games, You need to ask the game to load default.cfg, or read the openbor beta thread at retropie forums about how to setup a script that will automatically copy default.cfg for each game.  Right now you can only play as Leo, but I'm sure we will figure out how to expand that soon.
+* For TNMNT Rescue Palooza, the controls will be mapped without any bindings needing to be set, via the default.cfg file you just installed.  For Other games, You need to ask the game to load default.cfg, or read the openbor beta thread at retropie forums about how to setup a script that will automatically copy default.cfg for each game.
 
 Controls use [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
 
