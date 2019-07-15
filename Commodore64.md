@@ -20,6 +20,7 @@ Go to RetroPie-Setup, Manage Packages, and install lr-VICE (not standalone).
 * Go back to Main Menu, then Quick Menu, then Resume.
 
 > Now when you hit start button you should get the Vice GUI to popup.
+  * You may need to change which controllers are "enabled" on the Vice GUI.  I'm also noticing a bug that sometimes the start and Y button aren't working to bring up Vice GUI, and it seems like you have to change it back to RetroPad and then back to Vice Joystick once again to get it working again.
 > Hitting Select button will toggle D-pad mouse movement.
 > Use A button as mouse left click.
 > Hit Y button to bring up the On-screen keyboard.
