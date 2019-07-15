@@ -9,6 +9,7 @@
   2. [Advanced Controller Framework install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
   3. [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
   4. [Controls Not Working after Reboot](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsBrokeAfterReboot)
+  5. [Commodore64 Setup Guide](https://sinisterspatula.github.io/SuperRetropieGuides/Commodore64)
   5. [Daphne M2V file conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion)
   6. [Emulator Compatibility Chart](https://sinisterspatula.github.io/SuperRetropieGuides/EmulatorChart)
   7. [File Checks on Every Bootup](https://sinisterspatula.github.io/SuperRetropieGuides/FileChecksEveryBoot)
