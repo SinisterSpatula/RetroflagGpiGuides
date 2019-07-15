@@ -2,33 +2,17 @@
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
-Source: [retropie.org.uk](https://retropie.org.uk/forum/post/162172)
+Source: [reddit.com](https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsxrearmed_corrupting_the_filesystem/etveksl/)
 
 # PCSX-Rearmed Crash fix
 
-> PCSX-Rearmed causes a crash for some (but not all) pi zero's.  You can use a patched version if you change your scriptmodule to use this version instead, and then Install from Source.
+> PCSX-Rearmed causes a crash for some (but not all) pi zero's.  You can manually set the video resolution to 320x240 to fix this.
 
-* The only thing you need to do is to update git repository line in RetroPie-Setup/scriptmodules/emulators/pcsx-rearmed.sh
+* Please try using the stock/standard PCSX-rearmed install, and apply the change as suggested in this reddit post:
 
-```
-sudo nano ~/RetroPie-Setup/scriptmodules/emulators/pcsx-rearmed.sh
-```
+https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsxrearmed_corrupting_the_filesystem/etveksl/
 
-* Change it from:
-
-```
-gitPullOrClone "$md_build" https://github.com/notaz/pcsx_rearmed.git
-```
-
-* Change it to:
-
-```
-gitPullOrClone "$md_build" https://github.com/timemaster5/pcsx_rearmed.git saio
-```
-
-* [Control+O] (to save) and [Control+X] (to exit)
-
-* Then run update pcsx-rearmed from source in retropie-setup script
+* You can get to the runcommand menu by spamming start or select, if you have trouble reaching it with the A button.
 
 ## Support Thread
 [Go Here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2457585517861760/)
