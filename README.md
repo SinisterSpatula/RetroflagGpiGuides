@@ -16,15 +16,16 @@
   8. [Openbor Install Guide](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborInstall)
   9. [NEW! Openbor Beta 6xxx](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborBeta6510)
   10. [My Controls are not Working!](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsNotWorking)
-  11. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
-  12. [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
-  13. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
-  14. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
-  15. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
-  16. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
-  17. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
-  18. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
-  19. Work in progress
+  11. [PCSX-Rearmed crash fix](https://sinisterspatula.github.io/SuperRetropieGuides/pcsxrearmed)
+  12. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
+  13. [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
+  14. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
+  15. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
+  16. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
+  17. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
+  18. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
+  19. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
+  20. Work in progress
   
 # Additional Resources
   
