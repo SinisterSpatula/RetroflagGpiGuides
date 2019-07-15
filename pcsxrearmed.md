@@ -6,7 +6,7 @@ Source: [reddit.com](https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsx
 
 # PCSX-Rearmed Crash fix
 
-> PCSX-Rearmed causes a crash for some (but not all) pi zero's.  You can manually set the video resolution to 320x240 to fix this.
+> PCSX-Rearmed causes a crash for some (but not all) pi zero's.  You can manually set the video resolution to 320x240 to fix this.  And maybe even possibly boost the performance some also, from having it be in a lower resolution.
 
 * Please try using the stock/standard PCSX-rearmed install, and apply the change as suggested in this reddit comment:
 
