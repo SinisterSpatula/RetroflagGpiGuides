@@ -104,11 +104,12 @@ sudo mkdir -p /opt/retropie/configs/ports/openbor/Saves && cd /opt/retropie/conf
 ```
 > For HE-MAN you need to copy default.cfg to HE-MAN.cfg
 
-> You can use this method for each and every game, just copy the default.cfg and call it whatever game-name.cfg or overwrite that games game-name.cfg with the one from defalt.cfg.  If you don't do this step, you will end up with controls that aren't exactly right (you will see two players on your screen and it might be taking a bunch of screenshots when you press a normal button.  This is because it didn't load the correct config file, or you did not make a config file for it from the default.cfg.
-
 ```
 sudo cp /opt/retropie/configs/ports/openbor/Saves/default.cfg /opt/retropie/configs/ports/openbor/Saves/HE-MAN.cfg
 ```
+
+> You can use this method for each and every game, just copy the default.cfg and call it whatever game-name.cfg or overwrite that games game-name.cfg with the one from defalt.cfg.  If you don't do this step, you will end up with controls that aren't exactly right (you will see two players on your screen and it might be taking a bunch of screenshots when you press a normal button.  This is because it didn't load the correct config file, or you did not make a config file for it from the default.cfg.
+
 
 * Then use controllertools/controls Updater Menu to grab the latest update that adds proper controls for Openbor Beta.
 
