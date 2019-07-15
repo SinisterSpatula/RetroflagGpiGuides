@@ -20,7 +20,7 @@ sudo nano ~/RetroPie-Setup/scriptmodules/emulators/pcsx-rearmed.sh
 gitPullOrClone "$md_build" https://github.com/notaz/pcsx_rearmed.git
 ```
 
-Change it to:
+* Change it to:
 
 ```
 gitPullOrClone "$md_build" https://github.com/timemaster5/pcsx_rearmed.git saio
