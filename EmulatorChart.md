@@ -14,6 +14,7 @@ Arcade (MAME) | lr-mame2000 | Speed and compatibility varies by game |
 Arcade (MAME) | advmame-0.94 | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  Speed and compatibility varies by game |
 Atari 7800 | lr-prosystem | |
 Atari Lynx | lr-handy | |
+Commodore64 | lr-VICE | Works well.  See the [C64 Setup Guide](https://sinisterspatula.github.io/SuperRetropieGuides/Commodore64) |
 Daphne | Daphne | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)  and [Videos need conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion) |
 Doom | lr-prboom | works great |
 Duke Nukem 3D | eduke32 | works great, Uses [Advanced Control Framework.](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework) |
