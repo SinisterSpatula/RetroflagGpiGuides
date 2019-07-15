@@ -31,7 +31,7 @@ gitPullOrClone "$md_build" https://github.com/timemaster5/pcsx_rearmed.git saio
 * Then run update pcsx-rearmed from source in retropie-setup script
 
 ## Support Thread
-No Support Thread for this topic, yet.
+[Go Here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2457585517861760/)
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
