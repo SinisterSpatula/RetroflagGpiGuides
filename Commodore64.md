@@ -28,7 +28,7 @@ Go to RetroPie-Setup, Manage Packages, and install lr-VICE (not standalone).
 > Press Y button to dismiss on-screen keyboard.
 
 ## Support Thread
-There is no support thread for this topic, yet.
+[Get help on this thread](https://www.facebook.com/groups/SuperRetroPie/permalink/2457228934564085/)
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
