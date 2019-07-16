@@ -14,7 +14,10 @@ https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsxrearmed_corrupting_th
 
 * You can get to the runcommand menu by spamming start or select, if you have trouble reaching it with the A button.
 
- > My appologies, if you followed this guide earlier and changed your git command, you should follow the below to change it back to the 
+
+
+
+> My appologies, if you followed this guide earlier and changed your git command, you should follow the below to change it back to the 
  default:
 
 ```
