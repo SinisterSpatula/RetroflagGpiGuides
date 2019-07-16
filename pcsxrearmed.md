@@ -13,11 +13,9 @@ Source: [reddit.com](https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsx
 https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsxrearmed_corrupting_the_filesystem/etveksl/
 
 * You can get to the runcommand menu by spamming start or select, if you have trouble reaching it with the A button.
-.
-.
-.
-.
-.
+
+------------------
+
 ## To Change your git command back to the original 
 
 > My appologies, if you followed this guide earlier and changed your git command, you should follow the below to change it back to the 
