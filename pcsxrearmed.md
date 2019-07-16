@@ -14,6 +14,30 @@ https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsxrearmed_corrupting_th
 
 * You can get to the runcommand menu by spamming start or select, if you have trouble reaching it with the A button.
 
+ > My appologies, if you followed this guide earlier and changed your git command, you should follow the below to change it back to the 
+ default:
+
+```
+sudo nano ~/RetroPie-Setup/scriptmodules/emulators/pcsx-rearmed.sh	
+```	
+
+
+ * Change it from:
+
+```
+gitPullOrClone "$md_build" https://github.com/timemaster5/pcsx_rearmed.git saio
+```	
+
+ * Change it back to:	
+
+```	
+gitPullOrClone "$md_build" https://github.com/notaz/pcsx_rearmed.git
+```	
+
+ * [Control+O] (to save) and [Control+X] (to exit)	
+
+ * Then run update pcsx-rearmed from source in retropie-setup script
+
 ## Support Thread
 [Go Here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2457585517861760/)
 
