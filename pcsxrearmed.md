@@ -16,7 +16,7 @@ https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsxrearmed_corrupting_th
 
 ------------------
 
-## To Change your git command back to the original 
+## To Change your PCSX-rearmed back to the original 
 
 > My appologies, if you followed this guide earlier and changed your git command, you should follow the below to change it back to the 
  default:
