@@ -26,7 +26,7 @@
 
 
 
-## Download
+## Downloads
  
  [PSX2PSP.zip](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/PSX2PSP.zip)
  
