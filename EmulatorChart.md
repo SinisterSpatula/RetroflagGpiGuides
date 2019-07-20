@@ -38,6 +38,7 @@ SNES | lr-snes9x2002 | Some games have slight audio glitches, a few do not run f
 Turbografx 16 | lr-beetle-pce-fast | |
 Turbografx CD | lr-beetle-pce-fast | |
 Vectrex | lr-vecx | |
+Wolfenstein3d | Custom Wolf4SDL core | See [this post for getting the custom Wolf4SDL installed](https://retropie.org.uk/forum/post/164923) so you can map your inputs within Wolf Interface |
 Zxspectrum | lr-fuse | works great |
 
 
