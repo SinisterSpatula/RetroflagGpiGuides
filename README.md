@@ -19,14 +19,15 @@
   11. [PCSX-Rearmed crash fix](https://sinisterspatula.github.io/SuperRetropieGuides/pcsxrearmed)
   12. [Play Station 1 Tools](https://sinisterspatula.github.io/SuperRetropieGuides/PSX_Tools)
   13. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
-  14. [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
-  15. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
-  16. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
-  17. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
-  18. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
-  19. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
-  20. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
-  21. Work in progress
+  14. [Prevent Patch Overwrite](https://sinisterspatula.github.io/SuperRetropieGuides/PreventingPatchesFromBeingOverwritten)
+  15. [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
+  16. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
+  17. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
+  18. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
+  19. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
+  20. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
+  21. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
+  22. Work in progress
   
 # Additional Resources
   
