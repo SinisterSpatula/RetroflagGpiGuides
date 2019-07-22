@@ -88,7 +88,7 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Then Go to Input this machine.
 
-* Set your controls how you like, I use: Lightpen: A button, Deal-spin-start: B button, Max Bet: Y Button.  Leave Bill in as select, but change coin in to an unused keyboard key (clear it with ESC then set it to backslash for example), Jackpot Reset: D-pad Up.
+* Set your controls how you like, I use: Lightpen: A button, Deal-spin-start: B button, Max Bet: Y Button.  Leave Bill in as select, but change coin in to an unused keyboard key (clear it with ESC then set it to backslash for example), Jackpot Reset: D-pad Down.
 
 ### Black Jack
 
