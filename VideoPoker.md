@@ -91,6 +91,8 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Hit Tab Key.
 
+* Go to Video Options.  Change view to cropped.
+
 * Go to sliders.  Lower the volume to zero for channel 1 & 2 (leave channel zero at default level).  This will reduce the buzzing sound.
 
 * Next on the tab menu go to Analog Controls.
@@ -107,6 +109,8 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Hit Tab Key.
 
+* Go to Video Options.  Change view to cropped.
+
 * Go to sliders.  Lower the volume to zero for channel 1 & 2 (leave channel zero at default level).  This will reduce the buzzing sound.
 
 * Then Go to Input this machine.
@@ -119,6 +123,8 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Hit Tab Key.
 
+* Go to Video Options.  Change view to cropped.
+
 * Go to sliders.  Lower the volume to zero for channel 1 & 2 (leave channel zero at default level).  This will reduce the buzzing sound.
 
 * Then Go to Input this machine.
@@ -130,6 +136,8 @@ lr-mame2016 is based on 0.174 so this works out fine.
 * Load up pexm001p.zip - Player's Edge Plus (XM00001P+XMP00003) Multi-Poker
 
 * Hit Tab Key.
+
+* Go to Video Options.  Change view to cropped.
 
 * Go to sliders.  Lower the volume to zero for channel 1 & 2 (leave channel zero at default level).  This will reduce the buzzing sound.
 
