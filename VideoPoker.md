@@ -129,7 +129,7 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2448328332120812/)
+[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2462551794031799/)
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
