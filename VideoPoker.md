@@ -4,6 +4,8 @@
 
 # Video Poker guide
 
+Thanks to: [newlifegames.com](http://newlifegames.com/nlg/index.php?board=48.0) 
+
 ### Video:
 [![https://i.ytimg.com/vi/WKzmRv05SrY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBnnhxibwGO-BUMQZCRF0ndG8p3Rg](http://img.youtube.com/vi/WKzmRv05SrY/0.jpg)](http://www.youtube.com/watch?v=WKzmRv05SrY "Players Edge Video Poker")
 
@@ -135,6 +137,9 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Set your controls how you like, I use: Hold1: D-pad Up, Hold2: D-pad Right, Hold3: Y, Hold4: X, Hold5: A, Max Bet: R, Deal-Spin-Start: B, Coin in: Kbd Backslash, Bill in: Select, Jackpot Reset: D-pad Down.
 
+
+## Additional Resources
+[newlifegames.com](http://newlifegames.com/nlg/index.php?board=48.0)
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2462551794031799/)
