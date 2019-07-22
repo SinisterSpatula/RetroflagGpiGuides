@@ -4,6 +4,7 @@
 
 # Video Poker guide
 
+### Video:
 [![https://i.ytimg.com/vi/WKzmRv05SrY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBnnhxibwGO-BUMQZCRF0ndG8p3Rg](http://img.youtube.com/vi/WKzmRv05SrY/0.jpg)](http://www.youtube.com/watch?v=WKzmRv05SrY "Players Edge Video Poker")
 
 ## Instructions
