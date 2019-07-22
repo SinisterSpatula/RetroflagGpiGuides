@@ -12,7 +12,7 @@
 
 * Copy the roms to mame roms directory (Find these somewhere).
 
-* Copy the nvram folders into the mame nvram directory. [Download](link)
+* Copy the [nvram folders](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/lr-Mame2016%20Poker%20NVRAM.zip) into the mame nvram directory.
 
 * Then setup your controls in retroarch or via bluetooth keyboard (tab key).
 
