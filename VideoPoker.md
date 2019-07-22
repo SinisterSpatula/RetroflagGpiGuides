@@ -51,7 +51,7 @@ peset001.zip | Player's Edge Plus (Set001) Set Chip | Not a game, but a "Set Chi
 peset038.zip | Player's Edge Plus (Set038) Set Chip | Not a game, but a "Set Chip"/configuration chip | 
 
 
-Use these set chips to enable bill validator (insert bills, instead of coins).  (I've already done this via nvram)
+Use these set chips to enable bill validator (insert bills, instead of coins).  (I've already done this via nvram)  pset038 is the one to use for almost all of them.  One or two machines might use pset001.
 
 
 ### Change Machine Settings
