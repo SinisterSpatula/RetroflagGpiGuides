@@ -29,8 +29,9 @@
   21. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
   22. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
   23. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
-  24. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
-  25. Work in progress
+  24. [Video Poker Guide](https://sinisterspatula.github.io/SuperRetropieGuides/VideoPoker)
+  25. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
+  26. Work in progress
   
 # Additional Resources
   
