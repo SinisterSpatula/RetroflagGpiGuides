@@ -38,14 +38,19 @@ peps0426.zip | Player's Edge Plus (PS0426) | Sizzling Sevens Slots |
 peps0615.zip | Player's Edge Plus (PS0615) | Chaos Slots |
 peps0716.zip | Player's Edge Plus (PS0716) | River Gambler Slots |
 
+
+
 ### "Set Chips" (configuration chips)
+
 
 File | Type | Notes |
 ------------|----------------|---------------
 peset001.zip | Player's Edge Plus (Set001) Set Chip | Not a game, but a "Set Chip"/configuration chip |
 peset038.zip | Player's Edge Plus (Set038) Set Chip | Not a game, but a "Set Chip"/configuration chip | 
 
+
 Use these set chips to enable bill validator (insert bills, instead of coins).  (I've already done this via nvram)
+
 
 ### Change Machine Settings
 
