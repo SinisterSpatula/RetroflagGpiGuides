@@ -25,7 +25,7 @@
 
 * Then setup your controls in retroarch or via bluetooth keyboard (tab key).
 
-* See the bluetooth keyboard setup instructions.
+  > See the bluetooth keyboard setup instructions.
 
 ## Games (Find these somewhere):
 
