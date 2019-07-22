@@ -129,7 +129,7 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Then Go to Input this machine.
 
-* Set your controls how you like, I use: Deal-spin: B, Max Bet: Y, Coin in: Kbd Backslash, Bill in: Select, Jackpot Reset: D-pad Down.
+* Set your controls how you like, I use: Deal-spin: B, Max Bet: Y, Coin in: Kbd Backslash, Bill in: Select, Play Credit: A, Jackpot Reset: D-pad Down.
 
 ### Poker
 
