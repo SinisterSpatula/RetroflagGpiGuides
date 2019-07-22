@@ -37,6 +37,7 @@ peps0296.zip | Player's Edge Plus (PS0296) | Haywire Slots |
 peps0426.zip | Player's Edge Plus (PS0426) | Sizzling Sevens Slots |
 peps0615.zip | Player's Edge Plus (PS0615) | Chaos Slots |
 peps0716.zip | Player's Edge Plus (PS0716) | River Gambler Slots |.
+
 --------------------------------
 
 
