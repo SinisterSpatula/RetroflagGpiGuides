@@ -19,9 +19,9 @@
   
 * Copy the [nvram folders](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/lr-Mame2016%20Poker%20NVRAM.zip) into the mame nvram directory.
 
-```shell
-/home/pi/RetroPie/roms/mame-libretro/mame2016/nvram
-```
+  ```shell
+  /home/pi/RetroPie/roms/mame-libretro/mame2016/nvram
+  ```
 
 * Then setup your controls in retroarch or via bluetooth keyboard (tab key).
 
