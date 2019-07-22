@@ -21,14 +21,15 @@
   13. [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
   14. [Prevent Patch Overwrite](https://sinisterspatula.github.io/SuperRetropieGuides/PreventingPatchesFromBeingOverwritten)
   15. [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
-  16. [Safe Shutdown Install](https://sinisterspatula.github.io/SuperRetropieGuides/SafeShutdown)
-  17. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
-  18. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
-  19. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
-  20. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
-  21. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
-  22. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
-  23. Work in progress
+  16. [Retroarch Cheats Setup](https://sinisterspatula.github.io/SuperRetropieGuides/RetroarchCheatsSetup)
+  17. [Safe Shutdown Install](https://sinisterspatula.github.io/SuperRetropieGuides/SafeShutdown)
+  18. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
+  19. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
+  20. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
+  21. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
+  22. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
+  23. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
+  24. Work in progress
   
 # Additional Resources
   
