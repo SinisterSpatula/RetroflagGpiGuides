@@ -4,6 +4,7 @@
 
 # Retroarch Cheats setup guide
 
+Thanks to: Rob Herron
 
 * Start a game
 
