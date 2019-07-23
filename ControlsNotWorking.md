@@ -4,7 +4,7 @@
 
 # My controls are not working
 
-## Reset Emulation Station Controller iputs
+## Reset Emulation Station Controller inputs
 
   * [Establish an SSH connection](https://github.com/retropie/retropie-setup/wiki/ssh)
 
