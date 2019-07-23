@@ -27,7 +27,7 @@
 
 ## Are you on the newest controller framework?
 
-  > If you are unsure if your controller framework is on the newest one, the easiest thing to do is to just install it again using these these steps.  After performing these steps, you can be sure that you have the newest framework and it is working properly.
+  > If you are unsure if your controller framework is on the newest one, the easiest thing to do is to just install it again using these steps.  After performing this, you can be sure that you have the newest framework and it is working properly.
  
  * [Connect to your GPi using SSH.](https://www.youtube.com/watch?v=aEJoQZBSlSs)
  
