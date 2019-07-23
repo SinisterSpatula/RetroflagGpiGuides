@@ -35,8 +35,8 @@ Sega Genesis | lr-picodrive | |
 SG-1000 | lr-genesis-plus-gx | |
 SNES | pisnes | The fastest snes emulator but suffers inaccuracy, no superfx, some games not compatible, [setup controls in it's config file](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES) |
 SNES | lr-snes9x2002 | Some games have slight audio glitches, a few do not run full speed |
-Turbografx 16 | lr-beetle-pce-fast | |
-Turbografx CD | lr-beetle-pce-fast | |
+Turbografx 16 | lr-beetle-pce-fast | Runs great |
+Turbografx CD | lr-beetle-pce-fast | Runs great. Needs syscard3.pce BIOS file |
 Vectrex | lr-vecx | |
 Wolfenstein3d | Custom Wolf4SDL core | See [this post for getting the custom Wolf4SDL installed](https://retropie.org.uk/forum/post/164923) so you can map your inputs within Wolf Interface |
 Zxspectrum | lr-fuse | works great |
