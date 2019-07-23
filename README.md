@@ -39,3 +39,7 @@
   2. [Howchoo Beginners Guide](https://howchoo.com/g/ndc3njbhytv/retroflag-gpi-setup)  
 
 ## Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+
+### We can't wait to hear from you at:
+
+[![Youtube](https://sinisterspatula.github.io/SuperRetropieGuides/images/Youtube.png)](https://www.youtube.com/channel/UCGsVpomqorKCUw2VScy4UQA) [![Twitter](https://sinisterspatula.github.io/SuperRetropieGuides/images/Twitter.png)](https://www.twitter.com/superretropie) [![Facebook](https://sinisterspatula.github.io/SuperRetropieGuides/images/FBlogo.png)](https://www.facebook.com/groups/SuperRetroPie) [![Instagram](https://sinisterspatula.github.io/SuperRetropieGuides/images/Instagram.png)](https://www.instagram.com/super_retropie) [![Reddit](https://sinisterspatula.github.io/SuperRetropieGuides/images/Reddit.png)](https://www.reddit.com/r/Super_Retropie)
