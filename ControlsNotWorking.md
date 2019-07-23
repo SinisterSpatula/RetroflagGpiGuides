@@ -4,6 +4,17 @@
 
 # My controls are not working
 
+## Reset Emulation Station Controller iputs
+
+  * [Establish an SSH connection](https://github.com/retropie/retropie-setup/wiki/ssh)
+
+  * run `sudo ~/RetroPie-Setup/retropie_setup.sh` 
+  
+  * Go to Emulation Station configuration via
+
+      * Manage Packages -> Core Packages -> emulationstation -> Configuration or Configuration / Tools -> emulationstation and choose the option to Clear/Reset Emulation Station input configuration
+
+
 ## Is Xboxdrv installed?
   
   * First, let's check that xboxdrv is installed.
