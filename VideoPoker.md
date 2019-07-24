@@ -101,7 +101,7 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Then Go to Input this machine.
 
-* Set your controls how you like, I use: Lightpen: A button, Deal-spin-start: B button, Max Bet: Y Button.  Leave Bill in as select, but change coin in to an unused keyboard key (clear it with ESC then set it to backslash for example), Jackpot Reset: D-pad Down.
+* Set your controls how you like, I use: Lightpen: A button, Deal-spin-start: B button, Max Bet: Y Button.  Set Bill in as (joy1) select, but change coin in to an unused keyboard key (clear it with ESC then set it to backslash for example), Jackpot Reset: D-pad Down, Play Credit: Start.
 
 ### Black Jack
 
@@ -115,7 +115,7 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Then Go to Input this machine.
 
-* Set your controls how you like, I use: Surrender: R, Insurance: L, Stand: A, Doubledown: X, Deal-spin: B, Max Bet: Y, Coin in: Kbd Backslash, Bill in: Select, Split: Start, Jackpot Reset: D-pad Down.
+* Set your controls how you like, I use: Surrender: R, Insurance: L, Stand: A, Doubledown: X, Deal-spin: B, Max Bet: Y, Coin in: Kbd Backslash, Bill in: Select, Split: Start, Jackpot Reset: D-pad Down, Play Credit: Start.
 
 ### Slots
 
@@ -129,7 +129,7 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Then Go to Input this machine.
 
-* Set your controls how you like, I use: Deal-spin: B, Max Bet: Y, Coin in: Kbd Backslash, Bill in: Select, Play Credit: A, Jackpot Reset: D-pad Down.
+* Set your controls how you like, I use: Deal-spin: B, Max Bet: Y, Coin in: Kbd Backslash, Bill in: Select, Play Credit: A, Jackpot Reset: D-pad Down, Play Credit: Start.
 
 ### Poker
 
@@ -143,7 +143,7 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 * Then Go to Input this machine.
 
-* Set your controls how you like, I use: Hold1: D-pad Up, Hold2: D-pad Right, Hold3: Y, Hold4: X, Hold5: A, Max Bet: R, Deal-Spin-Start: B, Coin in: Kbd Backslash, Bill in: Select, Jackpot Reset: D-pad Down.
+* Set your controls how you like, I use: Hold1: D-pad Up, Hold2: D-pad Right, Hold3: Y, Hold4: X, Hold5: A, Max Bet: R, Deal-Spin-Start: B, Coin in: Kbd Backslash, Bill in: Select, Jackpot Reset: D-pad Down, Play Credit: Start.
 
 
 ## Additional Resources
