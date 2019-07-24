@@ -19,15 +19,17 @@ Thanks to: [newlifegames.com](http://newlifegames.com/nlg/index.php?board=48.0)
   /home/pi/RetroPie/roms/mame-libretro
   ```
   
-* Copy the [nvram folders](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/lr-Mame2016%20Poker%20NVRAM.zip) into the mame nvram directory.
+* Copy the [nvram folders](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/lr-Mame2016%20Poker%20NVRAM.zip) into the mame nvram directory. (this will pre-configure the machines.)
 
   ```shell
   /home/pi/RetroPie/roms/mame-libretro/mame2016/nvram
   ```
 
-* Then setup your controls in retroarch or via bluetooth keyboard (tab key).
+* Copy the cfg files from the zip into the mame cfg directory. (this will preconfigure the button inputs, video cropping, and audio levels)
 
-  > See the bluetooth keyboard setup instructions.
+  ```shell
+  /home/pi/RetroPie/roms/mame-libretro/mame2016/cfg
+  ```
 
 ## Games (Find these somewhere):
 
