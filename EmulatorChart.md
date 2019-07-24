@@ -30,7 +30,7 @@ Neo Geo | pifba | Uses [Advanced Control Framework.](https://sinisterspatula.git
 NES | lr-nestopia | |
 PS1 | pcsx-rearmed | Uses [Advanced Control Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework), many games run great. Also see [PCSX-Rearmed crash fix](https://sinisterspatula.github.io/SuperRetropieGuides/pcsxrearmed) |
 SCUMMVM | lr-scummvm | Works great.  See [Scummvm Information](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm) |
-Sega CD | lr-picodrive | |
+Sega CD | lr-picodrive | Works great.  May need to update it for best results. |
 Sega Genesis | lr-picodrive | |
 SG-1000 | lr-genesis-plus-gx | |
 SNES | pisnes | The fastest snes emulator but suffers inaccuracy, no superfx, some games not compatible, [setup controls in it's config file](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES) |
