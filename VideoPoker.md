@@ -85,7 +85,7 @@ Press O to open the door, press K (self test), Press O to close the door.  Press
 lr-mame2016 is based on 0.174 so this works out fine.
 
 
-## Bluetooth Keyboard Setup Instructions
+## Bluetooth Keyboard Setup Instructions (already done via cfg files)
 
 ### Keno
 
