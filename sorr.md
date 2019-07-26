@@ -25,6 +25,11 @@ sudo ./retropie_setup.sh
 * Navigate to Manage Packages, Experimental, Sorr.
 * Install from Source.
 
+## Add the game data files
+
+> Use your favorite search engine to locate and download sorr.zip perhaps the term `sorr.zip` or `Streets of Rage Remake` may help in your quest.  Look for v5.1, and you can use either the windows or linux/debian version it does not matter which.  Once you have the files, you will extract them and upload them to your Gpi to the following location: `/opt/retropie/ports/sorr` you should have a /mod folder, a /palettes folder, a bgdi-330 file, and SorR.dat file in this location in order for the game to work.
+
+
 
 ## Savegame.sor (*required!*)
 > The save game file will help you get it running properly by setting the correct controls and video mode.
@@ -41,10 +46,6 @@ mkdir -p /opt/retropie/configs/ports/sorr/ && wget -O /opt/retropie/configs/port
 ```shell
 mkdir -p /opt/retropie/configs/ports/sorr/ && wget -O /opt/retropie/configs/ports/sorr/savegame.sor https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/sorr/savegame_unlocked.sor
 ```
-
-## Add the game data files
-
-> Use your favorite search engine to locate and download sorr.zip perhaps the term `sorr.zip` or `Streets of Rage Remake` may help in your quest.  Look for v5.1, and you can use either the windows or linux/debian version it does not matter which.  Once you have the files, you will extract them and upload them to your Gpi to the following location: `/opt/retropie/ports/sorr` you should have a /mod folder, a /palettes folder, a bgdi-330 file, and SorR.dat file in this location in order for the game to work.
 
 
 ## Controls:
