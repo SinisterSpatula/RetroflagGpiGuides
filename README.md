@@ -25,7 +25,7 @@
   17. [Retroarch Cheats Setup](https://sinisterspatula.github.io/SuperRetropieGuides/RetroarchCheatsSetup)
   18. [Safe Shutdown Install](https://sinisterspatula.github.io/SuperRetropieGuides/SafeShutdown)
   19. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
-  20. [NEW! Streets Of Rage Remix](https://sinisterspatula.github.io/SuperRetropieGuides/sorr)
+  20. [NEW! Streets Of Rage Remake](https://sinisterspatula.github.io/SuperRetropieGuides/sorr)
   21. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
   22. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
   23. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
