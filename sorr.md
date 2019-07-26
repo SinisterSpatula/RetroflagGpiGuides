@@ -2,6 +2,8 @@
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
+Shoutout and big ups to: Kev
+
 # SORR - Streets of Rage Remake Guide
 
 * [Connect to your GPi using SSH.](https://www.youtube.com/watch?v=aEJoQZBSlSs)
@@ -51,7 +53,7 @@ Or if you have already migrated, then just go to Controllertools then Control_Up
 Also, make sure you installed one of the savegames from above.
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2448328332120812/)
+[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2465577723729206/)
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
