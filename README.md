@@ -14,8 +14,8 @@
   6. [Disable Wait for Network](https://sinisterspatula.github.io/SuperRetropieGuides/DisableWaitForNetwork)
   7. [Emulator Compatibility Chart](https://sinisterspatula.github.io/SuperRetropieGuides/EmulatorChart)
   8. [File Checks on Every Bootup](https://sinisterspatula.github.io/SuperRetropieGuides/FileChecksEveryBoot)
-  9. [Openbor Install Guide](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborInstall)
-  10. [NEW! Openbor Beta 6xxx](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborBeta6510)
+  9. [Openbor 3400 Install Guide older](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborInstall)
+  10. [Openbor Beta 6xxx Newest](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborBeta6510)
   11. [My Controls are not Working!](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsNotWorking)
   12. [PCSX-Rearmed crash fix](https://sinisterspatula.github.io/SuperRetropieGuides/pcsxrearmed)
   13. [Play Station 1 Tools](https://sinisterspatula.github.io/SuperRetropieGuides/PSX_Tools)
@@ -25,13 +25,14 @@
   17. [Retroarch Cheats Setup](https://sinisterspatula.github.io/SuperRetropieGuides/RetroarchCheatsSetup)
   18. [Safe Shutdown Install](https://sinisterspatula.github.io/SuperRetropieGuides/SafeShutdown)
   19. [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
-  20. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
-  21. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
-  22. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
-  23. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
-  24. [Video Poker Guide](https://sinisterspatula.github.io/SuperRetropieGuides/VideoPoker)
-  25. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
-  26. Work in progress
+  20. [NEW! Streets Of Rage Remix](https://sinisterspatula.github.io/SuperRetropieGuides/sorr)
+  21. [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
+  22. [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
+  23. [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
+  24. [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
+  25. [Video Poker Guide](https://sinisterspatula.github.io/SuperRetropieGuides/VideoPoker)
+  26. [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
+  27. Work in progress
   
 # Additional Resources
   
