@@ -52,6 +52,9 @@ First, make sure you have migrated to the new controller framework by [following
 Or if you have already migrated, then just go to Controllertools then Control_Updater_Menu, then do option 1 (update controls).
 Also, make sure you installed one of the savegames from above.
 
+## Launch the game:
+You should have a Streets of Rage Remake listed in your ports section of emulation station now.  Launch this to play.  If you don't see this, you may need to retstart emulationstation, and also make sure "Parse gamelists only" is turned off in your emulationstation settings.
+
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2465577723729206/)
 
