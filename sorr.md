@@ -28,7 +28,7 @@ sudo ./retropie_setup.sh
 
 ## Add the game data files
 
-> Use your favorite search engine to locate and download sorr.zip perhaps the term `sorr.zip` or `Streets of Rage Remake` may help in your quest.  Look for v5.1, and you can use either the windows or linux/debian version it does not matter which.  Once you have the files, you will extract them and upload them to your Gpi to the following location: `/opt/retropie/ports/sorr` you should have a /mod folder, a /palettes folder, and SorR.dat file in this location in order for the game to work.  (the bgdi-330 file, get placed here during the scriptmodule install, automatically).
+> Use your favorite search engine to locate and download sorr.zip perhaps the term `sorr.zip` or `Streets of Rage Remake` may help in your quest.  Look for v5.1, and you can use either the windows or linux/debian version it does not matter which.  Once you have the files, you will extract them and upload them to your Gpi to the following location: `/opt/retropie/ports/sorr` you should have a /mod folder, a /palettes folder, and SorR.dat file in this location in order for the game to work.  (the bgdi-330 file, get's placed here during the scriptmodule install, automatically).
 
 
 
