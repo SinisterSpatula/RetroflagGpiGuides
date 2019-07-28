@@ -46,7 +46,7 @@ The Gpi has a hidden option to change the D-PAD mode. To switch to direct input 
 
 ## Future updates
 
-You can get future updates just by doing Option 1 (Update Controls) and Update this menu.
+You can get future updates just by doing Option 1 (Update Controls) and option 3 (Update this menu).
 
   ![ControlsUpdateMenuImg](https://sinisterspatula.github.io/SuperRetropieGuides/images/ControlsUpdateMenuImg.PNG)  
 
