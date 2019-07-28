@@ -28,6 +28,8 @@ IF YOUR D-PAD STOPS WORKING: The Gpi has a hidden option to change the D-PAD mod
 switch to hat mode (default) press SELECT+DPAD UP for 5 seconds. To switch to joystick/axis
 mode, press SELECT+DPAD LEFT for 5 seconds. You will know it worked when the LED flashes.  The newest versions of the updater menu and scripts now support both D-pad modes, so it won't matter anymore, which mode you have your D-pad set.
 
+* If you have suggestions for improving the control maps, please [add your comments or questions here.](https://github.com/SinisterSpatula/Gpi2/issues/2)
+
 ## See also
 
 [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
