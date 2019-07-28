@@ -22,40 +22,24 @@ command prompt.
 
 * Exit the setup menu.
 
-* pi@retropie:~ $  sudo reboot [enter] and wait for it to reboot.
-* Then reconnect to the SSH session again.
-
-* First, modify your `runcommand-onstart.sh` to include the xboxdrv command (and remove any previous controller mappings, they are no longer being housed in this script and they have a new home in xboxdrvstart.sh):
-
-`sudo nano /opt/retropie/configs/all/runcommand-onstart.sh`
-
-```
-#!/bin/sh
-
-source /opt/retropie/configs/all/xboxdrvstart.sh > /dev/null 2>&1
-sudo pkill -STOP mpg123 > /dev/null 2>&1
-```
-
-* And then please also modify `runcommand-onend.sh` to include the xboxdrv command:
-
-`sudo nano /opt/retropie/configs/all/runcommand-onend.sh`
-
-```
-#!/bin/sh
-
-source /opt/retropie/configs/all/xboxdrvend.sh > /dev/null 2>&1
-sudo pkill -CONT mpg123 > /dev/null 2>&1
-```
-
-* Make them executable with: `sudo chmod +x *.sh`
-
-## Install the controls_updater_menu
+## Install the Controls Updater Menu
 
 ```shell
-sudo mkdir -p ~/RetroPie/retropiemenu/Controllertools && cd && cd ~/RetroPie/retropiemenu/Controllertools && sudo wget -O control_updater_menu.sh https://raw.githubusercontent.com/SinisterSpatula/Gpi2/master/control_updater_menu.sh && sudo chmod 775 control_updater_menu.sh
+cd && cd RetroPie/retropiemenu && wget -O control_updater_menu.sh  https://raw.githubusercontent.com/SinisterSpatula/Gpi/master/control_updater_menu.sh && sudo chmod 775 control_updater_menu.sh
 ```
 
-## Switch the D-pad mode of the Gpi case (if you desire):
+## Then run this command
+
+```shell
+ sudo /home/pi/RetroPie/retropiemenu/control_updater_menu.sh
+```
+## choose Update Controls Framework, then exit.
+
+## Retart Emulationstation
+
+### Done.
+
+### Switch the D-pad mode of the Gpi case (if you desire, you don't need to change it, this is just informational):
 
 The Gpi has a hidden option to change the D-PAD mode. To switch to direct input mode, press SELECT+DPAD LEFT for 5 seconds. You will know it worked when the LED flashes. If you need to revert back to facotry D-pad mode: To switch to hat mode (factory) press SELECT+DPAD UP for 5 seconds.  It does not matter which mode your d-pad is in for these mappings, they now work with both modes!
 
@@ -72,13 +56,6 @@ If you have previously setup your key bindings in one of the standalone cores, i
 
 * If you have suggestions for improving these control maps, please add your comments or questions.
 
-## Updating your Controls_Updater_Menu itself
-
-  > Newer versions of the Controls_Updater_Menu will have a self-update function, and have additional enhancements like saftey checks before updating (making sure there is wifi connection before deleting the old versions and grabbing new versions).
-
-* It's best to remove your runcommand-onstart.sh and runcommand-onend.sh and start them fresh just like the above instructions. Don't forget to make them executable with `sudo chmod a+x *.sh`
-
-* delete the old controls_update_menu.sh, it will be replaced by a new one, and inside of a new directory.  Once you've cleaned house on your runcommand-onstart.sh and runcommand-onend.sh and removed the old controls_updater_menu.sh, just follow the above install instructions.
 
 
 ## Developers
