@@ -43,11 +43,9 @@ cd && cd RetroPie/retropiemenu && wget -O control_updater_menu.sh  https://raw.g
 
 The Gpi has a hidden option to change the D-PAD mode. To switch to direct input mode, press SELECT+DPAD LEFT for 5 seconds. You will know it worked when the LED flashes. If you need to revert back to facotry D-pad mode: To switch to hat mode (factory) press SELECT+DPAD UP for 5 seconds.  It does not matter which mode your d-pad is in for these mappings, they now work with both modes!
 
-## Finish Up install
+## Future updates
 
-Launch the Controllertools/Controls_Updater_menu and pick option 1.  This will install the rest of the files and get the latest controller mappings.
-  > If you are having trouble finding the Controllertools/Controls_Updater_Menu in your menu, make sure you press start and go to “Other Settings” and make sure “Parse Gamelists Only” is set to OFF. (and restart emulation station, so it will parse and show it).
-
+You can get future updates just by doing Option 1 (Update Controls) and Update this menu.
 
   ![ControlsUpdateMenuImg](https://sinisterspatula.github.io/SuperRetropieGuides/images/ControlsUpdateMenuImg.PNG)  
 
