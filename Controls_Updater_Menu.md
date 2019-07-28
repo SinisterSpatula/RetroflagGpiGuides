@@ -28,14 +28,15 @@ command prompt.
 cd && cd RetroPie/retropiemenu && wget -O control_updater_menu.sh  https://raw.githubusercontent.com/SinisterSpatula/Gpi/master/control_updater_menu.sh && sudo chmod 775 control_updater_menu.sh
 ```
 
-## Then run this command
+* Then run this command
 
 ```shell
  sudo /home/pi/RetroPie/retropiemenu/control_updater_menu.sh
 ```
-## choose Update Controls Framework, then exit.
 
-## Retart Emulationstation
+* choose Update Controls Framework, then exit.
+
+* Retart Emulationstation
 
 ### Done.
 
