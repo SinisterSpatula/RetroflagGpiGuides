@@ -23,7 +23,7 @@ sudo ./retropie_setup.sh
 ```
 
 * Navigate to Manage Packages, Experimental, Sorr.
-* Install from Source.
+* Install from Source. (don't worry this one only takes a moment)
 * Fix permissions `sudo chmod 777 /opt/retropie/ports/sorr`
 
 ## Add the game data files
