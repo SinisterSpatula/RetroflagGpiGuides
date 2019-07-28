@@ -2,6 +2,11 @@
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
+# Community Game Charts: Vote and view games
+
+[![https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/images/RomCompatibility.jpg](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/images/RomCompatibility.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNWE4YWRkMGItMmE0NC00OTM2LWFjZmUtNWExZmRkYjQxN2QwIiwidCI6Ijg0Y2FhMThkLWI3Y2UtNDE5Yy04YjI2LWMyNmZiYzkzYjA3NiIsImMiOjh9&fbclid=IwAR3kBlKVDhaiDe1RCuX9tmJKIHaKscrK-1c5pNZIbgBcpsON0QPQTXQibRs "Community Game Charts")
+
+
 # Emulator Compatibility Chart
 
 
