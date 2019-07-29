@@ -53,6 +53,7 @@ cd build
 cmake -G "Unix Makefiles" -DTARGET=sdl2gles_rpi ../cmake
 make
 sudo cp cannonball /opt/retropie/ports/cannonball/
+cd ~
 sudo rm -r ~/cannonball/
 ```
 
