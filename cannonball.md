@@ -25,7 +25,7 @@ sudo ./retropie_setup.sh
 
 ## Add the game data files
 
-> Use your favorite search engine to locate and download outrun.zip perhaps the term `outrun.zip` or `Out Run (sitdown/upright, Rev B)` may help in your quest.  Refer to the file /home/pi/RetroPie/roms/ports/cannonball/roms.txt to see exactly what files you need. Once you have the files, you will extract them and upload them to your Gpi to the following location: `/home/pi/RetroPie/roms/ports/cannonball` you should have a bunch of epr-, opr-, and -mpr files in this location in order for the game to work.  If you can't copy the files, make sure you didn't skip the fix permissions step from above.
+> Use your favorite search engine to locate and download outrun.zip perhaps the term `outrun.zip` or `Out Run (sitdown/upright, Rev B)` may help in your quest.  Refer to the file /home/pi/RetroPie/roms/ports/cannonball/roms.txt to see exactly what files you need. Once you have the files, you will extract them and upload them to your Gpi to the following location: `/home/pi/RetroPie/roms/ports/cannonball` you should have a bunch of epr-, opr-, and mpr- files in this location in order for the game to work.  If you can't copy the files, make sure you didn't skip the fix permissions step from above.
 
 
 ## config.xml and config.xml.def (*required!*)
