@@ -32,11 +32,11 @@ sudo ./retropie_setup.sh
 > The config files are required to setup the controls and video mode for cannonball.  Run the commands to download and install them:
 
 ```shell
-mkdir -p /opt/retropie/configs/ports/cannonball/ && wget -O /opt/retropie/configs/ports/cannonball/config.xml https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/cannonball/config.xml
+sudo mkdir -p /opt/retropie/configs/ports/cannonball/ && sudo wget -O /opt/retropie/configs/ports/cannonball/config.xml https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/cannonball/config.xml
 ```
 
 ```shell
-mkdir -p /opt/retropie/ports/cannonball/ && wget -O /opt/retropie/ports/cannonball/config.xml.def https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/cannonball/config.xml.def
+sudo mkdir -p /opt/retropie/ports/cannonball/ && sudo wget -O /opt/retropie/ports/cannonball/config.xml.def https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/cannonball/config.xml.def
 ```
 
 ## Now we build a replacement executable file for cannonball and copy it over to it's proper location.
