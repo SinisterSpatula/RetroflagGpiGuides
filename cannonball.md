@@ -20,6 +20,7 @@ sudo ./retropie_setup.sh
 
 * Navigate to Manage Packages, Optional, Cannonball.
 * Install from Binary. (don't worry this one only takes a moment)
+* Exit out of Setup and back to the command line.
 * Fix permissions `sudo chmod 777 /home/pi/RetroPie/roms/ports/cannonball/`
 
 ## Add the game data files
