@@ -150,6 +150,7 @@ lr-mame2016 is based on 0.174 so this works out fine.
 
 ## Additional Resources
 [newlifegames.com](http://newlifegames.com/nlg/index.php?board=48.0)
+[Poker logo for your ES Theme](https://github.com/SinisterSpatula/SuperRetropieGuides/blob/master/images/vectors/poker.png)
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2462551794031799/)
