@@ -10,17 +10,17 @@
 
 * [Advanced Controller Framework install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
 
-[Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
+  [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
-[Controls Not Working after Reboot](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsBrokeAfterReboot)
+  [Controls Not Working after Reboot](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsBrokeAfterReboot)
 
-[Commodore64 Setup Guide](https://sinisterspatula.github.io/SuperRetropieGuides/Commodore64)
+  [Commodore64 Setup Guide](https://sinisterspatula.github.io/SuperRetropieGuides/Commodore64)
 
-[Daphne M2V file conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion)
+  [Daphne M2V file conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion)
 
 * [Disable Wait for Network](https://sinisterspatula.github.io/SuperRetropieGuides/DisableWaitForNetwork)
 
-[Emulator Compatibility Chart](https://sinisterspatula.github.io/SuperRetropieGuides/EmulatorChart)
+  [Emulator Compatibility Chart](https://sinisterspatula.github.io/SuperRetropieGuides/EmulatorChart)
 
 * [File Checks on Every Bootup](https://sinisterspatula.github.io/SuperRetropieGuides/FileChecksEveryBoot)
 
@@ -30,21 +30,21 @@
 
 * [Openbor Beta 6xxx Newest](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborBeta6510)
 
-[My Controls are not Working!](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsNotWorking)
+  [My Controls are not Working!](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsNotWorking)
 
-[Play Station 1 Tools](https://sinisterspatula.github.io/SuperRetropieGuides/PSX_Tools)
+  [Play Station 1 Tools](https://sinisterspatula.github.io/SuperRetropieGuides/PSX_Tools)
 
 * [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
 
-[Prevent Patch Overwrite](https://sinisterspatula.github.io/SuperRetropieGuides/PreventingPatchesFromBeingOverwritten)
+  [Prevent Patch Overwrite](https://sinisterspatula.github.io/SuperRetropieGuides/PreventingPatchesFromBeingOverwritten)
 
-[RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
+  [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
 
-[Retroarch Cheats Setup](https://sinisterspatula.github.io/SuperRetropieGuides/RetroarchCheatsSetup)
+  [Retroarch Cheats Setup](https://sinisterspatula.github.io/SuperRetropieGuides/RetroarchCheatsSetup)
 
 * [Safe Shutdown Install](https://sinisterspatula.github.io/SuperRetropieGuides/SafeShutdown)
 
-[Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
+  [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
 
 * [NEW! Streets Of Rage Remake](https://sinisterspatula.github.io/SuperRetropieGuides/sorr)
 
@@ -52,15 +52,14 @@
 
 * [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
 
-[Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
+  [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
 
 * [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
 
-[Video Poker Guide](https://sinisterspatula.github.io/SuperRetropieGuides/VideoPoker)
+  [Video Poker Guide](https://sinisterspatula.github.io/SuperRetropieGuides/VideoPoker)
 
 * [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
 
-27. Work in progress
 
 
 # Additional Resources
