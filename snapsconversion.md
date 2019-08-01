@@ -18,9 +18,9 @@
   
   > You will need to replace `UserName` with your real username, and create the Axiom UI and presets folders.  place it in: `C:\Users\UserName\AppData\Local\Axiom UI\presets`
   
-* Launch axiom, set your Input directory to the location containing your input movie files, and your output directory to the location where you want to store the converted movies.
+* Launch axiom, set your Input directory to the location containing your input movie files, and your output directory to the location where you want to store the converted movies.  You should copy your scraped movies from your Gpi to your PC to use them as the input movie files. (Example path: `/home/pi/RetroPie/roms/mame-libretro/media/videos`)
 
-* Once you have a batch of files ready, click the batch button on the Axiom GUI, then click the Convert button.  After a short while, your converted movies are ready in the output folder.  Please these in your movies folder on your Gpi, for the emulator core they are intended for.  Delete the old movies and copy over the new ones.  (Example path: `/home/pi/RetroPie/roms/mame-libretro/media/videos`)
+* Once you have a batch of files ready, click the batch button on the Axiom GUI, then click the Convert button.  After a short while, your converted movies are ready in the output folder.  Place these in your movies folder on your Gpi, for the emulator core they are intended for.  Delete the old movies and copy over the new ones.  (Example path: `/home/pi/RetroPie/roms/mame-libretro/media/videos`)
 
 ## Videos Play Choppy or Stuttering
 
