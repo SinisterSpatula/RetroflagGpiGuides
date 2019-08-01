@@ -4,6 +4,8 @@
 
 # Video Snaps conversion
 
+ > Videos from scraping are usually in a higher resolution than necessary for pi zero/Retroflag Gpi case.  You should convert these down to a lesser resolution not only to save on file space, but to make them play smoother and load faster.
+
 * First you need to scrape your roms using one of the available scraping tools.  I recommend only scraping a single screenshot and a single movie for each game.  Other metadata is not used, typically.  (For Retroflag Gpi case or Gameboy zero)
 
 * [Download Axiom FFMPEG GUI app](https://github.com/MattMcManis/Axiom/releases/download/v1.7.6.0-alpha/Axiom.FFmpeg.7z)
@@ -20,7 +22,9 @@
 
 * Once you have a batch of files ready, click the batch button on the Axiom GUI, then click the Convert button.  After a short while, your converted movies are ready in the output folder.  Please these in your movies folder on your Gpi, for the emulator core they are intended for.  Delete the old movies and copy over the new ones.  (Example path: `/home/pi/RetroPie/roms/mame-libretro/media/videos`)
 
+## Videos Play Choppy or Stuttering
 
+* You need to modify your audio settings in emulation station.  Press Start and go to settings, and change audio settings, and Change OMX to ALSA HW 0,0.  This is the proper setting that fixes the choppyness for me, however, it does not always work at first.  I usually have to go back to this menu and try other combinations of settings, and then finally change it all back to default but then set the ALSA HW 0,0 again.  After a few attempts, and changes and reboots, the videos start to play smoothly.  Sorry I don't know why this is the case, it's buggy.  (Hopefully it will be fixed by Retropie in a future update).
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2469356526684659/)
