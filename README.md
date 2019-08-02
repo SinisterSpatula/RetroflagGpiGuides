@@ -54,7 +54,7 @@
 
   [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
 
-* [Super Retroboy Theme by Travis Wilson](https://www.facebook.com/notes/super-retropie/super-retroboy-theme/2440253609594951/)
+* [Super Retroboy Theme by Travis Wilson](https://github.com/KALEL1981/Super_Retroboy_Theme)
 
   [Video Poker Guide](https://sinisterspatula.github.io/SuperRetropieGuides/VideoPoker)
   
