@@ -7,7 +7,8 @@
 # Advanced Controller Framework
 ## Controls_Updater_Menu install guide
 
-Our new SD card image has arrived!  It's a much easier way to go.  This process will still be an option for those who want to add it to an existing image, but by far the easier way is going to be the SuperRetropie [RetroFlag GPi Pre-Made Image](https://www.facebook.com/notes/super-retropie/retroflag-gpi-pre-made-image/2425992267687752/)
+Our new SD card image has arrived!  It's a much easier way to go.  This process will still be an option for those who want to add it to an existing image, but by far the easier way is going to be the [Super Retropie Rev C image](https://sinisterspatula.github.io/SuperRetropieGuides/SR-Base-Image)
+
 
 Follow this guide to manually add our Controllertools/Controls_Updater_Menu to an existing image.
 
