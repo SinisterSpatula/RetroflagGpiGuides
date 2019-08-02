@@ -59,6 +59,8 @@
   [Video Poker Guide](https://sinisterspatula.github.io/SuperRetropieGuides/VideoPoker)
   
   [Video Snaps Conversion](https://sinisterspatula.github.io/SuperRetropieGuides/snapsconversion)
+  
+  [Video Snaps ScreenSaver](https://sinisterspatula.github.io/SuperRetropieGuides/VideoSnapsScreenSaver)
 
 * [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
 
