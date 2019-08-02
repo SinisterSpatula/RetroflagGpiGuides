@@ -54,6 +54,8 @@
   *	Add video snaps and screenshots by “Scraping” your roms.  See [https://www.skraper.net](https://www.skraper.net)
   * If you want to reduce the size of your video snaps to free up room for games, and make them load faster, see our guide here: [https://sinisterspatula.github.io/SuperRetropieGuides/snapsconversion](https://sinisterspatula.github.io/SuperRetropieGuides/snapsconversion)
   
+  * Setup your videos as a screen saver: [Video Snaps ScreenSaver](https://sinisterspatula.github.io/SuperRetropieGuides/VideoSnapsScreenSaver)
+  
 # FAQ
 
  > I added a new system and roms but they are not showing up? (only affects early downloads)
