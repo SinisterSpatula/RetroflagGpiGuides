@@ -2,6 +2,8 @@
 
 [Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
 
+[![https://drive.google.com/drive/folders/1RhvzNFKofJvrKzaiEXZqsB5kJ1cykDVb](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/images/theme.png)](https://drive.google.com/drive/folders/1RhvzNFKofJvrKzaiEXZqsB5kJ1cykDVb "Download the base image")
+
 ## Release Information
 
 # Super Retropie Image Rev C
@@ -50,7 +52,8 @@
   *	Add video snaps and screenshots by “Scraping” your roms.  See https://www.skraper.net
   * If you want to reduce the size of your video snaps to free up room for games, and make them load faster, see our guide here: https://sinisterspatula.github.io/SuperRetropieGuides/snapsconversion
 
-
+# Download:
+[Click HERE to download the base image](https://drive.google.com/drive/folders/1RhvzNFKofJvrKzaiEXZqsB5kJ1cykDVb)
 
 ## Support Thread
 [Join our active community for help](https://www.facebook.com/groups/SuperRetroPie/)
