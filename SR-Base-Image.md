@@ -51,8 +51,8 @@
 
 ## Some other cool things you can do:
 
-  *	Add video snaps and screenshots by “Scraping” your roms.  See https://www.skraper.net
-  * If you want to reduce the size of your video snaps to free up room for games, and make them load faster, see our guide here: https://sinisterspatula.github.io/SuperRetropieGuides/snapsconversion
+  *	Add video snaps and screenshots by “Scraping” your roms.  See [https://www.skraper.net](https://www.skraper.net)
+  * If you want to reduce the size of your video snaps to free up room for games, and make them load faster, see our guide here: [https://sinisterspatula.github.io/SuperRetropieGuides/snapsconversion](https://sinisterspatula.github.io/SuperRetropieGuides/snapsconversion)
 
 # Download:
 [Click HERE to download the base image](https://drive.google.com/drive/folders/1RhvzNFKofJvrKzaiEXZqsB5kJ1cykDVb)
