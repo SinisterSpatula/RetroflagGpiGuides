@@ -4,6 +4,8 @@
 
 [![https://drive.google.com/drive/folders/1RhvzNFKofJvrKzaiEXZqsB5kJ1cykDVb](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/images/theme.png)](https://drive.google.com/drive/folders/1RhvzNFKofJvrKzaiEXZqsB5kJ1cykDVb "Download the base image")
 
+ > Super Retropie Image Rev C Download is now available for public download.  We've worked very hard on this and hope you enjoy it.  If you need help, please consider joining our active retrogaming community.
+
 ## Release Information
 
 # Super Retropie Image Rev C
