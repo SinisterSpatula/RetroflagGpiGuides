@@ -24,7 +24,7 @@
     1. Duke Nukem 3D
 1. Advanced Control Framework v2
 1. Preconfigured controls for many standalone emulators
-1. Pisnes pre-installed, snes9x removed.
+1. Pisnes pre-installed, snes9x removed. (Pisnes is actually a newer snes9x, they are the same code base)
 1. GBC color correction disabled in retroarch config for lr-gamebatte (better color saturation for GBC)
 1. Standard fixes and tweaks
     1. Wait for network on boot -- disabled (faster boot, causes no issues)
