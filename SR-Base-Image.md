@@ -68,7 +68,7 @@
  * Yes, and yes.
  
  > My D-pad doesn't seem to be working.
- * Please hold select button and D-pad left arrow until your power light blinks Purple.
+ * Please hold select button and D-pad Up arrow until your power light blinks Purple.
  
  > How do I use the custom collections?
    1. highlight and select "Game Collection Settings"
