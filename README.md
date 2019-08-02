@@ -2,7 +2,7 @@
 
   > #### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
 
-* <--- Topics Marked  with this symbol are already included in Super Retropie Rev C image.
+* <--- Topics Marked  with this symbol are already included in [Super Retropie Rev C image](https://sinisterspatula.github.io/SuperRetropieGuides/SR-Base-Image)
 
 # Retroflag GPi case guides
 
