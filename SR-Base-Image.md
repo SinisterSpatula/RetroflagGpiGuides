@@ -70,6 +70,9 @@
    1. highlight and select "Create New Custom collecion From Theme"
    1. highlight and select "system of choice"
    1. to add games, highlight "game of choice" and press "Y"
+  
+ > Can I make the video snaps silent?
+ * Yes, in your emulation station settings there is an option to turn off audio for videos.
 
 # Download:
 [Click HERE to download the base image](https://drive.google.com/drive/folders/1RhvzNFKofJvrKzaiEXZqsB5kJ1cykDVb)
