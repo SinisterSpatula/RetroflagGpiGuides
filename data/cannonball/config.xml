@@ -34,7 +34,7 @@
          1 = 30/60 FPS. Original Game Mode.  (The original experience)
          2 = 60    FPS. Smooth Mode.         (Full 60fps)
     -->
-	<fps>2</fps>
+	<fps>0</fps>
 	<!-- Enable FPS Counter -->
 	<fps_counter>0</fps_counter>
 	<!-- Enhanced Widescreen Mode -->
