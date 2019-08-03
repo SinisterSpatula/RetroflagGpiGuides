@@ -59,12 +59,18 @@ sudo rm -r ~/cannonball/
 
 
 ## Controls:
+
 First, make sure you have migrated to the new controller framework by [following the steps here](https://github.com/SinisterSpatula/Gpi)
 Or if you have already migrated, then just go to Controllertools then Control_Updater_Menu, then do option 1 (update controls).
 Also, make sure you installed both config.xml and config.xml.def from above.
 
 ## Launch the game:
+
 You should have a Cannonball - Outrun Engine listed in your ports section of emulation station now.  Launch this to play.  If you don't see this, you may need to retstart emulationstation, and also make sure "Parse gamelists only" is turned off in your emulationstation settings.
+
+## Optimize performance
+
+If the game seems slow or audio is stuttering, or music notes sound a bit off, please try going into the in-game settings, and changing the video setting from 60 FPS to 30 FPS.  This should help improve the performance.
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2467529166867395/)
