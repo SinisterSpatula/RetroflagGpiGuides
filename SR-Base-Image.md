@@ -89,3 +89,7 @@
 
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
 
+## Image updates since release:
+
+8/5 - Added Eulationstation Collections script to the Retropie Menu.  Updated Outrun (cannonball) to use 30 fps for better performance.  Added update protection for the Gpi Case patch, it won’t get overwritten from an update now. (We still advise to always make a backup and don’t recommend you update (especially without a backup first).
+
