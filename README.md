@@ -36,7 +36,7 @@
 
 * [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
 
-  [Prevent Patch Overwrite](https://sinisterspatula.github.io/SuperRetropieGuides/PreventingPatchesFromBeingOverwritten)
+* [Prevent Patch Overwrite](https://sinisterspatula.github.io/SuperRetropieGuides/PreventingPatchesFromBeingOverwritten)
 
   [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
 
