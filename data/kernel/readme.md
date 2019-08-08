@@ -1,4 +1,4 @@
-# Custom Kernel pi zero with SR logo
+# Custom Kernel pi zero with SR logo 4.14.114
 
 ## Usage
 
