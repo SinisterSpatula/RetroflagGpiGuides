@@ -91,7 +91,7 @@
 
 ## Image updates since release:
 
-8/10 - Major openbor fixes (thanks Santi for encouraging me to get this fixed).  Both openbor's should work properly now.  Rom's directory moved from roms/ports/openbor to roms/openbor (so they aren't duplicated to the ports section).  Openbor is now it's own system, with a new carousel logo (thanks Travis!).  This also means that the two openbor's are now managed through the runcommand menu (press a key just before launch).  Pisnes is set to full screen by default now, if you prefer pixel perfect, you can change it back by setting maintainaspectraio=1 in /opt/retropie/emulators/pisnes/snes9x.cfg
+8/10 - Major openbor fixes (thanks Santi for encouraging me to get this fixed).  Both openbor's should work properly now.  Rom's directory moved from roms/ports/openbor to roms/openbor (so they aren't duplicated to the ports section).  Openbor is now it's own system, with a new carousel logo (thanks Travis!).  This also means that the two openbor's are now managed through the runcommand menu (press a key just before launch).  Pisnes is set to full screen by default now, if you prefer pixel perfect, you can change it back by setting maintainaspectraio=1 in /opt/retropie/emulators/pisnes/snes9x.cfg (this update also includes the controller tools update that fixes controls for Gpi cases that have a different ID name - possibly new gamepad firmware?)
 
 8/5 - Added Eulationstation Collections script to the Retropie Menu.  Updated Outrun (cannonball) to use 30 fps for better performance.  Added update protection for the Gpi Case patch, it won’t get overwritten from an update now. (We still advise to always make a backup and don’t recommend you update (especially without a backup first).
 
