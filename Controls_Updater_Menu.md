@@ -1,14 +1,10 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-  > #### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
 
 # Advanced Controller Framework
 ## Controls_Updater_Menu install guide
-
-Our new SD card image has arrived!  It's a much easier way to go.  This process will still be an option for those who want to add it to an existing image, but by far the easier way is going to be the [Super Retropie Rev C image](https://sinisterspatula.github.io/SuperRetropieGuides/SR-Base-Image)
-
 
 Follow this guide to manually add our Controllertools/Controls_Updater_Menu to an existing image.
 
@@ -70,13 +66,14 @@ Useful Testing/development commands:
 ```
 
 ## See also
-[Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
+[Advanced Controller Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)
 
 [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
 ## Support Thread
-No main support thread for this topic yet.
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
