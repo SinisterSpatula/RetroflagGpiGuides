@@ -1,4 +1,4 @@
-![Logo Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GPiBanner.png)
+![Logo Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
 
 [Advanced Controller Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)
