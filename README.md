@@ -69,5 +69,5 @@
 
 ### You can find us at the following places:
 
-[![Discord](https://sinisterspatula.github.io/RetroflagGpiGuides/images/Discord.png)](https://discord.gg/323yQH)
+[![Discord](https://sinisterspatula.github.io/RetroflagGpiGuides/images/Discord.png)](https://discord.gg/GSN7w5Z)
 [![Facebook](https://sinisterspatula.github.io/RetroflagGpiGuides/images/FBlogo.png)](https://www.facebook.com/groups/401660300458844/) [![Reddit](https://sinisterspatula.github.io/RetroflagGpiGuides/images/Reddit.png)](https://reddit.com/r/retroflag_gpi/)
