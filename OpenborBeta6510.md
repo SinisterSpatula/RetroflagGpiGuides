@@ -1,6 +1,7 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
 
 # NEW Openbor Beta 6xxx Install Guide
 
@@ -34,7 +35,7 @@ wget https://github.com/crcerror/OpenBOR-Raspberry/archive/master.zip
 
 * then get the patch (this is a pi zero specific patch!)
 ```
-wget https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/4-Galina.diff
+wget https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/4-Galina.diff
 ```
 
 * apply patch
@@ -100,7 +101,7 @@ The %ROM% is needed to start PAK-files through dialog menu or via EmulationStati
 > You need to download the default.cfg file
 
 ```
-sudo mkdir -p /opt/retropie/configs/ports/openbor/Saves && cd /opt/retropie/configs/ports/openbor/Saves && wget -O default.cfg https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/openbor/default.cfg 
+sudo mkdir -p /opt/retropie/configs/ports/openbor/Saves && cd /opt/retropie/configs/ports/openbor/Saves && wget -O default.cfg https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/openbor/default.cfg 
 ```
 > For HE-MAN you need to copy default.cfg to HE-MAN.cfg
 
@@ -115,17 +116,19 @@ sudo cp /opt/retropie/configs/ports/openbor/Saves/default.cfg /opt/retropie/conf
 
 * For TNMNT Rescue Palooza, the controls will be mapped without any bindings needing to be set, via the default.cfg file you just installed.  For Other games, You need to ask the game to load default.cfg, or read the openbor beta thread at retropie forums about how to setup a script that will automatically copy default.cfg for each game.
 
-Controls use [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
+Controls use [Advanced Controller Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)
 
 
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2455312278089084/)
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
 ## Additional Resources
 
 [See this thread for more information](https://retropie.org.uk/forum/topic/19326/openbor-6xxx-openbeta-testphase/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
+
