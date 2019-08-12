@@ -5,7 +5,7 @@
 
 source: https://github.com/RetroFlag/retroflag-picase
 
-Turn switch "SAFE SHUTDOWN" to ON.
+Turn switch "SAFE SHUTDOWN" to ON. (located behind batteries)
 
 ## For RetroPie:
 
