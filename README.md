@@ -1,69 +1,63 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Logo Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GPiBanner.png)
 
-  > #### **IMPORTANT please do not perform updates other than Controls Menu Update.  If you choose to get system updates things may break and it is strongly recommended that you make a backup.**
 
-* <--- Topics Marked  with this symbol are already included in [Super Retropie Rev C image](https://sinisterspatula.github.io/SuperRetropieGuides/SR-Base-Image)
+[Advanced Controller Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)
 
-# Retroflag GPi case guides
+[Advanced Controller Framework install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Controls_Updater_Menu)
 
-* [Advanced Controller Framework](https://sinisterspatula.github.io/SuperRetropieGuides/AdvancedControlFramework)
+[Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
-* [Advanced Controller Framework install guide](https://sinisterspatula.github.io/SuperRetropieGuides/Controls_Updater_Menu)
+[Controls Not Working after Reboot](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsBrokeAfterReboot)
 
-  [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
+[Commodore64 Setup Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Commodore64)
 
-  [Controls Not Working after Reboot](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsBrokeAfterReboot)
+[Daphne M2V file conversion](https://sinisterspatula.github.io/RetroflagGpiGuides/DaphneConversion)
 
-  [Commodore64 Setup Guide](https://sinisterspatula.github.io/SuperRetropieGuides/Commodore64)
+[Disable Wait for Network](https://sinisterspatula.github.io/RetroflagGpiGuides/DisableWaitForNetwork)
 
-  [Daphne M2V file conversion](https://sinisterspatula.github.io/SuperRetropieGuides/DaphneConversion)
+[Emulator Compatibility Chart](https://sinisterspatula.github.io/RetroflagGpiGuides/EmulatorChart)
 
-* [Disable Wait for Network](https://sinisterspatula.github.io/SuperRetropieGuides/DisableWaitForNetwork)
+[File Checks on Every Bootup](https://sinisterspatula.github.io/RetroflagGpiGuides/FileChecksEveryBoot)
 
-  [Emulator Compatibility Chart](https://sinisterspatula.github.io/SuperRetropieGuides/EmulatorChart)
+[NEW! Outrun Engine (cannonball)](https://sinisterspatula.github.io/RetroflagGpiGuides/cannonball)
 
-* [File Checks on Every Bootup](https://sinisterspatula.github.io/SuperRetropieGuides/FileChecksEveryBoot)
+[Openbor 3400 Install Guide older](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborInstall)
 
-* [NEW! Outrun Engine (cannonball)](https://sinisterspatula.github.io/SuperRetropieGuides/cannonball)
+[Openbor Beta 6xxx Newest](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborBeta6510)
 
-* [Openbor 3400 Install Guide older](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborInstall)
+[My Controls are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
 
-* [Openbor Beta 6xxx Newest](https://sinisterspatula.github.io/SuperRetropieGuides/OpenborBeta6510)
+[Play Station 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools)
 
-  [My Controls are not Working!](https://sinisterspatula.github.io/SuperRetropieGuides/ControlsNotWorking)
+[Pisnes Emulator install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES)
 
-  [Play Station 1 Tools](https://sinisterspatula.github.io/SuperRetropieGuides/PSX_Tools)
+[Prevent Patch Overwrite](https://sinisterspatula.github.io/RetroflagGpiGuides/PreventingPatchesFromBeingOverwritten)
 
-* [Pisnes Emulator install guide](https://sinisterspatula.github.io/SuperRetropieGuides/PISNES)
+[RetroAchievements](https://sinisterspatula.github.io/RetroflagGpiGuides/RetroAchievements)
 
-* [Prevent Patch Overwrite](https://sinisterspatula.github.io/SuperRetropieGuides/PreventingPatchesFromBeingOverwritten)
+[Retroarch Cheats Setup](https://sinisterspatula.github.io/RetroflagGpiGuides/RetroarchCheatsSetup)
 
-  [RetroAchievements](https://sinisterspatula.github.io/SuperRetropieGuides/RetroAchievements)
+[Safe Shutdown Install](https://sinisterspatula.github.io/RetroflagGpiGuides/SafeShutdown)
 
-  [Retroarch Cheats Setup](https://sinisterspatula.github.io/SuperRetropieGuides/RetroarchCheatsSetup)
+[Scummvm Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/scummvm)
 
-* [Safe Shutdown Install](https://sinisterspatula.github.io/SuperRetropieGuides/SafeShutdown)
+[NEW! Streets Of Rage Remake](https://sinisterspatula.github.io/RetroflagGpiGuides/sorr)
 
-  [Scummvm Guide](https://sinisterspatula.github.io/SuperRetropieGuides/scummvm)
+[Stereo Downsample Fix](https://sinisterspatula.github.io/RetroflagGpiGuides/StereoDownsampleFix)
 
-* [NEW! Streets Of Rage Remake](https://sinisterspatula.github.io/SuperRetropieGuides/sorr)
+[Stuttering/Slow Splash Video](https://sinisterspatula.github.io/RetroflagGpiGuides/StutteringSplashVideo)
 
-* [Stereo Downsample Fix](https://sinisterspatula.github.io/SuperRetropieGuides/StereoDownsampleFix)
+[Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/RetroflagGpiGuides/SuperMarioAllStarsfix)
 
-* [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/SuperRetropieGuides/StutteringSplashVideo)
+[Super Retroboy Theme by Travis Wilson](https://github.com/KALEL1981/Super_Retroboy_Theme)
 
-  [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/SuperRetropieGuides/SuperMarioAllStarsfix)
-
-* [Super Retroboy Theme by Travis Wilson](https://github.com/KALEL1981/Super_Retroboy_Theme)
-
-  [Video Poker Guide](https://sinisterspatula.github.io/SuperRetropieGuides/VideoPoker)
+[Video Poker Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/VideoPoker)
   
-  [Video Snaps Conversion](https://sinisterspatula.github.io/SuperRetropieGuides/snapsconversion)
+[Video Snaps Conversion](https://sinisterspatula.github.io/RetroflagGpiGuides/snapsconversion)
   
-  [Video Snaps ScreenSaver](https://sinisterspatula.github.io/SuperRetropieGuides/VideoSnapsScreenSaver)
+[Video Snaps ScreenSaver](https://sinisterspatula.github.io/RetroflagGpiGuides/VideoSnapsScreenSaver)
 
-* [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/SuperRetropieGuides/WifiBTtoggle)
-
+[Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/RetroflagGpiGuides/WifiBTtoggle)
 
 
 # Additional Resources
@@ -71,9 +65,9 @@
   1. [Wagners Beginners Guide](http://wagnerstechtalk.com/gpi-quick-setup/)
   2. [Howchoo Beginners Guide](https://howchoo.com/g/ndc3njbhytv/retroflag-gpi-setup)  
 
-## Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+## Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
 
-### We can't wait to hear from you at:
+### You can find us at the following places:
 
-[![Discord](https://sinisterspatula.github.io/SuperRetropieGuides/images/Discord.png)](https://discordapp.com/invite/b2bnwdb/)
-[![Youtube](https://sinisterspatula.github.io/SuperRetropieGuides/images/Youtube.png)](https://www.youtube.com/channel/UCGsVpomqorKCUw2VScy4UQA) [![Twitter](https://sinisterspatula.github.io/SuperRetropieGuides/images/Twitter.png)](https://www.twitter.com/superretropie) [![Facebook](https://sinisterspatula.github.io/SuperRetropieGuides/images/FBlogo.png)](https://www.facebook.com/groups/SuperRetroPie) [![Instagram](https://sinisterspatula.github.io/SuperRetropieGuides/images/Instagram.png)](https://www.instagram.com/super_retropie) [![Reddit](https://sinisterspatula.github.io/SuperRetropieGuides/images/Reddit.png)](https://www.reddit.com/r/Super_Retropie) [![Website](https://sinisterspatula.github.io/SuperRetropieGuides/images/Globe.png)](http://www.superretropie.com/)
+[![Discord](https://sinisterspatula.github.io/RetroflagGpiGuides/images/Discord.png)](https://discord.gg/323yQH)
+[![Facebook](https://sinisterspatula.github.io/RetroflagGpiGuides/images/FBlogo.png)](https://www.facebook.com/groups/401660300458844/) [![Reddit](https://sinisterspatula.github.io/RetroflagGpiGuides/images/Reddit.png)](https://reddit.com/r/retroflag_gpi/)
