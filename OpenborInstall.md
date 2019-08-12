@@ -1,6 +1,7 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
 
 # Openbor 3400 (older openbor) install guide
 
@@ -64,8 +65,8 @@ Now you can launch the games using the entry under ports "OpenBOR - Beats of Rag
 You must update your controls using Controltools/Controls_Updater_menu if you wan't working controls with Openbor.  (Option 1).
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2453139831639662/)
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
