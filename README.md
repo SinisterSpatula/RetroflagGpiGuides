@@ -2,6 +2,8 @@
 
 > If you would like to contribute to these guides, create a fork of them on github, add your modifications, then make a pull request to send your changes and additions to be merged, here:  [Github Repository Link](https://github.com/SinisterSpatula/RetroflagGpiGuides)
 
+# Index
+
 [Advanced Controller Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)
 
 [Advanced Controller Framework install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Controls_Updater_Menu)
