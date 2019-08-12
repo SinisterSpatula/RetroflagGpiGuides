@@ -19,7 +19,7 @@ You can also install this on your own custom image, see: [Advanced Controlls Fra
 
 The script has the following menu items:
 
-![ControlsUpdateMenuImg](https://sinisterspatula.github.io/SuperRetropieGuides/images/ControlsUpdateMenuImg.PNG)
+![ControlsUpdateMenuImg](https://sinisterspatula.github.io/RetroflagGpiGuides/images/ControlsUpdateMenuImg.PNG)
 
 Update Controls is the option most users will want, while Update Controls Beta is for testers
 ONLY and is highly discouraged from use.
