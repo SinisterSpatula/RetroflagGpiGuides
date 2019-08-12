@@ -1,6 +1,7 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
 
 Source: [reddit.com](https://www.reddit.com/r/retroflag_gpi/comments/ccmgp1/pcsxrearmed_corrupting_the_filesystem/etveksl/)
 
@@ -43,8 +44,8 @@ gitPullOrClone "$md_build" https://github.com/notaz/pcsx_rearmed.git
  * Then run update pcsx-rearmed from source in retropie-setup script
 
 ## Support Thread
-[Go Here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2457585517861760/)
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
