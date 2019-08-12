@@ -1,8 +1,7 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-Shoutout and big ups to: Adam Forrester (me!) Haha :D
 
 # Cannonball (Outrun Engine) Pi zero/Gpi case Guide
 
@@ -32,11 +31,11 @@ sudo ./retropie_setup.sh
 > The config files are required to setup the controls and video mode for cannonball.  Run the commands to download and install them:
 
 ```shell
-sudo mkdir -p /opt/retropie/configs/ports/cannonball/ && sudo wget -O /opt/retropie/configs/ports/cannonball/config.xml https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/cannonball/config.xml
+sudo mkdir -p /opt/retropie/configs/ports/cannonball/ && sudo wget -O /opt/retropie/configs/ports/cannonball/config.xml https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/cannonball/config.xml
 ```
 
 ```shell
-sudo mkdir -p /opt/retropie/ports/cannonball/ && sudo wget -O /opt/retropie/ports/cannonball/config.xml.def https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/cannonball/config.xml.def
+sudo mkdir -p /opt/retropie/ports/cannonball/ && sudo wget -O /opt/retropie/ports/cannonball/config.xml.def https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/cannonball/config.xml.def
 ```
 
 ## Now we build a replacement executable file for cannonball and copy it over to it's proper location.
@@ -73,8 +72,9 @@ You should have a Cannonball - Outrun Engine listed in your ports section of emu
 If the game seems slow or audio is stuttering, or music notes sound a bit off, please try going into the in-game settings, and changing the video setting from 60 FPS to 30 FPS.  This should help improve the performance.
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2467529166867395/)
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
