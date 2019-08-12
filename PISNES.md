@@ -1,6 +1,7 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
 
 # Pisnes Emulator install guide
 
@@ -33,8 +34,9 @@ Some folks have had to change these bindings for some odd reason, so you may wan
 Start+Select=quit. Select+LB=load state, Select+RB=Save state.
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2448328332120812/)
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
