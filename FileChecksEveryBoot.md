@@ -1,6 +1,7 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
 
 # System File Checks on every boot guide
 Source: [reddit.com](https://www.reddit.com/r/RetroPie/comments/bzin0l/gpi_case_performing_disk_check_each_boot/)
@@ -32,8 +33,10 @@ The directory /etc/systemd/system/ exists but fake-hwclock.service.d doesn't, so
 
 
 ## Support Thread
-There is no support thread for this topic, yet.
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
+
