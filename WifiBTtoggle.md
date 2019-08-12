@@ -1,6 +1,7 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
 
 # Wifi and Bluetooth toggle menu install guide
 Note: this is already included in the Super Retroboy image.
@@ -9,7 +10,7 @@ Source: [8bcraft.com](http://forum.8bcraft.com/viewtopic.php?f=2&t=1432)
 
 * [SSH into the pi via Putty](https://www.youtube.com/watch?v=aEJoQZBSlSs) and type the following command in: `sudo apt-get install rfkill`
  > This will install the Linux-Kernel subsystem that allows you to toggle the wireless connectivities of the W
-* Next up you have to [login via Winscp as root](https://www.youtube.com/watch?v=O6RRRsqG9nQ) into the pi to get the permission to copy the files from [Pi Zero W Scripts.zip](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/Pi%20Zero%20W%20Scripts.zip) over to your correct pi folders.
+* Next up you have to [login via Winscp as root](https://www.youtube.com/watch?v=O6RRRsqG9nQ) into the pi to get the permission to copy the files from [Pi Zero W Scripts.zip](https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/Pi%20Zero%20W%20Scripts.zip) over to your correct pi folders.
 * After you have root acces via Winscp just copy the files from Pi Zero W Scripts.zip to the correspoding folders of your pi (with one exception see note below). After you're done, just reboot your pi to make these new changes.
 
   > **IMPORTANT** Do not overwrite your entire gamelist.xml file with the one provided, instead you will modify your existing gamelist.xml by adding these entries to `opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml` before the </gameList> tag:
@@ -65,8 +66,9 @@ After rebooting go to the Retropie menu and you will find new menu entries.
 
 
 ## Support Thread
-There is no support thread for this topic, yet.
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
