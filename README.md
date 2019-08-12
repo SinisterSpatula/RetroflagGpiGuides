@@ -1,5 +1,6 @@
 ![Logo Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
+> If you would like to contribute to these guides, create a fork of them on github, add your modifications, then make a pull request to send your changes and additions to be, to be merged, here:  https://github.com/SinisterSpatula/RetroflagGpiGuides
 
 [Advanced Controller Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)
 
