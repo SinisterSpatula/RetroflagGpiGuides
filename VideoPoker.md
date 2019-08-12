@@ -1,6 +1,6 @@
-![SR Image](https://sinisterspatula.github.io/SuperRetropieGuides/images/SRimage-short.jpg)
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
 # Video Poker guide
 
@@ -19,7 +19,7 @@ Thanks to: [newlifegames.com](http://newlifegames.com/nlg/index.php?board=48.0)
   /home/pi/RetroPie/roms/mame-libretro
   ```
   
-* Copy the [nvram folders](https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/lr-Mame2016%20Poker%20NVRAM.zip) into the mame nvram directory. (this will pre-configure the machines.)
+* Copy the [nvram folders](https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/lr-Mame2016%20Poker%20NVRAM.zip) into the mame nvram directory. (this will pre-configure the machines.)
 
   ```shell
   /home/pi/RetroPie/roms/mame-libretro/mame2016/nvram
@@ -151,12 +151,14 @@ lr-mame2016 is based on 0.174 so this works out fine.
 ## Additional Resources
 [newlifegames.com](http://newlifegames.com/nlg/index.php?board=48.0)
 
-[Poker logo for your ES Theme](https://github.com/SinisterSpatula/SuperRetropieGuides/blob/master/images/vectors/poker.png)
+[Poker logo for your ES Theme](https://github.com/SinisterSpatula/RetroflagGpiGuides/blob/master/images/vectors/poker.png)
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/SuperRetroPie/permalink/2462551794031799/)
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
 
-[Back to Index](https://sinisterspatula.github.io/SuperRetropieGuides/)
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-###### Head back to our [Facebook Group](https://www.facebook.com/groups/SuperRetroPie/)
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
+
 
