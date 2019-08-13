@@ -13,14 +13,14 @@ cd
 cd
 cd /boot
 
-sudo wget -O sr-kernel.tar.gz https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/kernel/sr-kernel.tar.gz
+sudo wget -O sr-kernel.tar.gz https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/kernel/sr-kernel.tar.gz
 sudo tar -xzvf sr-kernel.tar.gz
 
 
 cd
 cd
 cd /
-sudo wget -O sr-modules.tar.gz https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/kernel/sr-modules.tar.gz
+sudo wget -O sr-modules.tar.gz https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/kernel/sr-modules.tar.gz
 sudo tar -xzvf sr-modules.tar.gz
 
 echo "--------------------------"
