@@ -1,8 +1,8 @@
 title: RetroflagGpi Guides
 description: Useful guides for Retroflag Gpi Case
 theme: jekyll-theme-hacker
-plugins:
-  - jekyll-seo-tag
 header:
   image: https://sinisterspatula.github.io/RetroflagGpiGuides/assets/images/preview.png
   og_image: https://sinisterspatula.github.io/RetroflagGpiGuides/assets/images/preview.png
+plugins:
+  - jekyll-seo-tag
