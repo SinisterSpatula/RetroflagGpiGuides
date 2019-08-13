@@ -1,4 +1,6 @@
 title: RetroflagGpi Guides
+description: Useful guides for Retroflag Gpi Case
+image: /assets/images/preview.png
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
