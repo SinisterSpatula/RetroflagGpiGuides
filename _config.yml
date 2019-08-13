@@ -4,5 +4,5 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
 header:
-  image: https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/assets/images/preview.png
-  og_image: https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/assets/images/preview.png
+  image: https://sinisterspatula.github.io/RetroflagGpiGuides/assets/images/preview.png
+  og_image: https://sinisterspatula.github.io/RetroflagGpiGuides/assets/images/preview.png
