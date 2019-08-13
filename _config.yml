@@ -1,2 +1,4 @@
 title: RetroflagGpi Guides
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-seo-tag
