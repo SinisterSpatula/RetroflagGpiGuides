@@ -4,3 +4,6 @@ image: https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/assets/i
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
+header:
+  image: /assets/images/preview.png
+  og_image: /assets/images/preview.png
