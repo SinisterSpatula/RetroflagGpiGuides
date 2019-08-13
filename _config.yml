@@ -1,6 +1,5 @@
 title: RetroflagGpi Guides
 description: Useful guides for Retroflag Gpi Case
-image: https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/assets/images/preview.png
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
