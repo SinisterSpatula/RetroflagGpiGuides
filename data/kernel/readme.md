@@ -3,5 +3,5 @@
 ## Usage
 
 ```shell
-cd && cd && sudo wget -O kernel.sh  https://raw.githubusercontent.com/SinisterSpatula/SuperRetropieGuides/master/data/kernel/kernel.sh && sudo chmod 775 kernel.sh && sudo bash kernel.sh
+cd && cd && sudo wget -O kernel.sh  https://raw.githubusercontent.com/SinisterSpatula/RetroflagGpiGuides/master/data/kernel/kernel.sh && sudo chmod 775 kernel.sh && sudo bash kernel.sh
 ```
