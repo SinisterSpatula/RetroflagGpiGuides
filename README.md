@@ -54,6 +54,8 @@
 
 [Super Retroboy Theme by Travis Wilson](https://github.com/KALEL1981/es-theme-Super-Retroboy)
 
+[MiniJawn Theme by Cory Anotado](https://github.com/pacdude/es-theme-minijawn)
+
 [Video Poker Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/VideoPoker)
   
 [Video Snaps Conversion](https://sinisterspatula.github.io/RetroflagGpiGuides/snapsconversion)
