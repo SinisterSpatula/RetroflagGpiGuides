@@ -7,8 +7,9 @@
 
 * open cmdline.txt (it is located on the first partition of your SD card, usually D: drive)
 
+* These are the changes to /boot/cmdline.txt:
 
-These are the changes to /boot/cmdline.txt:
+```
 dwc_otg.lpm_enable=0
 console=serial0,115200
 console=tty3
@@ -21,6 +22,7 @@ consoleblank=0
 plymouth.enable=0
 quiet logo.nologo
 vt.global_cursor_default=0
+```
 
 > This will hide all the text you see when booting, and make the bootup process completely silent/hidden.
 
