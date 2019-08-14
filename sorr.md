@@ -38,14 +38,14 @@ Pick either the standard (nothing is unlocked, you unlock things by playing) or 
 
 ### Standard (Nothing unlocked) Savegame:
 ```shell
-mkdir -p /opt/retropie/configs/ports/sorr/ && wget -O /opt/retropie/configs/ports/sorr/savegame.sor https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/sorr/savegame.sor
+mkdir -p /opt/retropie/configs/ports/sorr/ && wget -O /opt/retropie/configs/ports/sorr/savegame.sor https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/sorr/savegame.sor
 ```
 
 ### -OR-
 
 ### Fully unlocked Savegame:
 ```shell
-mkdir -p /opt/retropie/configs/ports/sorr/ && wget -O /opt/retropie/configs/ports/sorr/savegame.sor https://github.com/SinisterSpatula/SuperRetropieGuides/raw/master/data/sorr/savegame_unlocked.sor
+mkdir -p /opt/retropie/configs/ports/sorr/ && wget -O /opt/retropie/configs/ports/sorr/savegame.sor https://github.com/SinisterSpatula/RetroflagGpiGuides/raw/master/data/sorr/savegame_unlocked.sor
 ```
 
 
