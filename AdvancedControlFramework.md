@@ -5,7 +5,7 @@
 
 # Advanced Controller Framework
 
-The Super Retropie GPi image has additional software and drivers installed which allow the GPi
+The Advanced Controller Framework is a combination of xboxdrv driver and scripts which when installed which allow the GPi
 controls to be remapped to virtually any standalone emulator. This not only allows full
 button/dpad compatibility but also allows for hotkeys and even additional buttons that aren’t
 present in the GPi case (such as L2 and R2). Wherever possible, the hotkeys have been mapped
