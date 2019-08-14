@@ -15,7 +15,7 @@ Controllertools/control_updater_menu, which will allow you to download updates t
 way, rather than downloading a new GPi image or installing the software yourself, you can
 download new controller setups or even support for additional emulators.
 
-You can also install this on your own custom image, see: [Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Controls_Updater_Menu)
+You can install this on your own custom image, see: [Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Controls_Updater_Menu)
 
 The script has the following menu items:
 
