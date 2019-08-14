@@ -5,17 +5,17 @@
 
 # Advanced Controller Framework
 
-The Advanced Controller Framework is a combination of xboxdrv driver and scripts which when installed which allow the GPi
+The Advanced Controller Framework is a combination of xboxdrv driver and scripts which when installed allow the GPi
 controls to be remapped to virtually any standalone emulator. This not only allows full
 button/dpad compatibility but also allows for hotkeys and even additional buttons that aren’t
 present in the GPi case (such as L2 and R2). Wherever possible, the hotkeys have been mapped
 to mimic Libretro controls, i.e. select+start to exit, select+R to save state, etc.
 You will find a script installed in the Retropie section of Emulation Station, called
 Controllertools/control_updater_menu, which will allow you to download updates to the control scheme. This
-way, rather than downloading a new GPi image or installing the software yourself, you can
+way, rather than downloading a new GPi image, you can
 download new controller setups or even support for additional emulators.
 
-You can install this on your own custom image, see: [Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Controls_Updater_Menu)
+You can install this on your own custom image, see: [Advanced Controlls Framework Install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Controls_Updater_Menu) and some pre-made images already have it installed.
 
 The script has the following menu items:
 
