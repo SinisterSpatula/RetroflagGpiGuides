@@ -17,7 +17,7 @@ Follow this short guide to fix Splash (boot-up) video stuttering/slowness on the
 * Change it to:
 `omxplayer -b --layer 10000 "$line"`
 
-* And add this line also:
+* And add this line also (underneath the omxplayer line you just changed):
 `audio_pwm_mode=2`
    > Mode=2 is recommended for Pi zero, you can also try Mode=0
 
