@@ -1,5 +1,0 @@
-Hide console output during boot
-
-- open cmdline.txt (it is located on the first partition of your SD card, usually D: drive)
-- find the following key and value: console=tty1
-- replace them with: console=tty3
