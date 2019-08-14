@@ -2,8 +2,8 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/RetroflagGpiGuides/mstile-150x150.png"/>
-            <TileColor>#da532c</TileColor>
+            <square150x150logo src="https://sinisterspatula.github.io/RetroflagGpiGuides/mstile-150x150.png"/>
+            <TileColor>#354050</TileColor>
         </tile>
     </msapplication>
 </browserconfig>
