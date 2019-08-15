@@ -21,6 +21,18 @@ ffmpeg -loglevel fatal -stats -i original.m2v -codec:v mpeg2video -an -s 320x240
 
 Now you have the output.m2v file, you can rename it to match the original name (example: ace.m2v) and this file is ready to be used for daphne emulator, along with the original ogg file and other necessary files.  You should follow other existing guides on how to form the proper file structure, this guide is only about re-encoding the movie file.  This process should work for each laserdisc movie (.m2v) you need to convert, but remember to set your FPS value properly each time.  You can experiment with the -b:v 3000k -maxrate 4000k values (bitrate values) which will result in a bigger file or smaller file and may be easier or harder for the piezero to playback.
 
+## Dragon's Lair II many m2v files
+
+> If you're copy of lair2 has a long list of m2v files, the below script, run on windows should help:
+
+```shell
+md tmp
+for %%f in (*.m2v) do (
+ffmpeg -loglevel fatal -stats -i "%%f" -codec:v mpeg2video -an -s 320x240 -r 29.970 -b:v 3000k -maxrate 4000k -g 18 -bf 2 tmp\%%f
+if  errorlevel  1  goto  error
+)
+:error
+```
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
