@@ -17,6 +17,8 @@ If you have any comments or suggestions please pass them along to me on my socia
 [![Twitter](https://SinisterSpatula.github.io/RetroflagGpiGuides/images/Twitter.png)](https://twitter.com/MicroByter)
 [![Instagram](https://SinisterSpatula.github.io/RetroflagGpiGuides/images/Instagram.png)](https://www.instagram.com/microbyter/)
 
+-----------------------------------------------------
+
 ## Recommended Software and tools:
 
 [Pico-8 Software](https://www.lexaloffle.com/pico-8.php)
@@ -24,6 +26,7 @@ If you have any comments or suggestions please pass them along to me on my socia
 [Terminal SSH software - PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php](https://www.libsdl.org/download-2.0.php)  (SDL2-2.0.10.zip at the time this was written)
 
+----------------------------------------
 
 <a href="https://www.lexaloffle.com/pico-8.php"><img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic1.png"/></a>
 
@@ -52,6 +55,8 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
 1. After going through the steps above, you should be left with a pico-8 folder that looks like the following:
 
 <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic3.png">
+
+-------------------------------------
 
 ## Add PICO-8 to the Emulationstation menu:
 
@@ -88,6 +93,8 @@ The entry is setup to add a menu item called ‘Pico-8’ to the main Emulations
 1. Once you find your theme, copy an existing system folder and name it ‘pico8’: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic5.png">
 1. For the Super-Retroboy theme, the only thing it uses is a custom ‘system.png’ image for the logo you see on the main Emulationstation menu.  If you are using that theme, here is the image I used for mine.  [Save this image](https://github.com/KALEL1981/es-theme-Super-Retroboy/raw/master/pico8/system.png) as ‘system.png’ and copy it to the `/opt/retropie/configs/all/emulationstation/themes/Super-Retroboy/pico8` folder. (This image is included in the latest version of the theme already, you can also just update the theme)
 1. Reboot your GPi Case and you should see Pico-8 on the menu.  Select it and then select Start PICO-8 to run it! <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic6.jpg">
+
+---------------------------------------------
 
 ## Additional Resources
 
