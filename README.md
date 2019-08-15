@@ -24,19 +24,19 @@
 
 [File Checks on Every Bootup](https://sinisterspatula.github.io/RetroflagGpiGuides/FileChecksEveryBoot)
 
+[My Controls are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
+
 [Outrun Engine (cannonball)](https://sinisterspatula.github.io/RetroflagGpiGuides/cannonball)
 
 [Openbor 3400 Install Guide older](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborInstall)
 
 [Openbor Beta 6xxx Newest](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborBeta6510)
 
-[My Controls are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
-
-[Play Station 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools)
+[Pisnes Emulator install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES)
 
 [Pico-8 Install Guide NEW!](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8)
 
-[Pisnes Emulator install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES)
+[Play Station 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools)
 
 [Prevent Patch Overwrite](https://sinisterspatula.github.io/RetroflagGpiGuides/PreventingPatchesFromBeingOverwritten)
 
@@ -48,9 +48,9 @@
 
 [Scummvm Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/scummvm)
 
-[Streets Of Rage Remake](https://sinisterspatula.github.io/RetroflagGpiGuides/sorr)
-
 [Stereo Downsample Fix](https://sinisterspatula.github.io/RetroflagGpiGuides/StereoDownsampleFix)
+
+[Streets Of Rage Remake](https://sinisterspatula.github.io/RetroflagGpiGuides/sorr)
 
 [Stuttering/Slow Splash Video](https://sinisterspatula.github.io/RetroflagGpiGuides/StutteringSplashVideo)
 
