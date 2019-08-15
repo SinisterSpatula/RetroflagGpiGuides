@@ -1,6 +1,6 @@
 ![Logo Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-> News: 8/15 Added Pico-8 guide,  Fixed discord link.  Added N64 to emulators chart.
+> News: 8/15 Added Pico-8 guide,  Fixed discord link.  Added N64 to emulators chart.  Added theme links.
 
 > If you would like to contribute to these guides, create a fork of them on github, add your modifications, then make a pull request to send your changes and additions to be merged, here:  [Github Repository Link.](https://github.com/SinisterSpatula/RetroflagGpiGuides)
 
