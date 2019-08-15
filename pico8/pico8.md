@@ -60,7 +60,10 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
 
 ## Add PICO-8 to the Emulationstation menu:
 
-1. (SSH) Run this command and add an entry for the Pico-8 system to be recognized by Emulationstation: `sudo nano -w /opt/retropie/configs/all/emulationstation/es_systems.cfg`
+1. (SSH) Run this command and add an entry for the Pico-8 system to be recognized by Emulationstation: 
+```shell
+sudo nano -w /opt/retropie/configs/all/emulationstation/es_systems.cfg
+```
 1. Copy/Paste the following lines to the file.  This can be placed anywhere in the file where you see other similar system entries.  When done, press ctrl+x and answer ‘y’ when prompted to ‘Save modified buffer’.
 The entry is setup to add a menu item called ‘Pico-8’ to the main Emulationstation menu.  It’s looking for a .sh extension which is why we created the ‘Start PICO-8.sh’ as a dummy file to kick off the command which runs Pico-8!
     ```xml
