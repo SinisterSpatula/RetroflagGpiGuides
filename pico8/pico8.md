@@ -27,7 +27,7 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
 
 ## Install PICO-8:
 
-1. [Purchase the Pico-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php) - [https://www.lexaloffle.com/pico-8.php](https://www.lexaloffle.com/pico-8.php) !!!!!!!!!!!!!!!!!!!! image !!!!!!!!!!!!!!!!!!!!!!!!
+1. [Purchase the Pico-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php) - [https://www.lexaloffle.com/pico-8.php](https://www.lexaloffle.com/pico-8.php) [![Purchase](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic1.png)](https://www.lexaloffle.com/pico-8.php)
 1. (FTP) Download the Raspberry Pi version and transfer the’pico-8’ folder to the RetroPie home directory on your Raspberry Pi. You should now have a folder path that looks like `/home/pi/pico-8`
 1. (FTP or SSH) create a dummy shell script called ‘Start PICO-8.sh’ and save it to the `/home/pi/pico-8` directory.  This will be the menu item you will see in RetroPie if you setup the theme to launch Pico-8 from the menu.
 1. (SSH) run the following command to install  [wiringPI](http://wiringpi.com).  Pico-8 needs this to interface with the GPi Case GPIO setup.
@@ -41,10 +41,9 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
     ./configure
     make controllermap
     ```
-1. Run the following controller map command:
+1. Run the following controller map command: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic2.jpg">
     `./controllermap 0 >>  /home/pi/pico-8/sdl_controllers.txt`
     > and follow the onscreen directions on your GPI Case, you should see an image like the one below on your screen.  Push the appropriate button that matches the green highlighted one on your screen. For buttons you don’t have or that cannot be mapped (e.g. left/right analogue sticks or triggers), just push B.  You should be able to map the B, A, Y, X, D-pad, L/R shoulder, start and select buttons.
-  !!!!!!!!!!!!!!!!!!!!! IMAGE !!!!!!!!!!!!!!!!!!!
 1. This should create a new file called ‘sdl_controllers.txt’ under the `/home/pi/pico-8/` directory.
 1. (SSH) Run the following command to remove the SDL folders.  Remember, your SDL folder might be a different version so substitute the SDL folder name for the name in your pico-8 directory.
     `rm -rf ~/pico-8/SDL2-2.0.10a`
@@ -91,7 +90,11 @@ The entry is setup to add a menu item called ‘Pico-8’ to the main Emulations
 1. Reboot your GPi Case and you should see Pico-8 on the menu.  Select it and then select Start PICO-8 to run it!
     !!!!!!!!!!! IMAGE !!!!!!!!!!!!
 
+## Additional Resources
 
+[lexaloffle.com Forum Post](https://www.lexaloffle.com/bbs/?tid=3935)
+
+[Lexaloffle.com](https://www.lexaloffle.com/)
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/permalink/433343923957148/)
