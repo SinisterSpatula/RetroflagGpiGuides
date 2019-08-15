@@ -80,16 +80,16 @@ The entry is setup to add a menu item called ‘Pico-8’ to the main Emulations
     !!!!!!!!!! IMAGE !!!!!!!!!!!
 1. (FTP) This part is harder.  Depending on which theme you are using, you will need to add the graphic and any configuration file needed by the theme.  The easiest way I found to do this is to (1) find the theme and then (2) copy a system folder that already exists and rename the copy to be ‘pico8’ and then (3) replace whatever images that are used with the them with Pico-8 images.  
 
-    > For my example, I’m using the Super-Retroboy theme as an example.
+    > For my example, I’m using the Super-Retroboy theme.
 
 1. Themes can be found in a few locations.  Try looking for your theme in the following:
-  * `/opt/retropie/configs/all/emulationstation/themes`
-  * `/etc/emulationstation/themes`
+    * `/opt/retropie/configs/all/emulationstation/themes`
+    * `/etc/emulationstation/themes`
 1. Once you find your theme, copy an existing system folder and name it ‘pico8’:
     !!!!!!!!!!!!! IMAGE !!!!!!!!!!!!!
-
-
-
+1. For the Super-Retroboy theme, the only thing it uses is a custom ‘system.png’ image for the logo you see on the main Emulationstation menu.  If you are using that theme, here is the image I used for mine.  [Save this image](https://github.com/KALEL1981/es-theme-Super-Retroboy/raw/master/pico8/system.png) as ‘system.png’ and copy it to the `/opt/retropie/configs/all/emulationstation/themes/Super-Retroboy/pico8` folder. (This image is included in the latest version of the theme already, you can also just update the theme)
+1. Reboot your GPi Case and you should see Pico-8 on the menu.  Select it and then select Start PICO-8 to run it!
+    !!!!!!!!!!! IMAGE !!!!!!!!!!!!
 
 
 
