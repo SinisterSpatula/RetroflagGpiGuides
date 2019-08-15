@@ -50,6 +50,7 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
 1. (SSH) Run the following command to remove the SDL folders.  Remember, your SDL folder might be a different version so substitute the SDL folder name for the name in your pico-8 directory.
     `rm -rf ~/pico-8/SDL2-2.0.10a`
 1. After going through the steps above, you should be left with a pico-8 folder that looks like the following:
+
 <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic3.png">
 
 ## Add PICO-8 to the Emulationstation menu:
