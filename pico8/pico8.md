@@ -21,10 +21,13 @@ If you have any comments or suggestions please pass them along to me on my socia
 
 ## Recommended Software and tools:
 
-[Pico-8 Software](https://www.lexaloffle.com/pico-8.php)
-[FTP Transfer software](https://winscp.net/eng/download.php) to connect to the Raspberry Pi - WinSCP
-[Terminal SSH software - PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php](https://www.libsdl.org/download-2.0.php)  (SDL2-2.0.10.zip at the time this was written)
+* [Pico-8 Software](https://www.lexaloffle.com/pico-8.php)
+
+* [FTP Transfer software](https://winscp.net/eng/download.php) to connect to the Raspberry Pi - WinSCP
+
+* [Terminal SSH software - PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+* Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php](https://www.libsdl.org/download-2.0.php)  (SDL2-2.0.10.zip at the time this was written)
 
 ----------------------------------------
 
