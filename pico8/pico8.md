@@ -46,7 +46,7 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
     ./configure
     make controllermap
     ```
-1. Run the following controller map command: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic2.jpg">
+1. Run the following controller map command: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic2.jpg" style="padding: 10px; float: right;">
     `./controllermap 0 >>  /home/pi/pico-8/sdl_controllers.txt`
     > and follow the onscreen directions on your GPI Case, you should see an image like the one below on your screen.  Push the appropriate button that matches the green highlighted one on your screen. For buttons you don’t have or that cannot be mapped (e.g. left/right analogue sticks or triggers), just push B.  You should be able to map the B, A, Y, X, D-pad, L/R shoulder, start and select buttons.
 1. This should create a new file called ‘sdl_controllers.txt’ under the `/home/pi/pico-8/` directory.
@@ -54,7 +54,7 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
     `rm -rf ~/pico-8/SDL2-2.0.10a`
 1. After going through the steps above, you should be left with a pico-8 folder that looks like the following:
 
-<img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic3.png">
+<img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic3.png" style="padding: 10px; float: right;">
 
 -------------------------------------
 
@@ -85,7 +85,7 @@ The entry is setup to add a menu item called ‘Pico-8’ to the main Emulations
 
     </system>
     ```
-1. You should have something that looks similar to the following: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic4.png">
+1. You should have something that looks similar to the following: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic4.png" style="padding: 10px; float: right;">
 1. (FTP) This part is harder.  Depending on which theme you are using, you will need to add the graphic and any configuration file needed by the theme.  The easiest way I found to do this is to (1) find the theme and then (2) copy a system folder that already exists and rename the copy to be ‘pico8’ and then (3) replace whatever images that are used with the them with Pico-8 images.  
 
     > For my example, I’m using the Super-Retroboy theme.
@@ -93,9 +93,9 @@ The entry is setup to add a menu item called ‘Pico-8’ to the main Emulations
 1. Themes can be found in a few locations.  Try looking for your theme in the following:
     * `/opt/retropie/configs/all/emulationstation/themes`
     * `/etc/emulationstation/themes`
-1. Once you find your theme, copy an existing system folder and name it ‘pico8’: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic5.png">
+1. Once you find your theme, copy an existing system folder and name it ‘pico8’: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic5.png" style="padding: 10px; float: right;">
 1. For the Super-Retroboy theme, the only thing it uses is a custom ‘system.png’ image for the logo you see on the main Emulationstation menu.  If you are using that theme, here is the image I used for mine.  [Save this image](https://github.com/KALEL1981/es-theme-Super-Retroboy/raw/master/pico8/system.png) as ‘system.png’ and copy it to the `/opt/retropie/configs/all/emulationstation/themes/Super-Retroboy/pico8` folder. (This image is included in the latest version of the theme already, you can also just update the theme)
-1. Reboot your GPi Case and you should see Pico-8 on the menu.  Select it and then select Start PICO-8 to run it! <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic6.jpg">
+1. Reboot your GPi Case and you should see Pico-8 on the menu.  Select it and then select Start PICO-8 to run it! <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic6.jpg" style="padding: 10px; float: right;">
 
 ---------------------------------------------
 
