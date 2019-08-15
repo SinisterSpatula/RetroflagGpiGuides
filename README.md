@@ -58,9 +58,11 @@
 
 [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/RetroflagGpiGuides/SuperMarioAllStarsfix)
 
-[Theme: Super Retroboy by Travis Wilson](https://github.com/KALEL1981/es-theme-Super-Retroboy)
+[Theme: Gameboy Zero 35](https://github.com/rxbrad/es-theme-gbz35)
 
 [Theme: MiniJawn by Cory Anotado](https://github.com/pacdude/es-theme-minijawn)
+
+[Theme: Super Retroboy by Travis Wilson](https://github.com/KALEL1981/es-theme-Super-Retroboy)
 
 [Video Poker Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/VideoPoker)
   
