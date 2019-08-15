@@ -58,7 +58,7 @@
 
 [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/RetroflagGpiGuides/SuperMarioAllStarsfix)
 
-[Theme: Gameboy Zero 35](https://github.com/rxbrad/es-theme-gbz35)
+[Theme: Gameboy Zero 35 by Rxbrad](https://github.com/rxbrad/es-theme-gbz35)
 
 [Theme: MiniJawn by Cory Anotado](https://github.com/pacdude/es-theme-minijawn)
 
