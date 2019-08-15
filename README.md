@@ -24,7 +24,7 @@
 
 [File Checks on Every Bootup](https://sinisterspatula.github.io/RetroflagGpiGuides/FileChecksEveryBoot)
 
-[NEW! Outrun Engine (cannonball)](https://sinisterspatula.github.io/RetroflagGpiGuides/cannonball)
+[Outrun Engine (cannonball)](https://sinisterspatula.github.io/RetroflagGpiGuides/cannonball)
 
 [Openbor 3400 Install Guide older](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborInstall)
 
@@ -34,7 +34,7 @@
 
 [Play Station 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools)
 
-[NEW!  Pico-8 Install Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8)
+[Pico-8 Install Guide NEW!](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8)
 
 [Pisnes Emulator install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES)
 
@@ -48,7 +48,7 @@
 
 [Scummvm Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/scummvm)
 
-[NEW! Streets Of Rage Remake](https://sinisterspatula.github.io/RetroflagGpiGuides/sorr)
+[Streets Of Rage Remake](https://sinisterspatula.github.io/RetroflagGpiGuides/sorr)
 
 [Stereo Downsample Fix](https://sinisterspatula.github.io/RetroflagGpiGuides/StereoDownsampleFix)
 
@@ -56,9 +56,9 @@
 
 [Super Mario All Stars Controls Fix](https://sinisterspatula.github.io/RetroflagGpiGuides/SuperMarioAllStarsfix)
 
-[Super Retroboy Theme by Travis Wilson](https://github.com/KALEL1981/es-theme-Super-Retroboy)
+[Theme: Super Retroboy by Travis Wilson](https://github.com/KALEL1981/es-theme-Super-Retroboy)
 
-[MiniJawn Theme by Cory Anotado](https://github.com/pacdude/es-theme-minijawn)
+[Theme: MiniJawn by Cory Anotado](https://github.com/pacdude/es-theme-minijawn)
 
 [Video Poker Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/VideoPoker)
   
