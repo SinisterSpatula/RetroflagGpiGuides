@@ -54,7 +54,13 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
     `rm -rf ~/pico-8/SDL2-2.0.10a`
 1. After going through the steps above, you should be left with a pico-8 folder that looks like the following:
 
-<img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic3.png" style="padding: 10px; float: right;">
+<img align="left" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic3.png" style="padding: 10px; float: right;">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 -------------------------------------
 
