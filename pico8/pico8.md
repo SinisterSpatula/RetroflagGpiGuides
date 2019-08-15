@@ -45,7 +45,9 @@ Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php
     ./configure
     make controllermap
     ```
-1. Run the following controller map command: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic2.jpg" style="padding: 10px; float: right;">
+1. Run the following controller map command:
+<br><br><br>
+<img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic2.jpg" style="padding: 10px; float: right;">
     `./controllermap 0 >>  /home/pi/pico-8/sdl_controllers.txt`
     > and follow the onscreen directions on your GPI Case, you should see an image like this on your screen.  Push the appropriate button that matches the green highlighted one on your screen. For buttons you don’t have or that cannot be mapped (e.g. left/right analogue sticks or triggers), just push B.  You should be able to map the B, A, Y, X, D-pad, L/R shoulder, start and select buttons.
 1. This should create a new file called ‘sdl_controllers.txt’ under the `/home/pi/pico-8/` directory.
