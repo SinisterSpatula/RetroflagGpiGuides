@@ -1,6 +1,7 @@
 ![Logo Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
 > If you would like to contribute to these guides, create a fork of them on github, add your modifications, then make a pull request to send your changes and additions to be merged, here:  [Github Repository Link.](https://github.com/SinisterSpatula/RetroflagGpiGuides)
+
 > News: 8/15 Added Pico-8 guide,  Fixed discord link.
 
 # Index
