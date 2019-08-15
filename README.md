@@ -34,6 +34,8 @@
 
 [Play Station 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools)
 
+[NEW!  Pico-8 Install Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8)
+
 [Pisnes Emulator install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES)
 
 [Prevent Patch Overwrite](https://sinisterspatula.github.io/RetroflagGpiGuides/PreventingPatchesFromBeingOverwritten)
