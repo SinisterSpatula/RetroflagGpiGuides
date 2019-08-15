@@ -33,6 +33,7 @@ Master System | lr-genesis-plus-gx | Runs great |
 Minecraft | Minecraft (ports) | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)  Runs great. |
 Neo Geo | pifba | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)  Full speed, some games have graphical glitches |
 NES | lr-nestopia | |
+N64 | mupen64plus-gles2n64 | Some games are playable at decent speed. |
 PS1 | pcsx-rearmed | Uses [Advanced Control Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework), many games run great. Also see [Playstation 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools) |
 SCUMMVM | lr-scummvm | Works great.  See [Scummvm Information](https://sinisterspatula.github.io/RetroflagGpiGuides/scummvm) |
 Sega CD | lr-picodrive | Works great.  May need to update it for best results. |
