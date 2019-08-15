@@ -71,8 +71,8 @@
 
 # Additional Resources
   
-  1. [Wagners Beginners Guide](http://wagnerstechtalk.com/gpi-quick-setup/)
-  2. [Howchoo Beginners Guide](https://howchoo.com/g/ndc3njbhytv/retroflag-gpi-setup)  
+[Howchoo Beginners Guide](https://howchoo.com/g/ndc3njbhytv/retroflag-gpi-setup)  
+[Wagners Beginners Guide](http://wagnerstechtalk.com/gpi-quick-setup/)
 
 ## Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
 
