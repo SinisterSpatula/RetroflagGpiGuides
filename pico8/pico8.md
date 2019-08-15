@@ -25,7 +25,10 @@ If you have any comments or suggestions please pass them along to me on my socia
 Simple DirectMedia Layer (SDL) Source - [https://www.libsdl.org/download-2.0.php](https://www.libsdl.org/download-2.0.php)  (SDL2-2.0.10.zip at the time this was written)
 
 
-## Install PICO-8: <a href="https://www.lexaloffle.com/pico-8.php"><img align="left" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic1.png"/></a>
+<a href="https://www.lexaloffle.com/pico-8.php"><img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic1.png"/></a>
+
+## Install PICO-8:
+
 1. [Purchase the Pico-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php)
 1. (FTP) Download the Raspberry Pi version and transfer the ’pico-8’ folder to the RetroPie home directory on your Raspberry Pi. You should now have a folder path that looks like `/home/pi/pico-8`
 1. (FTP or SSH) create a dummy shell script called ‘Start PICO-8.sh’ and save it to the `/home/pi/pico-8` directory.  This will be the menu item you will see in RetroPie if you setup the theme to launch Pico-8 from the menu.
