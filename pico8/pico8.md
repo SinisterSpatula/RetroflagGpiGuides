@@ -70,21 +70,13 @@ sudo nano -w /opt/retropie/configs/all/emulationstation/es_systems.cfg
 The entry is setup to add a menu item called ‘Pico-8’ to the main Emulationstation menu.  It’s looking for a .sh extension which is why we created the ‘Start PICO-8.sh’ as a dummy file to kick off the command which runs Pico-8!
     ```xml
     <system>
-
       <name>pico8</name>
-
       <fullname>PICO-8</fullname>
-
       <path>/home/pi/pico-8</path>
-
       <extension>.sh .SH</extension>
-
       <command>/opt/retropie/supplementary/runcommand/runcommand.sh 0 "/home/pi/pico-8/pico8 -splore"</command>
-
       <platform>pico8</platform>
-
       <theme>pico8</theme>
-
     </system>
     ```
 1. You should have something that looks similar to the following: <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic4.png" style="padding: 10px; float: right;">
