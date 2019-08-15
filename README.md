@@ -74,7 +74,6 @@
 [Howchoo Beginners Guide](https://howchoo.com/g/ndc3njbhytv/retroflag-gpi-setup)  
 [Wagners Beginners Guide](http://wagnerstechtalk.com/gpi-quick-setup/)
 
-## Head over to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
 
 ### Retroflag Gpi communities are at the following places:
 
