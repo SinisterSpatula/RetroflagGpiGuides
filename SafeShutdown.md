@@ -2,6 +2,9 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
+Thanks to: crcerror and Quicksilver
+
+source: [https://www.reddit.com/](https://www.reddit.com/r/retroflag_gpi/comments/co3fm2/gpi_safe_shutdown_script_not_saving_metadata/)
 
 source: https://github.com/RetroFlag/retroflag-picase
 
@@ -9,18 +12,26 @@ Turn switch "SAFE SHUTDOWN" to ON. (located behind batteries)
 
 ## For RetroPie:
 
-* Make sure internet connected.
-
-* Make sure keyboard connected.
-
-* Press F4 first. And then press ALT-F2 enter termial.
-
-* Or connect to your Gpi with ssh
+* connect to your Gpi with ssh
 
 * In the terminal, type the one-line command below(Case sensitive):
 
 ```
 wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/install_gpi.sh" | sudo bash
+```
+
+* after reboot, do these additional changes to enhace the shutdown scripts for an even more elegant shutdown:
+
+> For those who are interested, I have adapted crcerror's awesome shutdown script to work with the GPi case. This is a much more elegant way of implementing safe shutdown as it will cleanly exit any emulator first and then shutdown without exiting to the terminal. (all credit goes to crcerror)
+
+1. Copy `multi_switch.sh` script found here: [https://github.com/crcerror/retroflag-picase/blob/master/multi_switch.sh](https://github.com/crcerror/retroflag-picase/blob/master/multi_switch.sh) to `/opt/RetroFlag/`
+1. Edit `SafeShutdown.py` located at `/opt/RetroFlag/` and change:
+```
+os.system("sudo killall emulationstation && sleep 5s && sudo shutdown -h now")
+```
+--to--
+```
+os.system("bash /opt/RetroFlag/multi_switch.sh --es-poweroff")
 ```
 
 
