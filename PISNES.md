@@ -29,6 +29,10 @@ SELECT_1=6
 Set your SNES default emulator to pisnes. Fire up some classic super nintendo action!
 
 Some folks have had to change these bindings for some odd reason, so you may want to double check your button numbers using jstest like the config file will tell you when you look inside it.
+## Other settings:
+
+Per blipblopbop the pisnes developer:
+> I'd also recommend setting ""InterpolatedSound=1" to improve the sound quality, it has minimal performance impact on the PiZero.
 
 ## Controls:
 Start+Select=quit. Select+LB=load state, Select+RB=Save state.
