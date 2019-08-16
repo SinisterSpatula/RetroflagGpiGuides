@@ -29,7 +29,7 @@ wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/i
 ```
 os.system("sudo killall emulationstation && sleep 5s && sudo shutdown -h now")
 ```
---to--
+-to-
 ```
 os.system("bash /opt/RetroFlag/multi_switch.sh --es-poweroff")
 ```
