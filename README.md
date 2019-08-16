@@ -14,7 +14,7 @@
 
 [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
-[My Controls are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
+[Controls/D-pad are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
 
 [Commodore64 Setup Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Commodore64)
 
