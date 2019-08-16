@@ -6,7 +6,7 @@ Thanks to: crcerror and Quicksilver
 
 source: [https://www.reddit.com/](https://www.reddit.com/r/retroflag_gpi/comments/co3fm2/gpi_safe_shutdown_script_not_saving_metadata/)
 
-source: https://github.com/RetroFlag/retroflag-picase
+source: [https://github.com/RetroFlag/retroflag-picase](https://github.com/RetroFlag/retroflag-picase)
 
 * Turn switch "SAFE SHUTDOWN" to ON. (located behind batteries)
 
