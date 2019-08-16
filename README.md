@@ -14,8 +14,6 @@
 
 [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
-[Controls Not Working after Reboot](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsBrokeAfterReboot)
-
 [My Controls are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
 
 [Commodore64 Setup Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Commodore64)
