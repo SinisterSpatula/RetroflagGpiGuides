@@ -36,22 +36,22 @@ Source: [8bcraft.com](http://forum.8bcraft.com/viewtopic.php?f=2&t=1432)
 	<image>/home/pi/RetroPie/retropiemenu/icons/Bluetooth-Toggle.png</image>
 </game>
 <game>
-	<path>./WiFi-Toggle/disable-WIFI.sh</path>
+	<path>./WIFI-Toggle/disable-WIFI.sh</path>
 	<name>disable-WIFI</name>
 	<desc>Disable WiFi when not needed</desc>
 	<image>/home/pi/RetroPie/retropiemenu/icons/disable-WIFI.png</image>
 </game>
 <game>
-	<path>./WiFi-Toggle/enable-WIFI.sh</path>
+	<path>./WIFI-Toggle/enable-WIFI.sh</path>
 	<name>enable-WIFI</name>
 	<desc>Enable WiFi when needed</desc>
 	<image>/home/pi/RetroPie/retropiemenu/icons/enable-WIFI.png</image>
 </game>
 <game>
-	<path>./WiFi-Toggle</path>
+	<path>./WIFI-Toggle</path>
 	<name>WiFi-Toggle</name>
 	<desc>Toggle WIFI on or off</desc>
-	<image>/home/pi/RetroPie/retropiemenu/icons/WiFi-Toggle.png</image>
+	<image>/home/pi/RetroPie/retropiemenu/icons/WIFI-Toggle.png</image>
 </game>
 <game>
 	<path>./Shutdown.sh</path>
