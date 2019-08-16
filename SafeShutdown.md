@@ -8,7 +8,7 @@ source: [https://www.reddit.com/](https://www.reddit.com/r/retroflag_gpi/comment
 
 source: https://github.com/RetroFlag/retroflag-picase
 
-Turn switch "SAFE SHUTDOWN" to ON. (located behind batteries)
+* Turn switch "SAFE SHUTDOWN" to ON. (located behind batteries)
 
 ## For RetroPie:
 
