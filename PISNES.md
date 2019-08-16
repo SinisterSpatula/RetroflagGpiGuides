@@ -30,9 +30,10 @@ Set your SNES default emulator to pisnes. Fire up some classic super nintendo ac
 
 Some folks have had to change these bindings for some odd reason, so you may want to double check your button numbers using jstest like the config file will tell you when you look inside it.
 ## Other settings:
+Change "MaintainAspectRatio=1" to your preference (If you want full screen set it to 0).
 
 Per blipblopbop the pisnes developer:
-> I'd also recommend setting ""InterpolatedSound=1" to improve the sound quality, it has minimal performance impact on the PiZero.
+> I'd also recommend setting "InterpolatedSound=1" to improve the sound quality, it has minimal performance impact on the PiZero.
 
 ## Controls:
 Start+Select=quit. Select+LB=load state, Select+RB=Save state.
