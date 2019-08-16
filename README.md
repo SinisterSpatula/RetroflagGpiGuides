@@ -16,6 +16,8 @@
 
 [Controls Not Working after Reboot](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsBrokeAfterReboot)
 
+[My Controls are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
+
 [Commodore64 Setup Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Commodore64)
 
 [Daphne M2V file conversion](https://sinisterspatula.github.io/RetroflagGpiGuides/DaphneConversion)
@@ -25,8 +27,6 @@
 [Emulator Compatibility Chart](https://sinisterspatula.github.io/RetroflagGpiGuides/EmulatorChart)
 
 [File Checks on Every Bootup](https://sinisterspatula.github.io/RetroflagGpiGuides/FileChecksEveryBoot)
-
-[My Controls are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
 
 [Outrun Engine (cannonball)](https://sinisterspatula.github.io/RetroflagGpiGuides/cannonball)
 
