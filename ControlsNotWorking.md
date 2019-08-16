@@ -5,6 +5,10 @@
 
 # My controls are not working
 
+## Is it only the D-pad that's not working?
+
+Try changing the D-pad mode:  Hold Select + Up until the power light flashes purple (HAT mode).  The other mode is: Select + Left (Axis mode).
+
 ## Reset Emulation Station Controller inputs
 
   * [Establish an SSH connection](https://github.com/retropie/retropie-setup/wiki/ssh)
