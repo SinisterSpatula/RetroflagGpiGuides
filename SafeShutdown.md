@@ -16,7 +16,7 @@ source: [https://github.com/RetroFlag/retroflag-picase](https://github.com/Retro
 
 * In the terminal, type the one-line command below(Case sensitive):
 
-```
+```shell
 wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/install_gpi.sh" | sudo bash
 ```
 
