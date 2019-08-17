@@ -2,9 +2,9 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-> Update: spoke too soon.  Okay the offline version seems to be the best way for this. :(  Sorry guys.  Hold off until I have that version available.
+> Update: This is the new offline version.
 
-# Pi Zero boot logo Kernel v4.14.114 Pack (Wifi Version)
+# Pi Zero boot logo Kernel v4.14.114 Pack (Offline Version)
 
 ## Please make a backup of your card first.
 
