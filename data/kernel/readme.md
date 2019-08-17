@@ -9,7 +9,7 @@
 ## Install command
 
 ```shell
-cd && cd && sudo wget -O kernel.sh  https://raw.githubusercontent.com/SinisterSpatula/RetroflagGpiGuides/master/data/kernel/kernel.sh && sudo chmod 775 kernel.sh && sudo bash kernel.sh
+sudo wget -O ~/RetroPie/retropiemenu/Kernel_Boot_Logo.sh  https://raw.githubusercontent.com/SinisterSpatula/RetroflagGpiGuides/master/data/kernel/Kernel_Boot_Logo.sh && sudo chmod 775 ~/RetroPie/retropiemenu/Kernel_Boot_Logo.sh
 ```
 
 ## Usage
