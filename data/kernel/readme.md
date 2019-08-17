@@ -10,10 +10,20 @@
 
 ## Install command
 
+This downloads the pack files and places them to `/opt/bootlogos/`
+
 ```shell
 cd && cd && sudo mkdir -p /opt/bootlogos/ && cd /opt/bootlogos/ && sudo curl -O https://gamemod.com.br/SinisterSpatula/bootlogos/bootlogos-pizero-4-14-114.zip && sudo unzip bootlogos-pizero-4-14-114.zip && sudo rm bootlogos-pizero-4-14-114.zip
 ```
 check for errors, make sure everything completed without any errors.  If errors, do `sudo rm -r /opt/bootlogos/` and try again.
+
+## Install Part two
+
+This places the script to your retropie menu.
+
+```shell
+sudo wget -O ~/RetroPie/retropiemenu/Kernel_Boot_Logo.sh  https://raw.githubusercontent.com/SinisterSpatula/RetroflagGpiGuides/master/data/kernel/Kernel_Boot_Logo.sh && sudo chmod 775 ~/RetroPie/retropiemenu/Kernel_Boot_Logo.sh
+```
 
 ## Usage
 
