@@ -108,7 +108,7 @@ function main_menu() {
             "") break;;
             *) install_modules;
             install_logo;
-            echo "All done.  Rebooting..."
+            echo "All done.  Please reboot..."
             sleep 5;
             exit
 
