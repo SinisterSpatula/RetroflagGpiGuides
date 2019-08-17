@@ -6,6 +6,8 @@
 
 # Pi Zero boot logo Kernel v4.14.114 Pack (Wifi Version)
 
+## Please make a backup of your card first.
+
 ## Install command
 
 ```shell
