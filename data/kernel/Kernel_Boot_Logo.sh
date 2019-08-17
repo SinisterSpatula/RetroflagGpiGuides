@@ -31,31 +31,30 @@ function validate_url(){
 
 function install_modules() {
 # First check if modules are already installed, if they are not, install them. 
-    if validate_url http://gamemod.com.br/SinisterSpatula/bootlogos/4.14.114-modules.tar.gz; then
+    if [ -f "/opt/bootlogos/4.14.114-modules.tar.gz" ]; then
     cd
     cd
     cd /
-    sudo curl -O http://gamemod.com.br/SinisterSpatula/bootlogos/4.14.114-modules.tar.gz
+    sudo cp /opt/bootlogos/4.14.114-modules.tar.gz 4.14.114-modules.tar.gz
     sudo tar -xzvf 4.14.114-modules.tar.gz
     sudo rm 4.14.114-modules.tar.gz
-    modulesExist=true;
     else
-    echo "Please connect to wifi.  Unable to download kernel modules.";
+    echo -e "Please reinstall logo pack files.\nUnable to find kernel modules in /opt/bootlogos/";
     sleep 10;
     exit;
     fi
 }
 
 function install_logo() {
-    if validate_url "http://gamemod.com.br/SinisterSpatula/bootlogos/bootlogokernel$choice.tar.gz"; then
+    if [ -f "/opt/bootlogos/bootlogokernel$choice.tar.gz" ]; then
     cd
     cd
     cd /boot
-    sudo curl -O "http://gamemod.com.br/SinisterSpatula/bootlogos/bootlogokernel$choice.tar.gz"
+    sudo cp "/opt/bootlogos/bootlogokernel$choice.tar.gz" bootlogokernel$choice.tar.gz
     sudo tar -xzvf bootlogokernel$choice.tar.gz
     sudo rm bootlogokernel$choice.tar.gz
     else
-        echo "Please connect to wifi.  Unable to download boot logo kernel."
+        echo "Please reinstall logo pack files.\nUnable to find boot logo kernel in /opt/bootlogos/."
         sleep 10;
         exit;
     fi
