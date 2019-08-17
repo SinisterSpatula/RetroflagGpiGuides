@@ -81,8 +81,8 @@ function main_menu() {
             2 "D.A.R.E" \
             3 "Retroflag" \
             4 "Mario and friends" \
-	        5 "Nintendo" \
-	        6 "Winner's Don't Use Drugs" \
+	    5 "Nintendo" \
+	    6 "Winner's Don't Use Drugs" \
             7 "TNMNT" \
             8 "Blue Loading" \
             9 "Retropie game" \
