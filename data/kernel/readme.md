@@ -11,8 +11,9 @@
 ## Install command
 
 ```shell
-sudo wget -O ~/RetroPie/retropiemenu/Kernel_Boot_Logo.sh  https://raw.githubusercontent.com/SinisterSpatula/RetroflagGpiGuides/master/data/kernel/Kernel_Boot_Logo.sh && sudo chmod 775 ~/RetroPie/retropiemenu/Kernel_Boot_Logo.sh
+cd && cd && sudo mkdir -p /opt/bootlogos/ && cd /opt/bootlogos/ && sudo curl -O https://gamemod.com.br/SinisterSpatula/bootlogos/bootlogos-pizero-4-14-114.zip && sudo unzip bootlogos-pizero-4-14-114.zip && sudo rm bootlogos-pizero-4-14-114.zip
 ```
+check for errors, make sure everything completed without any errors.  If errors, do `sudo rm -r /opt/bootlogos/` and try again.
 
 ## Usage
 
@@ -20,7 +21,7 @@ Locate Kernel_Boot_Logo item on your retropie menu and launch it.
 
 View the gallery at [https://photos.app.goo.gl/3mcbh5VN8hDVn9Ux7](https://photos.app.goo.gl/3mcbh5VN8hDVn9Ux7)
 
-Pick a Logo, install it while connected to wifi, and reboot to see your new logo.
+Pick a Logo, install it and reboot to see your new logo.
 
 Brought to you by the [Retroflag Gpi Case User's group](https://www.facebook.com/groups/401660300458844/).
 
