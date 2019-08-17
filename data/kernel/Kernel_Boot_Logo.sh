@@ -111,5 +111,4 @@ function main_menu() {
 
 # START HERE #################################################################
 
-modulesExist=false;
 main_menu
