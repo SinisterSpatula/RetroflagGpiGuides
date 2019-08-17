@@ -15,7 +15,7 @@ This downloads the pack files and places them to `/opt/bootlogos/`
 ```shell
 cd && cd && sudo mkdir -p /opt/bootlogos/ && cd /opt/bootlogos/ && sudo curl -O https://gamemod.com.br/SinisterSpatula/bootlogos/bootlogos-pizero-4-14-114.zip && sudo unzip bootlogos-pizero-4-14-114.zip && sudo rm bootlogos-pizero-4-14-114.zip
 ```
-check for errors, make sure everything completed without any errors.  If errors, do `sudo rm -r /opt/bootlogos/` and try again.
+check for errors, make sure everything completed without any errors.  If errors, do `cd ~/ && sudo rm -r /opt/bootlogos/` and try again.
 
 ## Install Part two
 
