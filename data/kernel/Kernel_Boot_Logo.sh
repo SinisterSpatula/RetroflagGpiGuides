@@ -31,11 +31,11 @@ function validate_url(){
 
 function install_modules() {
 # First check if modules are already installed, if they are not, install them. 
-    if validate_url https://gamemod.com.br/SinisterSpatula/bootlogos/4.14.114-modules.tar.gz; then
+    if validate_url http://gamemod.com.br/SinisterSpatula/bootlogos/4.14.114-modules.tar.gz; then
     cd
     cd
     cd /
-    sudo wget -O 4.14.114-modules.tar.gz https://gamemod.com.br/SinisterSpatula/bootlogos/4.14.114-modules.tar.gz
+    sudo wget -O 4.14.114-modules.tar.gz http://gamemod.com.br/SinisterSpatula/bootlogos/4.14.114-modules.tar.gz
     sudo tar -xzvf 4.14.114-modules.tar.gz
     sudo rm 4.14.114-modules.tar.gz
     modulesExist=true;
@@ -47,11 +47,11 @@ function install_modules() {
 }
 
 function install_logo() {
-    if validate_url "https://gamemod.com.br/SinisterSpatula/bootlogos/bootlogokernel$choice.tar.gz"; then
+    if validate_url "http://gamemod.com.br/SinisterSpatula/bootlogos/bootlogokernel$choice.tar.gz"; then
     cd
     cd
     cd /boot
-    sudo wget -O bootlogokernel$choice.tar.gz "https://gamemod.com.br/SinisterSpatula/bootlogos/bootlogokernel$choice.tar.gz"
+    sudo wget -O bootlogokernel$choice.tar.gz "http://gamemod.com.br/SinisterSpatula/bootlogos/bootlogokernel$choice.tar.gz"
     sudo tar -xzvf bootlogokernel$choice.tar.gz
     sudo rm bootlogokernel$choice.tar.gz
     else
