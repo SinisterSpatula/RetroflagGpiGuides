@@ -59,6 +59,10 @@ cd && cd RetroPie/retropiemenu && wget -O control_updater_menu.sh  https://raw.g
 ## Does the emulator use default key bindings?
 
 * Controller Framework relies on your emulator to be using the stock standard default key bindings.  If you have changed any of them, then that could be why you're having trouble.  You will need to delete the emulator's configuration file in order to reset it.  Each emulator keeps it's configuration file in a different location.  [Please refer to the Retropie Wiki](https://github.com/RetroPie/RetroPie-Setup/wiki) and read the entry of the emulator you are having troulbe with.  It will show you the information about where the config file can be located.  You just need to delete that file and that should clear and remove your custom key bindings.  In the case of Mame: Mame4all, advmame-0.94, etc.  You will also need to remove any custom key bindings that you did on a per game basis.  So look for those config files as well, and remove them (they should be next to the main/default config file for the emulator).
+
+## Is your keyboard localization set to US/UK?
+
+The maps are meant to use US/UK keys currently.  If your keyboard localization is something different this could pose a problem.  You may need to either switch your localization for your keyboard, or you may have to change the key bindings in each emulator for the buttons that match your keyboard locale.  Such as the letter 'Z' and letter 'Y' might need to be swapped, etc.
   
 
 ## HE-MAN OpenBOR - did you copy default.cfg to HE-MAN.cfg
