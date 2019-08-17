@@ -1,4 +1,11 @@
-You can set up proper controls for standalone Mupen64Plus by manually editing its configuration file.
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
+
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
+
+# Muphen64Plus Controls
+
+### You can set up proper controls for standalone Mupen64Plus by manually editing its configuration file.
 
 Analog stick is set to GPi D-Pad
 (Start) is set to GPi (Start) 
@@ -12,13 +19,17 @@ Analog stick is set to GPi D-Pad
 (C Left) is set to GPi (Select)
 (C Right) has no mapping (currently?)
 
-To do it:
+* To do it:
 
-- Open /opt/retropie/configs/n64/InputAutoCfg.ini
-- Find "[Microsoft X-Box 360 pad]" section
-- Replace this section with the code below
-- Choose mupen64plus-gles2n64 to play
+* Open `/opt/retropie/configs/n64/InputAutoCfg.ini`
 
+* Find "[Microsoft X-Box 360 pad]" section
+
+* Replace this section with the code below
+
+* Choose mupen64plus-gles2n64 to play
+
+```shell
 [Microsoft X-Box 360 pad]
 plugged = True
 plugin = 2
@@ -46,3 +57,13 @@ C Button U = button(2)
 X Axis = hat(0 Left Right)
 Y Axis = hat(0 Up Down)
 ; Microsoft X-Box 360 pad_
+```
+
+
+## Support Thread
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
+
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
