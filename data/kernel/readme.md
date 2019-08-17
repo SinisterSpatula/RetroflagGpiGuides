@@ -16,7 +16,7 @@ sudo wget -O ~/RetroPie/retropiemenu/Kernel_Boot_Logo.sh  https://raw.githubuser
 
 Locate Kernel_Boot_Logo item on your retropie menu and launch it.
 
-View the gallery at [https://bit.ly/2KCwyic](https://bit.ly/2KCwyic)
+View the gallery at [https://photos.app.goo.gl/3mcbh5VN8hDVn9Ux7](https://photos.app.goo.gl/3mcbh5VN8hDVn9Ux7)
 
 Pick a Logo, install it while connected to wifi, and reboot to see your new logo.
 
