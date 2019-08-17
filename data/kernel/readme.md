@@ -4,7 +4,7 @@
 
 
 
-# Pi Zero boot logo Kernel v4.14.114 Pack
+# Pi Zero boot logo Kernel v4.14.114 Pack (Wifi Version)
 
 ## Install command
 
