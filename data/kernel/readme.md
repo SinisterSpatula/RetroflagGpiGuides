@@ -2,7 +2,7 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-> Update: having some issues with the server cutting off the download intermittently, going to remake this as an offline pack.  May want to wait for that instead of using the wifi version below.
+> Update: changed from wget to curl and working much better now!
 
 # Pi Zero boot logo Kernel v4.14.114 Pack (Wifi Version)
 
