@@ -1,5 +1,5 @@
 #!/bin/bash
-# change_es_systems.sh
+# Kernel_Boot_Logo.sh
 #############
 # This script lets you change your boot logo by installing a new kernel and modules.
 #
