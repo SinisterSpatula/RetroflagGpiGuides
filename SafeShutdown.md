@@ -25,17 +25,17 @@ wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/i
 > For those who are interested, I have adapted crcerror's awesome shutdown script to work with the GPi case. This is a much more elegant way of implementing safe shutdown as it will cleanly exit any emulator first and then shutdown without exiting to the terminal. (all credit goes to crcerror)
 
 1. Run this command: 
-```
-wget -O /opt/RetroFlag/multi_switch.sh "https://raw.githubusercontent.com/crcerror/retroflag-picase/master/multi_switch.sh"
-```
+  ```shell
+  wget -O /opt/RetroFlag/multi_switch.sh "https://raw.githubusercontent.com/crcerror/retroflag-picase/master/multi_switch.sh"
+  ```
 1. Edit `SafeShutdown.py` located at `/opt/RetroFlag/` and change:
-```
-os.system("sudo killall emulationstation && sleep 5s && sudo shutdown -h now")
-```
--to-
-```
-os.system("bash /opt/RetroFlag/multi_switch.sh --es-poweroff")
-```
+  ```shell
+  os.system("sudo killall emulationstation && sleep 5s && sudo shutdown -h now")
+  ```
+  -to-
+  ```shell
+  os.system("bash /opt/RetroFlag/multi_switch.sh --es-poweroff")
+  ```
 
 
 ## For Recalbox
