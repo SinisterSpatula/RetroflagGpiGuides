@@ -52,7 +52,7 @@ wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/i
 
 * In the terminal, type the one-line command below(Case sensitive):
 
-```
+```shell
 wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/recalbox_install_gpi.sh" | bash
 ```
 
