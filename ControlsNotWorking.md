@@ -62,7 +62,7 @@ cd && cd RetroPie/retropiemenu && wget -O control_updater_menu.sh  https://raw.g
 
 ## Is your keyboard localization set to US/UK?
 
-The maps are meant to use US/UK keys currently.  If your keyboard localization is something different this could pose a problem.  You may need to either switch your localization for your keyboard, or you may have to change the key bindings in each emulator for the buttons that match your keyboard locale.  Such as the letter 'Z' and letter 'Y' might need to be swapped, etc.
+The Controller Framework scripts are meant to use US/UK keys currently.  If your keyboard localization is something different this could pose a problem.  You may need to either switch your localization for your keyboard, or you may have to change the key bindings in each emulator for the buttons that match your keyboard locale.  Such as the letter 'Z' and letter 'Y' might need to be swapped, etc.
   
 
 ## HE-MAN OpenBOR - did you copy default.cfg to HE-MAN.cfg
