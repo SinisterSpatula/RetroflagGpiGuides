@@ -28,17 +28,9 @@ function validate_url(){
   fi
 }
 
-function check_modules() {
-    [ -d "/lib/modules/4.14.114+" ] && modulesExist=true || modulesExist=false;
-}
 
 function install_modules() {
-# First check if modules are already installed, if they are not, install them.
-    check_modules;
-    if [ $modulesExist ]; then
-    return;
-    fi
-    
+# First check if modules are already installed, if they are not, install them. 
     if validate_url https://gamemod.com.br/SinisterSpatula/bootlogos/4.14.114-modules.tar.gz; then
     cd
     cd
@@ -50,7 +42,7 @@ function install_modules() {
     else
     echo "Please connect to wifi.  Unable to download kernel modules.";
     sleep 10;
-    return;
+    exit;
     fi
 }
 
@@ -65,7 +57,7 @@ function install_logo() {
     else
         echo "Please connect to wifi.  Unable to download boot logo kernel."
         sleep 10;
-        return;
+        exit;
     fi
 }
 
