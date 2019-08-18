@@ -35,6 +35,10 @@ Pick a Logo, install it and reboot to see your new logo.
 
 Brought to you by the [Retroflag Gpi Case User's group](https://www.facebook.com/groups/401660300458844/).
 
+### Hey wait, there's still one line of text at the bottom:
+
+You should [apply these changes here](https://sinisterspatula.github.io/RetroflagGpiGuides/MakeBootSilent) to remove that line of text.
+
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
