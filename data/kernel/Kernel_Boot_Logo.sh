@@ -52,7 +52,7 @@ sudo tar -xzvf 4.14.114-modules.tar.gz; sync
 sudo rm 4.14.114-modules.tar.gz
 sudo mkdir -p /opt/bootlogos/
 sudo echo "4.14.114 Kernel Modules have been installed." > /opt/bootlogos/save.cfg
-
+install_logo;
 }
 
 function install_logo() {
