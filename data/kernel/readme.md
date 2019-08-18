@@ -35,6 +35,10 @@ Pick a Logo, install it and reboot to see your new logo.
 
 Brought to you by the [Retroflag Gpi Case User's group](https://www.facebook.com/groups/401660300458844/).
 
+## Troubleshooting
+
+4.5.1 black screen after logo install:  grab kernel.img from stock 4.5.1 and copy it to your boot partition.  Edit the config.txt and change the `kernel=zImage` to `kernel=kernel.img`
+
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
 
