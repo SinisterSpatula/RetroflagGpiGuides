@@ -2,7 +2,7 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-> Update: This is the new offline version.
+> Update: This is the new offline version.  Still not ready for use, fixing major problems.
 
 # Pi Zero boot logo Kernel v4.14.114 Pack (Offline Version)
 
