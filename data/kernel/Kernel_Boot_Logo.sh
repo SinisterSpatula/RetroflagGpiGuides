@@ -39,7 +39,8 @@ if [ ! -f "/opt/bootlogos/save.cfg" ]; then
     	sudo cp /opt/bootlogos/4.14.114-modules.tar.gz 4.14.114-modules.tar.gz
     	sudo tar -xzvf 4.14.114-modules.tar.gz; sync
     	sudo rm 4.14.114-modules.tar.gz
-    	sudo echo "4.14.114 Kernel Modules have been installed." > /opt/bootlogos/save.cfg
+    	sudo mkdir -p /opt/bootlogos/
+	sudo echo "4.14.114 Kernel Modules have been installed." > /opt/bootlogos/save.cfg
     	fi
     else
     echo -e "Please reinstall logo pack files.\nUnable to find kernel modules in /opt/bootlogos/";
