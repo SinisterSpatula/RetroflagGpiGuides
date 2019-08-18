@@ -2,7 +2,7 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-> Update: Dang.  Still resolving problems, again.
+> Update: Finally, this is good to go.  Wow, did not think there were so many things that could still cause this to not work.  I apologize if anyone had trouble, I am 100% confident int his tool now and feel like it's solid.  Enjoy!  And let me know what you think.
 
 # Pi Zero boot logo Kernel v4.14.114 Pack (Offline Version)
 
