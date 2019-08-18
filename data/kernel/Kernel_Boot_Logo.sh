@@ -7,10 +7,11 @@
 # SinisterSpatula - Aug 18 2019
 #
 # place script in /home/pi/RetroPie/retropiemenu/
+# place book logo kernel packs to /opt/bootlogos/
 # Making changes to the Linux Kernel is risky, please make a full back-up of your SD card before using this utility.
 #  
 # This Tool is compatible with pi Zero Retroflag Gpi Case, and Gameboy Zero (pi zero gameboy) or other small screen 320x240
-# Pi zero based retropie systems. This is the online version which connects to a server to download the boot logo of choice
+# Pi zero based retropie systems. This is the offline version which relies on local files stored for the boot logo of choice
 # and installs it.  The kernels are version 4.14.114.  If you need an offline version, use my other script.
 #
 
