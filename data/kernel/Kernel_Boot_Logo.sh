@@ -32,23 +32,27 @@ function validate_url(){
 
 function install_modules() {
 # First check if modules are already installed, if they are not, install them. 
-if [ ! -f "/opt/bootlogos/save.cfg" ]; then
-	elif [ ! -f "/opt/bootlogos/4.14.114-modules.tar.gz" ]; then 
-   	echo -e "Please reinstall logo pack files.\nUnable to find kernel modules in /opt/bootlogos/";
-   	sleep 10;
-   	exit;
-	fi
-	
-	else
-	cd
-	cd
-	cd /
-	sudo cp /opt/bootlogos/4.14.114-modules.tar.gz 4.14.114-modules.tar.gz
-    	sudo tar -xzvf 4.14.114-modules.tar.gz; sync
-    	sudo rm 4.14.114-modules.tar.gz
-    	sudo mkdir -p /opt/bootlogos/
-	sudo echo "4.14.114 Kernel Modules have been installed." > /opt/bootlogos/save.cfg
+if [ -f "/opt/bootlogos/save.cfg" ]; then
+install_logo;
+return;
 fi
+
+if [ ! -f "/opt/bootlogos/4.14.114-modules.tar.gz" ]; then 
+echo -e "Please reinstall logo pack files.\nUnable to find kernel modules in /opt/bootlogos/";
+sleep 10;
+exit;
+fi
+
+# We didn't have the save file, we do have the modules pack, let's install.
+cd
+cd
+cd /
+sudo cp /opt/bootlogos/4.14.114-modules.tar.gz 4.14.114-modules.tar.gz
+sudo tar -xzvf 4.14.114-modules.tar.gz; sync
+sudo rm 4.14.114-modules.tar.gz
+sudo mkdir -p /opt/bootlogos/
+sudo echo "4.14.114 Kernel Modules have been installed." > /opt/bootlogos/save.cfg
+
 }
 
 function install_logo() {
@@ -114,7 +118,6 @@ function main_menu() {
         case "$choice" in
             "") break;;
             *) install_modules;
-            install_logo;
 	    echo "Saving changes to disk";
 	    sync;
             echo "All done.  Shutting down now..."
