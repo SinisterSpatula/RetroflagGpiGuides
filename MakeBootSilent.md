@@ -7,7 +7,7 @@
 
 * open cmdline.txt (it is located on the first partition of your SD card, usually D: drive)
 
-* These are the changes to /boot/cmdline.txt:
+* These are the changes to /boot/cmdline.txt, do not copy and paste, they should all be on one line in your local copy, they are listed in this format to make it easier to read.  Compare it to yours and make any changes that are needed.
 
 ```
 dwc_otg.lpm_enable=0
@@ -20,7 +20,6 @@ fsck.repair=no
 rootwait loglevel=3
 consoleblank=0
 plymouth.enable=0
-quiet logo.nologo
 vt.global_cursor_default=0
 ```
 
