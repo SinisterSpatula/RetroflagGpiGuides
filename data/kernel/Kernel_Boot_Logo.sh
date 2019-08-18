@@ -53,8 +53,15 @@ function install_logo() {
     sudo cp "/opt/bootlogos/bootlogokernel$choice.tar.gz" bootlogokernel$choice.tar.gz
     sudo tar -xzvf bootlogokernel$choice.tar.gz
     sudo rm bootlogokernel$choice.tar.gz
-    KERNEL=$(grep "kernel=" /boot/config.txt | cut -c8-)
-    sudo mv kernel.img $KERNEL
+    
+    	if grep "kernel=kernel.img" /boot/config.txt; then
+    	sudo mv kernel.img kernel.img
+    	fi
+
+    	if grep "kernel=zImage" /boot/config.txt; then
+    	sudo mv kernel.img zImage
+    	fi
+
     else
         echo "Please reinstall logo pack files.\nUnable to find boot logo kernel in /opt/bootlogos/."
         sleep 10;
