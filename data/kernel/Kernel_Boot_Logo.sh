@@ -31,13 +31,16 @@ function validate_url(){
 
 function install_modules() {
 # First check if modules are already installed, if they are not, install them. 
-    if [ -f "/opt/bootlogos/4.14.114-modules.tar.gz" ]; then
-    cd
-    cd
-    cd /
-    sudo cp /opt/bootlogos/4.14.114-modules.tar.gz 4.14.114-modules.tar.gz
-    sudo tar -xzvf 4.14.114-modules.tar.gz; sync
-    sudo rm 4.14.114-modules.tar.gz
+if [ ! -f "/opt/bootlogos/save.cfg" ]; then
+	if [ -f "/opt/bootlogos/4.14.114-modules.tar.gz" ]; then
+    	cd
+    	cd
+    	cd /
+    	sudo cp /opt/bootlogos/4.14.114-modules.tar.gz 4.14.114-modules.tar.gz
+    	sudo tar -xzvf 4.14.114-modules.tar.gz; sync
+    	sudo rm 4.14.114-modules.tar.gz
+    	sudo echo "4.14.114 Kernel Modules have been installed." > /opt/bootlogos/save.cfg
+    	fi
     else
     echo -e "Please reinstall logo pack files.\nUnable to find kernel modules in /opt/bootlogos/";
     sleep 10;
