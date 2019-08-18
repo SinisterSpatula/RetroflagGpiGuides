@@ -55,11 +55,12 @@ function install_logo() {
     sudo rm bootlogokernel$choice.tar.gz
     
     	if grep "kernel=kernel.img" /boot/config.txt; then
-    	sudo mv kernel.img kernel.img
+	echo "Kernel command is set correctly.";
     	fi
 
     	if grep "kernel=zImage" /boot/config.txt; then
-    	sudo mv kernel.img zImage
+	sudo perl -p -i -e 's/zImage/kernel.img/g' /boot/config.txt
+    	echo "Changed kernel=zImage to kernel=kernel.img in /boot/config.txt";
     	fi
 
     else
