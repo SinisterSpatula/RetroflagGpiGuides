@@ -4,7 +4,7 @@
 # This script lets you change your boot logo by installing a new kernel and modules.
 #
 # v1
-# SinisterSpatula - Aug 15 2019
+# SinisterSpatula - Aug 18 2019
 #
 # place script in /home/pi/RetroPie/retropiemenu/
 # Making changes to the Linux Kernel is risky, please make a full back-up of your SD card before using this utility.
