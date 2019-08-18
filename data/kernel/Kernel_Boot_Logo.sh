@@ -36,7 +36,7 @@ function install_modules() {
     cd
     cd /
     sudo cp /opt/bootlogos/4.14.114-modules.tar.gz 4.14.114-modules.tar.gz
-    sudo tar -xzvf 4.14.114-modules.tar.gz
+    sudo tar -xzvf 4.14.114-modules.tar.gz; sync
     sudo rm 4.14.114-modules.tar.gz
     else
     echo -e "Please reinstall logo pack files.\nUnable to find kernel modules in /opt/bootlogos/";
@@ -51,7 +51,7 @@ function install_logo() {
     cd
     cd /boot
     sudo cp "/opt/bootlogos/bootlogokernel$choice.tar.gz" bootlogokernel$choice.tar.gz
-    sudo tar -xzvf bootlogokernel$choice.tar.gz
+    sudo tar -xzvf bootlogokernel$choice.tar.gz; sync
     sudo rm bootlogokernel$choice.tar.gz
     
     	if grep "kernel=kernel.img" /boot/config.txt; then
@@ -109,8 +109,12 @@ function main_menu() {
             "") break;;
             *) install_modules;
             install_logo;
-            echo "All done.  Please reboot..."
-            sleep 5;
+	    echo "Saving changes to disk";
+	    sync;
+            echo "All done.  Shutting down now..."
+	    echo "wait for shutdown to finish before switching off."
+            sleep 10;
+	    sudo shutdown -h now    
             exit
 
         esac
