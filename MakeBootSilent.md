@@ -22,6 +22,7 @@ consoleblank=0
 plymouth.enable=0
 vt.global_cursor_default=0
 ```
+If you are NOT using a kernel boot logo and you want the raspberry icon to disappear, also add `quiet logo.nologo`
 
 > This will hide all the text you see when booting, and make the bootup process completely silent/hidden.
 
