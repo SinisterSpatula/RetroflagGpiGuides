@@ -2,11 +2,9 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-> Update: Finally, this is good to go.  Wow, did not think there were so many things that could still cause this to not work.  I apologize if anyone had trouble, I am 100% confident in this tool now and feel like it's solid.  Enjoy!  And let me know what you think.
+> Update: I am 100% confident in this tool now and feel like it's solid.  Enjoy!  And let me know what you think.
 
 # Pi Zero boot logo Kernel v4.14.114 Pack (Offline Version)
-
-## Please make a backup of your card first, just in case
 
 ## Install command
 
