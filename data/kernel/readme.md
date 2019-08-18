@@ -39,6 +39,9 @@ Brought to you by the [Retroflag Gpi Case User's group](https://www.facebook.com
 
 You should [apply these changes here](https://sinisterspatula.github.io/RetroflagGpiGuides/MakeBootSilent) to remove that line of text.
 
+### Troubleshooting
+
+On the off chance it does not boot, you can try: changing your kernel= value in config.txt of your boot partition to kernel=kernel.img, and copy over a kernel.img from a replacement image.
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
