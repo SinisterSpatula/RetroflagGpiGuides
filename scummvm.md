@@ -2,22 +2,20 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
-Thanks to bebeidon and Kev Rose
+Thanks to: bebeidon
 
 
 ## Game installation
  
-### Libreto:
-
+### Libretro:
 Put your gamefolders in `/home/pi/Retropie/roms/scummvm/`
-You have to put a SHORTNAME.svm in the folder of the game so it can be run by libreto.
+You have to put a SHORTNAME.svm in the folder of the game so it can be run by Libretro.
 Shortnames can be found here: [https://www.scummvm.org/compatibility/](https://www.scummvm.org/compatibility/)
 the shortname.svm file must only contain the shortname again so for monkey island 2 there would be a monkey2.svm with monkey2 in it.
-Further info and explanation regarding the installation in libreto: [https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2](https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2)
+Further info and explanation regarding the installation in Libretro: [https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2](https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2)
  
 ### Standalone:
-
-Put your gamefolders in /home/pi/Retropie/roms/scummvm/
+Put your gamefolders in `/home/pi/Retropie/roms/scummvm/`
 Start the SCUMMVM Launcher with the Script in the SCUMMVM section in emulationstation.
 Choose "Add Game" on the right and choose the folder of the game you want to add after the process it will generate a *.svm file in the scummvm folder with the ID of the just added game.
 You can either start the game or quit the launcher now.
@@ -27,15 +25,18 @@ After the restart the added game(s) should appear in the gamelist and can be dir
 
 
 ## Scraping
-
-For scraping purposes it appears both variants work well because the shortname in libreto = ID in standalone and with that info they can find matches.
+For scraping purposes it appears both variants work well because the shortname in Libretro = ID in standalone and with that info they can find matches.
 So it is best to leave the ID in standalone as the automatically generated one.
  
 
 
 ## Controls
 
+Libretro:
 If you press start or select in-game it brings up the scummvm menu for saving. Start and select quits.
+
+standalone:
+If you want to save/load/quit most of the time you have to use the ingame options. Some games like the Monkey Island series allow to open the SCUMMVM menu with the R-button.
 
 Make dpad work in standalone with change of mode -> SELECT+LEFT / SELECT+UP
 depending on which mode should be applied -> prefered mode should be configured in emulationstation "Configure Inputs"
@@ -44,21 +45,21 @@ LED flashes purple when change successful
 
 ## Broken Sword / Baphomets Fluch 1, 2, 2.5
 
-Libreto: all games not possible due bad performance
+Libretro: all games not possible due bad performance
 
 Standalone: 1 is fine, 2 is on the edge but performs well enough for a point&click for my taste, 2.5 not possible due performance
 
 ## Monkey Island 2 (only standard/original no talkie-version at this point)
 
-Skip copy protection -> either libreto or save state in standalone 
-libreto lets you input a keyboard "5" via R-button so it's possible to skip the protection.
+Skip copy protection -> either Libretro or save state in standalone 
+Libretro lets you input a keyboard "5" via R-button so it's possible to skip the protection.
 on standalone you have to connect a keyboard to skip the protection (Pi outside of GPi) and create save states (normal and light mode) so you can access them through the scummvm launcher later when in the GPi again.
 
 ## Simon the Sorcerer 1 & 2
 
 Is problematic because on save/load/exit you always have to confirm with either Y or N (on actual keyboard)
 
-No solution so far on standalone, on libreto maybe possible via remapping through retroarch config?
+No solution so far on standalone, on Libretro maybe possible via remapping through retroarch config?
 
 ## Leather_Goddesses_of_Phobos_2
 
@@ -74,9 +75,9 @@ which can be loaded after directly from the launcher
 
 ## Running games overview
 
-if games in the standalone list are not in the libreto list it's mostly because they either don't run at all or with really bad performance/unplayable.
+if games in the standalone list are not in the Libretro list it's mostly because they either don't run at all or with really bad performance/unplayable.
 
-## libreto:
+# Libretro:
 
 ```
 Amazon - Guardians Of Eden
@@ -117,7 +118,7 @@ Zak McKracken and the Alien Mindbenders
 
 -------------------------------------------------------------
 
-## standalone:
+# Standalone:
 
 ```
 Amazon_Guardians_of_Eden
@@ -174,4 +175,3 @@ Zak_McKraken_and_the_Alien_Mindbenders
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
-
