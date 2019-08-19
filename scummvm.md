@@ -90,7 +90,9 @@ The Secret of Monkey Island
 Zak McKracken and the Alien Mindbenders
 ```
 
-# standalone:
+-------------------------------------------------------------
+
+## standalone:
 
 ```
 Amazon_Guardians_of_Eden
