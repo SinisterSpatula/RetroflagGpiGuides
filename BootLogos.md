@@ -4,7 +4,7 @@
 
 > Update: I am 100% confident in this tool now and feel like it's solid.  Enjoy!  And let me know what you think.
 
-# Pi Zero boot logo Kernel v4.14.114 Pack (Offline Version)
+# Pi Zero and Zero W boot logo Kernel v4.14.114 Pack (Offline Version)
 
 ## Install command
 
