@@ -34,6 +34,9 @@ Minecraft | Minecraft (ports) | Uses [Advanced Control Framework.](https://sinis
 Neo Geo | pifba | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)  Full speed, some games have graphical glitches |
 NES | lr-nestopia | |
 N64 | mupen64plus-gles2n64 | Some games are playable at decent speed. See [Mupen64Plus Controls Mapping](https://sinisterspatula.github.io/RetroflagGpiGuides/Mupen64PlusControlsMapping)|
+Outrun | Cannonball | Works great if you set 30 FPS video.  See: [https://sinisterspatula.github.io/RetroflagGpiGuides/cannonball](https://sinisterspatula.github.io/RetroflagGpiGuides/cannonball) |
+Openbor | Openbor3400 | OpenBOR (beats of rage engine) Works great, see: [https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborInstall](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborInstall) |
+Openbor6xxx Beta | Openbor6xxx | Some games work great, HD graphics games don't fit the screen properly.  See: [https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborBeta6510](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborBeta6510) |
 PS1 | pcsx-rearmed | Uses [Advanced Control Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework), many games run great. Also see [Playstation 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools) |
 Pico 8 | Pico 8 | works great.  See guide here: [https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8) |
 SCUMMVM | lr-scummvm | Works great.  See [Scummvm Information](https://sinisterspatula.github.io/RetroflagGpiGuides/scummvm) |
