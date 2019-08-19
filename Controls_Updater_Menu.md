@@ -83,7 +83,7 @@ RB = BTN_TR
 Select = BTN_SELECT
 Start = BTN_START
 
-(select+up mode)
+(select+up mode, factory default)
 D-pad Up - HAT Y-
 D-pad Down - HAT Y+
 D-pad Left - HAT X-
