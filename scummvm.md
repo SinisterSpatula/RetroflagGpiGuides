@@ -2,6 +2,8 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
+ Source: [Retropie Forums](https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2)
+ 
  Thanks to bebeidon and Kev Rose
 
 # Scummvm information
