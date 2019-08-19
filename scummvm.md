@@ -16,7 +16,7 @@ Shortnames can be found here: [https://www.scummvm.org/compatibility/](https://w
 
 The shortname.svm file must only contain the shortname again so for monkey island 2 there would be a monkey2.svm with monkey2 in it.
 
-Further info and explanation regarding the installation in Libretro: [https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2](https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing)
+Further info and explanation regarding the installation in Libretro: [https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/](https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing)
  
 ### Standalone:
 Put your gamefolders in `/home/pi/Retropie/roms/scummvm/`
