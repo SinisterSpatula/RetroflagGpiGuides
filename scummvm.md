@@ -75,7 +75,7 @@ Is problematic because on save/load/exit you always have to confirm with either 
 
 No solution so far on standalone, on Libretro maybe possible via remapping through retroarch config?
 
-## Leather_Goddesses_of_Phobos_2
+## Leather Goddesses of Phobos 2
 
 Only starts on standalone same problem with exit as Simon the Sorcerer
 
