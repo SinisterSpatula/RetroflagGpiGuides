@@ -17,7 +17,7 @@
 ## Shortname's
 
 You have to put a SHORTNAME.svm in the folder of the game so it can be run by libreto
-shortnames can be found here: https://www.scummvm.org/compatibility/
+shortnames can be found here: [https://www.scummvm.org/compatibility/](https://www.scummvm.org/compatibility/)
 the shortname.svm file must only contain the shortname again so for monkey island 2 there would be a monkey2.svm with monkey2 in it
 
 ## Broken Sword / Baphomets Fluch 1, 2, 2.5
