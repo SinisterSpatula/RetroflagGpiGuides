@@ -65,6 +65,32 @@ Useful Testing/development commands:
    evtest /dev/input/event[1]
 ```
 
+Default GPi physical gamepad events:
+
+```
+(Select+left mode)
+D-pad Up - abs Y-
+D-pad Down - abs Y+
+D-pad Left -  abs X-
+D-pad Right - abs X+
+
+A = BTN_SOUTH
+B = BTN_EAST
+X = BTN_NORTH
+Y = BTN_WEST
+LB = BTN_TL
+RB = BTN_TR
+Select = BTN_SELECT
+Start = BTN_START
+
+(select+up mode)
+D-pad Up - HAT Y-
+D-pad Down - HAT Y+
+D-pad Left - HAT X-
+D-pad Right - HAT X+
+
+```
+
 ## See also
 [Advanced Controller Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)
 
