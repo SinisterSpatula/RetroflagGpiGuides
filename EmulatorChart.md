@@ -42,7 +42,7 @@ Sega Genesis | lr-picodrive | |
 SG-1000 | lr-genesis-plus-gx | |
 SNES | pisnes | The fastest snes emulator but suffers inaccuracy, no superfx, some games not compatible, [setup controls in it's config file](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES) |
 SNES | lr-snes9x2002 | Some games have slight audio glitches, a few do not run full speed |
-SORR | SORR | Streets of Rage Remake see: [https://sinisterspatula.github.io/RetroflagGpiGuides/sorr](https://sinisterspatula.github.io/RetroflagGpiGuides/sorr) |
+SORR | SORR | Streets of Rage Remake, runs perfect see: [https://sinisterspatula.github.io/RetroflagGpiGuides/sorr](https://sinisterspatula.github.io/RetroflagGpiGuides/sorr) |
 Turbografx 16 | lr-beetle-pce-fast | Runs great |
 Turbografx CD | lr-beetle-pce-fast | Runs great. Needs syscard3.pce BIOS file |
 Vectrex | lr-vecx | |
