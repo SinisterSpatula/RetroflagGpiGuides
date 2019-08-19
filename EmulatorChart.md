@@ -35,12 +35,14 @@ Neo Geo | pifba | Uses [Advanced Control Framework.](https://sinisterspatula.git
 NES | lr-nestopia | |
 N64 | mupen64plus-gles2n64 | Some games are playable at decent speed. See [Mupen64Plus Controls Mapping](https://sinisterspatula.github.io/RetroflagGpiGuides/Mupen64PlusControlsMapping)|
 PS1 | pcsx-rearmed | Uses [Advanced Control Framework](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework), many games run great. Also see [Playstation 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools) |
+Pico 8 | Pico 8 | works great.  See guide here: [https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8) |
 SCUMMVM | lr-scummvm | Works great.  See [Scummvm Information](https://sinisterspatula.github.io/RetroflagGpiGuides/scummvm) |
 Sega CD | lr-picodrive | Works great.  May need to update it for best results. |
 Sega Genesis | lr-picodrive | |
 SG-1000 | lr-genesis-plus-gx | |
 SNES | pisnes | The fastest snes emulator but suffers inaccuracy, no superfx, some games not compatible, [setup controls in it's config file](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES) |
 SNES | lr-snes9x2002 | Some games have slight audio glitches, a few do not run full speed |
+SORR | SORR | Streets of Rage Remake see: [https://sinisterspatula.github.io/RetroflagGpiGuides/sorr](https://sinisterspatula.github.io/RetroflagGpiGuides/sorr) |
 Turbografx 16 | lr-beetle-pce-fast | Runs great |
 Turbografx CD | lr-beetle-pce-fast | Runs great. Needs syscard3.pce BIOS file |
 Vectrex | lr-vecx | |
