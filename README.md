@@ -62,6 +62,8 @@
 
 [Theme: Super Retroboy by Travis Wilson](https://github.com/KALEL1981/es-theme-Super-Retroboy)
 
+[Theme: bebeidon/es-theme-pixel Modified for Gpi](https://github.com/bebeidon/es-theme-pixel)
+
 [Video Poker Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/VideoPoker)
   
 [Video Snaps Conversion](https://sinisterspatula.github.io/RetroflagGpiGuides/snapsconversion)
