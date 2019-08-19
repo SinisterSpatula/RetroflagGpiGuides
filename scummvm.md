@@ -2,25 +2,45 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
- Source: [Retropie Forums](https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2)
- 
- Thanks to bebeidon and Kev Rose
+Thanks to bebeidon and Kev Rose
 
-# Scummvm information
 
- > you will need both the libretro and non-libretro versions.
+## Game installation
  
- * For scummvm Install lr-scummvm (experimental?)
- 
- * place your games within folders into the scummvm folder in: `retropie/roms/scummvm/`
- 
- * rename your game's folder (say monkeyisland) to monkeyisland.svm for it to show in EmulationStation.
+### Libreto:
 
-## Shortname's
+Put your gamefolders in `/home/pi/Retropie/roms/scummvm/`
+You have to put a SHORTNAME.svm in the folder of the game so it can be run by libreto.
+Shortnames can be found here: [https://www.scummvm.org/compatibility/](https://www.scummvm.org/compatibility/)
+the shortname.svm file must only contain the shortname again so for monkey island 2 there would be a monkey2.svm with monkey2 in it.
+Further info and explanation regarding the installation in libreto: [https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2](https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing/2)
+ 
+### Standalone:
 
-You have to put a SHORTNAME.svm in the folder of the game so it can be run by libreto
-shortnames can be found here: [https://www.scummvm.org/compatibility/](https://www.scummvm.org/compatibility/)
-the shortname.svm file must only contain the shortname again so for monkey island 2 there would be a monkey2.svm with monkey2 in it
+Put your gamefolders in /home/pi/Retropie/roms/scummvm/
+Start the SCUMMVM Launcher with the Script in the SCUMMVM section in emulationstation.
+Choose "Add Game" on the right and choose the folder of the game you want to add after the process it will generate a *.svm file in the scummvm folder with the ID of the just added game.
+You can either start the game or quit the launcher now.
+After quitting SCUMMVM will generate a new gamelist.xml which will be only be visible after a restart of emulationstation.
+After the restart the added game(s) should appear in the gamelist and can be directly started.
+ 
+
+
+## Scraping
+
+For scraping purposes it appears both variants work well because the shortname in libreto = ID in standalone and with that info they can find matches.
+So it is best to leave the ID in standalone as the automatically generated one.
+ 
+
+
+## Controls
+
+If you press start or select in-game it brings up the scummvm menu for saving. Start and select quits.
+
+Make dpad work in standalone with change of mode -> SELECT+LEFT / SELECT+UP
+depending on which mode should be applied -> prefered mode should be configured in emulationstation "Configure Inputs"
+LED flashes purple when change successful
+
 
 ## Broken Sword / Baphomets Fluch 1, 2, 2.5
 
@@ -49,11 +69,14 @@ Only starts on standalone same problem with exit as Simon the Sorcerer
 Copy protection needs keyboard (and game manual) only possible way is cracking the protection with online help and set save states
 which can be loaded after directly from the launcher
 
+
+
+
 ## Running games overview
 
 if games in the standalone list are not in the libreto list it's mostly because they either don't run at all or with really bad performance/unplayable.
 
-## Libreto
+## libreto:
 
 ```
 Amazon - Guardians Of Eden
@@ -144,17 +167,6 @@ Zak_McKraken_and_the_Alien_Mindbenders
 ```
 
 
-## Controls:
-If you press start or select in-game it brings up the scummvm menu for saving. Start and select quits.
-
-Make dpad work in standalone with change of mode -> SELECT+LEFT / SELECT+UP
-depending on which mode should be applied -> prefered mode should be configured in emulationstation "Configure Inputs"
-LED flashes purple when change successful
-
-## Additional Resources
-[More Info Here](https://retropie.org.uk/forum/topic/19693/lr-scummvm-request-for-comments-and-testing)
-
-
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
@@ -162,3 +174,4 @@ LED flashes purple when change successful
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
+
