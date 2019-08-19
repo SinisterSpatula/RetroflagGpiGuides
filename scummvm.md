@@ -53,6 +53,7 @@ if games in the standalone list are not in the libreto list it's mostly because 
 
 ## Libreto
 
+```
 Amazon - Guardians Of Eden
 Beneath a Steel Sky
 Conquests of the Longbow - The Legend of Robin Hood
@@ -87,9 +88,11 @@ The Legend of Kyrandia 2
 The Legend of Kyrandia 3 Malcolm's Revenge
 The Secret of Monkey Island
 Zak McKracken and the Alien Mindbenders
+```
 
 # standalone:
 
+```
 Amazon_Guardians_of_Eden
 Beneath_a_Steel_Sky
 Broken_Sword_1
@@ -134,6 +137,7 @@ The_Secret_of_Monkey_Island Stndard & Talkie Version
 Torins_Pasage
 touche
 Zak_McKraken_and_the_Alien_Mindbenders
+```
 
 
 ## Controls:
