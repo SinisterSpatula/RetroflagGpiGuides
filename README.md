@@ -10,6 +10,8 @@
 
 [Advanced Controller Framework install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Controls_Updater_Menu)
 
+[Boot Logo Pack](https://sinisterspatula.github.io/RetroflagGpiGuides/BootLogos)
+
 [Booting Silently/Hidden](https://sinisterspatula.github.io/RetroflagGpiGuides/MakeBootSilent)
 
 [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
