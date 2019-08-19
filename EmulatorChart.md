@@ -49,7 +49,7 @@ SORR | SORR | Streets of Rage Remake, runs perfect see: [https://sinisterspatula
 Turbografx 16 | lr-beetle-pce-fast | Runs great |
 Turbografx CD | lr-beetle-pce-fast | Runs great. Needs syscard3.pce BIOS file |
 Vectrex | lr-vecx | |
-Wolfenstein3d | Custom Wolf4SDL core | See [this post for getting the custom Wolf4SDL installed](https://retropie.org.uk/forum/post/164923) so you can map your inputs within Wolf Interface |
+Wolfenstein3d | ECWolf | Works Great See [this post on retropie forums](https://retropie.org.uk/forum/topic/22788/ecwolf-wolfenstein-3d-source-port-for-mods) |
 Zxspectrum | lr-fuse | works great |
 Jazz Jackrabbit | open jazz | works great |
 Cave Story | nxengine-libretro | works great.  [https://retropie.org.uk/docs/Cave-Story/](https://retropie.org.uk/docs/Cave-Story/) |
