@@ -26,7 +26,7 @@ wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/i
 
 1. Run this command: 
   ```shell
-  wget -O /opt/RetroFlag/multi_switch.sh "https://raw.githubusercontent.com/crcerror/retroflag-picase/master/multi_switch.sh"
+  sudo wget -O /opt/RetroFlag/multi_switch.sh "https://raw.githubusercontent.com/crcerror/retroflag-picase/master/multi_switch.sh"
   ```
 1. Edit `SafeShutdown.py` located at `/opt/RetroFlag/` and change:
   ```shell
