@@ -29,6 +29,9 @@ wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/i
   sudo wget -O /opt/RetroFlag/multi_switch.sh "https://raw.githubusercontent.com/crcerror/retroflag-picase/master/multi_switch.sh"
   ```
 1. Edit `SafeShutdown.py` located at `/opt/RetroFlag/` and change:
+
+* `sudo nano /opt/RetroFlag/SafeShutdown.py`
+ 
   ```shell
   os.system("sudo killall emulationstation && sleep 5s && sudo shutdown -h now")
   ```
