@@ -25,11 +25,19 @@ The correct solution is to fix the boot order. We need to configure systemd so t
 
 We will need to modify the file `/etc/systemd/system/fake-hwclock.service.d/fsck.conf` with the following contents:
 
+(The directory /etc/systemd/system/ exists but fake-hwclock.service.d doesn't, so you'll have to create that first before editing the file.)
+
+* `sudo mkdir -p /etc/systemd/system/fake-hwclock.service.d/`
+
+* `sudo nano /etc/systemd/system/fake-hwclock.service.d/fsck.conf`
+
+Add this text below, and save the file.
+
 ```
 [Unit]
 Before=systemd-fsck-root.service
 ```
-The directory /etc/systemd/system/ exists but fake-hwclock.service.d doesn't, so you'll have to create that first before editing the file.
+
 
 
 ## Support Thread
