@@ -44,11 +44,9 @@ amixer cset numid=3 1
 
 * If there is stuttering in the music here are a couple reasons why
 
-1.Your SD is overloaded with roms, backround apps, video and image scrapes etc.
-
-1.Fixing the stuttering splash screen may help with the audio see the main page of the guide.
-
-1.The volume of alsamixer was set too high or the bitrate of the audio quality is too low.
+1. Your SD is overloaded with roms, backround apps, video and image scrapes etc.
+1. Fixing the stuttering splash screen may help with the audio see the main page of the guide.
+1. The volume of alsamixer was set too high or the bitrate of the audio quality is too low.
 
 To connect check nearby devices, select the name you put for your gpi case, and connect. Simple! Make sure you have your volume dial on the pi up so you can hear how loud the music is and you can change simply through spotify itself. And you will now have a Alexa/Google Home like feature available in your GPI CASE!
 
