@@ -8,7 +8,7 @@ Thanks to: GioThermalHeat
 
 ### Introduction
 
-> Hello everyone this is how to add Spotify support for your Retropie Gpi Case. Please note that *you will need spotify premium* in order to cast yourmusic from your phone, laptop, or any platform that you have your spotify on. Any cracked or other versions of the app that support casting to devices may not work.  (This means the music plays out of your Gpi but is controlled by your other device.
+> Hello everyone this is how to add Spotify support for your Retropie Gpi Case. Please note that *you will need spotify premium* in order to cast yourmusic from your phone, laptop, or any platform that you have your spotify on. Any cracked or other versions of the app that support casting to devices may not work.  (This means the music plays out of your Gpi but is controlled by your other device.)
 
 Make sure you login to your pi with putty and type the following:
 If you don't have putty or don't have ssh enabled please check out the GPI Case guide on how to do so.
