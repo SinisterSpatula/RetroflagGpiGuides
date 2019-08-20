@@ -7,7 +7,7 @@
 
 * open cmdline.txt (it is located on the first partition of your SD card, usually D: drive)
 
-* These are the changes to /boot/cmdline.txt, do not copy and paste, they should all be on one line in your local copy, they are listed in this format to make it easier to read.  Compare it to yours and make any changes that are needed.
+* These are the changes to /boot/cmdline.txt, do not copy and paste, they should all be on one line in your local copy, they are listed in this format to make it easier to read.  Compare it to yours and make any changes that are needed.  (Console tty changes to 3, and vt.global setting get's added).
 
 ```
 console=tty3
