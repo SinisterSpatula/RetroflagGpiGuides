@@ -43,6 +43,8 @@ On the off chance it does not boot, you can try: changing your kernel= value in 
 
 ## Icon for ES Themes
 
+[https://github.com/SinisterSpatula/RetroflagGpiGuides/blob/master/data/kernel/kernel-boot.png](https://github.com/SinisterSpatula/RetroflagGpiGuides/blob/master/data/kernel/kernel-boot.png)
+
 `/opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml`
 
 ```
