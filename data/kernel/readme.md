@@ -39,7 +39,7 @@ You should [apply these changes here](https://sinisterspatula.github.io/Retrofla
 
 ### Troubleshooting
 
-On the off chance it does not boot, you can try: changing your kernel= value in config.txt of your boot partition to kernel=kernel.img, and copy over a kernel.img from a replacement image.
+On the off chance it does not boot, you can try: changing your kernel= value in config.txt of your boot partition to kernel=kernel.img, and copy over a kernel.img from a replacement image.  If you're bootup video starts to sound weird after installing the boot logo, or you notice other odd slowness:  Follow the [Stuttering Splash Video / Slowness Fix](https://sinisterspatula.github.io/RetroflagGpiGuides/StutteringSplashVideo)
 
 ## Icon for ES Themes
 
