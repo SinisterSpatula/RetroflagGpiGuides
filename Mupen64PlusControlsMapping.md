@@ -2,6 +2,9 @@
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
+Thanks to: Bishop
+
+Video here: [https://youtu.be/9dqh1NZyoms](https://youtu.be/9dqh1NZyoms)
 
 # Muphen64Plus Controls
 
