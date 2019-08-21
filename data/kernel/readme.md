@@ -41,6 +41,21 @@ You should [apply these changes here](https://sinisterspatula.github.io/Retrofla
 
 On the off chance it does not boot, you can try: changing your kernel= value in config.txt of your boot partition to kernel=kernel.img, and copy over a kernel.img from a replacement image.
 
+## Icon for ES Themes
+
+`/opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml`
+
+```
+<game>
+        <path>./Kernel_Boot_Logo.sh</path>
+        <name>Kernel boot logo installer</name>
+        <desc>Kernel boot logo installer by Adam, switches between linux kernels with a different logo picture.</desc>
+        <image>/home/pi/RetroPie/retropiemenu/icons/kernel-boot.png</image>
+        <playcount>3</playcount>
+        <lastplayed>20190809T040420</lastplayed>
+    </game>
+```
+
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
 
