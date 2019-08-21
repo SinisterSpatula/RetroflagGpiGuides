@@ -14,6 +14,8 @@
 
 [Booting Silently/Hidden](https://sinisterspatula.github.io/RetroflagGpiGuides/MakeBootSilent)
 
+[Cloud Sync saves by alexandershalin](https://github.com/alexandershalin/rclone_script)
+
 [Controller Diagrams](https://photos.app.goo.gl/iM52fxLmjadTocyk8)
 
 [Controls/D-pad are not Working!](https://sinisterspatula.github.io/RetroflagGpiGuides/ControlsNotWorking)
