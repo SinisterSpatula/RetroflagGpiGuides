@@ -38,7 +38,7 @@
 
 [Pisnes Emulator install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES)
 
-* [Pico-8 Install Guide NEW!](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8)
+[Pico-8 Install Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pico8)
 
 [Play Station 1 Tools](https://sinisterspatula.github.io/RetroflagGpiGuides/PSX_Tools)
 
