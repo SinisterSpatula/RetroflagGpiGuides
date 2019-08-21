@@ -4,7 +4,9 @@
 
 Thanks to: Bishop
 
-Video here: [https://youtu.be/9dqh1NZyoms](https://youtu.be/9dqh1NZyoms)
+Gameplay Video here: [https://youtu.be/9dqh1NZyoms](https://youtu.be/9dqh1NZyoms)
+
+This might help improve performance: [https://youtu.be/8fX2KWw8lH4](https://youtu.be/8fX2KWw8lH4)
 
 # Muphen64Plus Controls
 
