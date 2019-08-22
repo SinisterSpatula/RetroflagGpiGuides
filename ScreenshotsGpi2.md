@@ -20,8 +20,7 @@ For more information, see: [https://github.com/AndrewFromMelbourne/raspi2png/](h
 1. `mkdir ~/screenshots`
 1. `sudo ln -s /home/pi/raspi2png/raspi2png ~/screenshots`
 1. Create a screenshot by issuing the following via terminal:
-	
-```./raspi2png -p ~/screenshots/screenshotname.png -c 9```
+	* ```./raspi2png -p ~/screenshots/screenshotname.png -c 9```
 
 
 ## Support Thread
