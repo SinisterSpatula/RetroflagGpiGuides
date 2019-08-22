@@ -28,16 +28,16 @@ For more information, see: [https://github.com/AndrewFromMelbourne/raspi2png/](h
 
 1. At terminal enter sudo nano /etc/samba/smb.conf
 1. Scroll to the bottom of the file and past in the following: 
-```
-[screenshots]
-comment = screenshots
-path = "home/pi/screenshots"
-writeable = yes
-guest ok = yes
-create mask = 0644
-directory mask = 0755
-force user = pi
-```
+	```
+	[screenshots]
+	comment = screenshots
+	path = "home/pi/screenshots"
+	writeable = yes
+	guest ok = yes
+	create mask = 0644
+	directory mask = 0755
+	force user = pi
+	```
 1. press ctrl + x
 1. press yes
 1. press enter
