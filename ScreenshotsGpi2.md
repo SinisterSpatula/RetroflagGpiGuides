@@ -7,6 +7,8 @@ Thanks To: SolemnSpirit (Chris)
 
 # Raspi2png Install guide
 
+## Part One - install raspi2png
+
 > This tool allows you to take screenshots from your Retroflag Gpi.  They are stored in your screenshots folder in your home directory which can be accessed from samba or FTP.
 
 For more information, see: [https://github.com/AndrewFromMelbourne/raspi2png/](https://github.com/AndrewFromMelbourne/raspi2png/)
@@ -18,9 +20,29 @@ For more information, see: [https://github.com/AndrewFromMelbourne/raspi2png/](h
 1. enter `cd raspi2png-master`
 1. enter `make`
 1. `mkdir ~/screenshots`
-1. `sudo ln -s /home/pi/raspi2png/raspi2png ~/screenshots`
+1. `sudo ln -s /home/pi/raspi2png-master/raspi2png ~/screenshots`
 1. Create a screenshot by issuing the following via terminal:
-	* `./raspi2png -p ~/screenshots/screenshotname.png -c 9`
+	* `./screenshots/raspi2png -p ~/screenshots/screenshotname.png -c 9`
+	
+## Part Two - Make screenshots accessible from samba
+
+1. At terminal enter sudo nano /etc/samba/smb.conf
+1. Scroll to the bottom of the file and past in the following: 
+```
+[screenshots]
+comment = screenshots
+path = "home/pi/screenshots"
+writeable = yes
+guest ok = yes
+create mask = 0644
+directory mask = 0755
+force user = pi
+```
+1. press ctrl + x
+1. press yes
+1. press enter
+1. enter `sudo reboot` to reboot the pi
+1. screenshots folder should now be available along with the usual shares
 
 
 ## Support Thread
