@@ -21,6 +21,7 @@ cheevos_enable = true
 
 [Ctrl+O] (to save) [Enter] and [Ctrl+X] (to exit)
 
+You can find a list of RetroArch cores with RetroAchievements support [here](https://docs.libretro.com/guides/retroachievements/).
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
