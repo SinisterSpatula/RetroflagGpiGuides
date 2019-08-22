@@ -23,7 +23,6 @@ For more information, see: [https://github.com/AndrewFromMelbourne/raspi2png/](h
 	`./raspi2png -p ~/screenshots/screenshotname.png -c 9`
 
 
-
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
 
