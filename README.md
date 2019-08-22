@@ -50,7 +50,7 @@
 
 [Safe Shutdown Install](https://sinisterspatula.github.io/RetroflagGpiGuides/SafeShutdown)
 
-[Screenshots from your Gpi](https://sinisterspatula.github.io/RetroflagGpiGuides/ScreenshotsGpi)
+[Screenshots from your Gpi](https://sinisterspatula.github.io/RetroflagGpiGuides/ScreenshotsGpi2)
 
 [Scummvm Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/scummvm)
 
