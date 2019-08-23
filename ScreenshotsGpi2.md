@@ -45,6 +45,17 @@ For more information, see: [https://github.com/AndrewFromMelbourne/raspi2png/](h
 1. screenshots folder should now be available along with the usual shares
 
 
+## Take multiple shots over duration
+
+Thanks to: Hans
+
+
+take 10 screenshots in 50 sec. to choose the best one
+
+```
+for f in {1..10}; do ./raspi2png -p ~/screenshots/gamename_$(date -Iseconds).png; sleep 5; done
+```
+
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
 
