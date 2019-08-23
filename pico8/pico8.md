@@ -95,6 +95,9 @@ The entry is setup to add a menu item called ‘Pico-8’ to the main Emulations
 1. Reboot your GPi Case and you should see Pico-8 on the menu.  Select it and then select Start PICO-8 to run it! <img align="right" src="https://sinisterspatula.github.io/RetroflagGpiGuides/pico8/pic6.jpg" style="padding: 10px; float: right;">
 
 ---------------------------------------------
+## Useful tips
+- You need internet connection do download games from Pico-8 BBS. To make game work offline you need to favorite it.
+- To quit Pico-8 press Start (Menu button) in Splore mode and select "Options -> Shutdown PICO-8".
 
 ## Additional Resources
 
