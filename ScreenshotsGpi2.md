@@ -56,6 +56,33 @@ take 10 screenshots in 50 sec. to choose the best one
 for f in {1..10}; do ./raspi2png -p ~/screenshots/gamename_$(date -Iseconds).png; sleep 5; done
 ```
 
+## Troubleshooting
+
+If pictures come out sideways or otherwise wrong, you might need to invert the Height and Width.  I don't know if it's due to the GPi screen coming through the GPIO pins or the the special video mode it uses or what.  This command worked to get a decent shot taken but I still have to rotate them in a paint program manually (and this is a handy script you can use if you move raspi2png to `/usr/bin/` folder:
+
+```
+#!/bin/sh
+
+if [ $# -gt 0 ]
+then
+        # supply any argument to take 10 screenshots over 50 seconds.
+        echo "taking 10 screenshots over 50 seconds.  Saving to ~/screenshots hit [Ctrl+C] to interrupt.";
+        for f in $(seq 1 10)
+                do
+                sleep 5;
+                raspi2png -p /home/pi/screenshots/screenshot_$(date -Iseconds).png -c 9 -h 320 -w 240 -D 0;
+                echo "Saved screenshot $f."
+                done;
+else
+# supply no arguments to take a single screenshot.
+echo "taking 1 screenshot.  Saving to ~/screenshots";
+raspi2png -p /home/pi/screenshots/screenshot_$(date -Iseconds).png -c 9 -h 320 -w 240 -D 0;
+fi
+exit 1;
+
+```
+
+
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
 
