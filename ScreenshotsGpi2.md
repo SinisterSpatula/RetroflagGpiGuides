@@ -26,7 +26,7 @@ For more information, see: [https://github.com/AndrewFromMelbourne/raspi2png/](h
 	
 ## Part Two - Make screenshots accessible from samba
 
-1. At terminal enter sudo nano /etc/samba/smb.conf
+1. At terminal enter `sudo nano /etc/samba/smb.conf`
 1. Scroll to the bottom of the file and past in the following: 
 	```
 	[screenshots]
