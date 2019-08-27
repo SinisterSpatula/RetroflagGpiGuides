@@ -64,6 +64,7 @@ If pictures come out sideways or otherwise wrong, it's because your `/boot/confi
 
 Handy script you can use for taking screenshots (so you don't have to remember the command.  put this in your home directory as "screenshot.sh" and make it executable with `chmod 775 screenshot.sh` then run it with `./screenshot.sh` for a single screenshot or `./screenshot.sh multi` (or any made up arguments, just add at least one thing to it for multiple shots).  (you also should place your raspi2png executable in `/usr/bin` or update the script below to point to wherever you plan to store raspi2png.
 
+
 ```
 #!/bin/sh
 
@@ -74,16 +75,15 @@ then
         for f in $(seq 1 10)
                 do
                 sleep 5;
-                raspi2png -p /home/pi/screenshots/screenshot_$(date -Iseconds).png -c 0;
+                raspi2png -p /home/pi/screenshots/screenshot_$(date +'%m-%d-%Y_%H_%M_%S').png -c 0;
                 echo "Saved screenshot $f."
                 done;
 else
 # supply no arguments to take a single screenshot.
 echo "taking 1 screenshot.  Saving to ~/screenshots";
-raspi2png -p /home/pi/screenshots/screenshot_$(date -Iseconds).png -c 0;
+raspi2png -p /home/pi/screenshots/screenshot_$(date +'%m-%d-%Y_%H_%M_%S').png -c 0;
 fi
 exit 1;
-
 ```
 
 
