@@ -68,11 +68,19 @@ Useful Testing/development commands:
 Default GPi physical gamepad events:
 
 ```
+evtest /dev/input/event[0]
+
 (Select+left mode)
 D-pad Up - abs Y-
 D-pad Down - abs Y+
 D-pad Left -  abs X-
 D-pad Right - abs X+
+
+(select+up mode, factory default)
+D-pad Up - HAT Y-
+D-pad Down - HAT Y+
+D-pad Left - HAT X-
+D-pad Right - HAT X+
 
 A = BTN_SOUTH
 B = BTN_EAST
@@ -83,11 +91,23 @@ RB = BTN_TR
 Select = BTN_SELECT
 Start = BTN_START
 
-(select+up mode, factory default)
-D-pad Up - HAT Y-
-D-pad Down - HAT Y+
-D-pad Left - HAT X-
-D-pad Right - HAT X+
+------------------------------------
+
+jstest /dev/input/js0
+
+D-pad Up - Axes 1:-32767
+D-pad Down - Axes 1: 32767
+D-pad Left -  Axes 0:-32767
+D-pad Right - Axes 0: 32767
+
+A = 0
+B = 1
+X = 2
+Y = 3
+LB = 4
+RB = 5
+Select = 6
+Start = 7
 
 ```
 
