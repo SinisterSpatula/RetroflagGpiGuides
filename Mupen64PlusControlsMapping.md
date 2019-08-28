@@ -34,6 +34,8 @@ Analog stick is set to GPi D-Pad
 
 * Choose mupen64plus-gles2n64 to play
 
+* Switch to Hat mode (Long press D-Pad + Up) if D-Pad doesn't work
+
 ```shell
 [Microsoft X-Box 360 pad]
 plugged = True
