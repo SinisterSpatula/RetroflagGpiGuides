@@ -17,6 +17,8 @@ If you are NOT using a kernel boot logo and you want the raspberry icon to disap
 
 > This will hide all the text you see when booting, and make the bootup process completely silent/hidden.
 
+* There is a few further things that might need to be hidden, such as autologin text, or MOTD text.  See this thread for more info, if you are going for 100% queit boot perfection: [https://retropie.org.uk/forum/topic/16732/silence-and-appliance-ify-your-retropie-installation-i-e-make-it-startup-and-shutdown-like-a-console-updated-for-retropie-v4-4-8](https://retropie.org.uk/forum/topic/16732/silence-and-appliance-ify-your-retropie-installation-i-e-make-it-startup-and-shutdown-like-a-console-updated-for-retropie-v4-4-8)
+
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
 
