@@ -67,6 +67,7 @@ cd /home/pi/.emulationstation/
 rm es_input.cfg
 cd /home/pi/.emulationstation/; curl -o es_input.cfg https://raw.githubusercontent.com/Shakz76/Eazy-Hax-RetroPie-Toolkit/master/cfg/es_input.cfg.bkup
 ```
+Then reboot and you should be propted to re-input your gamepad buttons.
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
