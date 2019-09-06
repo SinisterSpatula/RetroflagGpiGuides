@@ -58,6 +58,16 @@ On the off chance it does not boot, you can try: changing your kernel= value in 
     </game>
 ```
 
+## Emulation Station Start & Select button stop working
+
+You need to delete your es_input config file so that it will re-prompt you to setup your buttons:
+
+```
+cd /home/pi/.emulationstation/
+rm es_input.cfg
+cd /home/pi/.emulationstation/; curl -o es_input.cfg https://raw.githubusercontent.com/Shakz76/Eazy-Hax-RetroPie-Toolkit/master/cfg/es_input.cfg.bkup
+```
+
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
 
