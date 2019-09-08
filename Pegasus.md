@@ -34,10 +34,10 @@ Once skraper is finished, you will need to edit the resulting gamelist.xml for u
     <video>./media/videos/Frogger (USA) (Rev B).mp4</video>
 ```
 
-* Highlight <image> and hit Ctrl+Shift+L (Select All Occurances).
+* Highlight `<image>` and hit Ctrl+Shift+L (Select All Occurances).
 * then hit Ctrl+L (Select all lines)
 * then hit Ctrl+Shift+K (Delete lines)
-* repeat the steps again for <thumbnail> and <video> also.  Now you should have them all removed.
+* repeat the steps again for `<thumbnail>` and `<video>` also.  Now you should have them all removed, for all games.
 * save the edited gamelist.xml and keep it in it's normal place next to the games.
 
 Now that you have your media folders named correctly and have removed the image paths from your gamelist, pegasus will do a good job at locating the images on it's own, and the gamelist only serves to provide the meta data about the games.
