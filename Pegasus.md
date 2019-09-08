@@ -42,6 +42,8 @@ Once skraper is finished, you will need to edit the resulting gamelist.xml for u
 
 Now that you have your media folders named correctly and have removed the image paths from your gamelist, pegasus will do a good job at locating the images on it's own, and the gamelist only serves to provide the meta data about the games.
 
+> Alternatively, you could use skyscraper for linux which now has built in support for Pegasus!
+
 ## Install Theme
 
 Now that you have skrapes ready, and pegasus installed, and safe shutdown configured, let's install the GameOS modified theme:
