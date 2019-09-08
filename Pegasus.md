@@ -48,7 +48,7 @@ Now that you have your media folders named correctly and have removed the image 
 
 ## Install Theme
 
-Now that you have skrapes ready, and pegasus installed, and safe shutdown configured, let's install the GameOS modified theme:
+Now that you have scraped your games for meta data and media, and pegasus installed, and safe shutdown configured, let's install the GameOS modified theme:
 
 ```
 cd ~/.config/pegasus-frontend/themes/ && git clone https://github.com/SinisterSpatula/gameOS.git --branch master --depth 1
