@@ -12,7 +12,26 @@ Pegasus is a new front end that is being actively devloped and is compatible wit
 
 ## Safe Shutdown
 
-You will need to modify the safe shutdown script to terminate Pegasus instead of Emulationstation.  If you wish you could modify it to terminate both, and use both, there is also a front-end-chooser tool which is mentioined at [pegasus-frontend.org](https://pegasus-frontend.org/docs/user-guide/platform-retropie/)
+You will need to modify the safe shutdown script to terminate Pegasus instead of Emulationstation.  If you wish you could modify it to terminate both, and use both, there is also a front-end-chooser tool which is mentioined at [pegasus-frontend.org](https://pegasus-frontend.org/docs/user-guide/platform-retropie/)  If you have previously followed the [safe shutdown install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/SafeShutdown) you'll just need to edit the `/opt/RetroFlag/multi_switch.sh` script to shutdown pegasus instead of emulationstation.
+
+```shell
+sudo nano /opt/RetroFlag/multi_switch.sh
+```
+
+I just modified this section like so (perhaps this can be improved in the near future):
+
+```
+# Emulationstation currently running?
+# If yes return PID from ES binary
+# due caller funtion
+function check_esrun() {
+    local ES_PID="$(pgrep -f "/opt/retropie/supplementary/.*/pegasus-fe([^.]|$)")"
+    echo $ES_PID
+}
+```
+
+It should now seekout and shutdown pegasus when you flick your power switch off.
+
 
 ## Scraping for pegasus
 
