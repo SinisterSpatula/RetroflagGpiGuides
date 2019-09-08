@@ -26,7 +26,9 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 
 > Make sure to set skraper to resize your images to 160x120 (but keep aspect ratio, so only set either hight limit or width limit, not both!).
 
-Go ahead and Scrape!
+Go ahead and Scrape (using Retropie as your system of choice so that we get a gamelist.xml in each games folder)!
+
+## Editing your gamelist.xml
 
 Once skraper is finished, you will need to edit the resulting gamelist.xml for use with Pegasus.  I recommend [downloading Microsoft Visual Studio Code](https://code.visualstudio.com/download) (just a fancy text editor).  Use it to remove all of the image tags from your gamelist.xml:
 
