@@ -20,7 +20,7 @@ sudo nano /opt/RetroFlag/multi_switch.sh
 
 I just modified this section like so (perhaps this can be improved in the near future):
 
-```
+```shell
 # Emulationstation currently running?
 # If yes return PID from ES binary
 # due caller funtion
@@ -71,7 +71,7 @@ Now that you have your media folders named correctly and have removed the image 
 
 Now that you have scraped your games for meta data and media, and pegasus installed, and safe shutdown configured, let's install the GameOS modified theme:
 
-```
+```shell
 cd ~/.config/pegasus-frontend/themes/ && git clone https://github.com/SinisterSpatula/gameOS.git --branch master --depth 1
 ```
 
