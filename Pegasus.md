@@ -56,7 +56,9 @@ Now that you have scraped your games for meta data and media, and pegasus instal
 cd ~/.config/pegasus-frontend/themes/ && git clone https://github.com/SinisterSpatula/gameOS.git --branch master --depth 1
 ```
 
+## What else do I need to know?
 
+You should also re-encode your scraped video files to reduce their size and so they will play better.  Currently there's a bug with OMX player so we have to use software video playback, so it's crucial that your video's be optimized.  Follow this [Video Snaps Conversion Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/snapsconversion)
 
 
 
