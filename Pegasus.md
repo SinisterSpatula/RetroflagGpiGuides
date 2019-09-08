@@ -5,6 +5,7 @@
 
 # Pegasus Front End guide
 
+What is Pegasus?
 
 ## Introduction
 
