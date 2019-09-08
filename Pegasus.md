@@ -28,7 +28,7 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 
 Go ahead and Scrape!
 
-Once skraper is finished, you will need to edit the resulting gamelist.xml for use with Pegasus.  I recommend downloading Microsoft Visual Studio Code (just a text editor).  Use it to remove all of the image tags.
+Once skraper is finished, you will need to edit the resulting gamelist.xml for use with Pegasus.  I recommend [downloading Microsoft Visual Studio Code](https://code.visualstudio.com/download) (just a fancy text editor).  Use it to remove all of the image tags from your gamelist.xml:
 
 ```xml
     <image>./media/images/Frogger (USA) (Rev B).png</image>
@@ -42,7 +42,7 @@ Once skraper is finished, you will need to edit the resulting gamelist.xml for u
 * repeat the steps again for `<thumbnail>` and `<video>` also.  Now you should have them all removed, for all games.
 * save the edited gamelist.xml and keep it in it's normal place next to the games.
 
-Now that you have your media folders named correctly and have removed the image paths from your gamelist, pegasus will do a good job at locating the images on it's own, and the gamelist only serves to provide the meta data about the games.
+Now that you have your media folders named correctly and have removed the image tags from your gamelist.xml, pegasus will do a good job at locating the images on it's own, and the gamelist.xml only serves to provide the meta data about the games (description, etc).
 
 > Alternatively, you could use skyscraper for linux which now has built in support for Pegasus!
 
