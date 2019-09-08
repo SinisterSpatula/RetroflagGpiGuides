@@ -65,7 +65,7 @@ Once skraper is finished, you will need to edit the resulting gamelist.xml for u
 
 Now that you have your media folders named correctly and have removed the image tags from your gamelist.xml, pegasus will do a good job at locating the images on it's own, and the gamelist.xml only serves to provide the meta data about the games (description, etc).
 
-> Alternatively, you could use skyscraper for linux which now has built in support for Pegasus!
+> Alternatively, you could use [skyscraper for linux](https://github.com/muldjord/skyscraper) which now has built in support for Pegasus!
 
 ## Install Theme
 
