@@ -24,7 +24,9 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 * Folder name: `videos` will hold videos.
 * Folder name: `wheel` will hold wheel images.
 
-Go ahead and scrape.  make sure to set skraper to resize your images to 160x120 (but keep aspect ratio, so only set either hight limit or width limit, not box).
+> Make sure to set skraper to resize your images to 160x120 (but keep aspect ratio, so only set either hight limit or width limit, not both!).
+
+Go ahead and Scrape!
 
 Once skraper is finished, you will need to edit the resulting gamelist.xml for use with Pegasus.  I recommend downloading Microsoft Visual Studio Code (just a text editor).  Use it to remove all of the image tags.
 
