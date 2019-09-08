@@ -8,11 +8,11 @@
 
 ## Introduction
 
-Pegasus is a new front end that is being actively devloped and is compatible with Retropie.  You can install and update it from retropie setup.  There are not much theme's made for small screen but we are developing one, based off gameOS, modified to fit the Gpi small screen.  Currently it has a beautiful interface, and we are adding more features to make it even better.  Pegasus is currently in Alpha release so there will be some quirks and maybe bugs.  Don't let that stop you from experience what it can offer though!  It is not a replacement for retropie, it still is 100% retropie!  Just with a new interface and theme system.
+Pegasus is a new front end that is being actively devloped and is compatible with Retropie.  You can install and update it from retropie setup.  There are not much theme's made for small screen but we are developing one, based off gameOS, modified to fit the Gpi small screen.  Currently it has a beautiful interface, and we are adding more features to make it even better.  Pegasus is currently in Alpha release so there will be some quirks and maybe bugs.  Don't let that stop you from experiencing what it can offer!  It is not a replacing retropie, it is 100% retropie!  Just with a new interface and theme system.
 
 ## Safe Shutdown
 
-You will need to modify the safe shutdown script to terminate Pegasus instead of Emulationstation.  If you wish you could modify it to terminate both, and use both.
+You will need to modify the safe shutdown script to terminate Pegasus instead of Emulationstation.  If you wish you could modify it to terminate both, and use both, there is also a front-end-chooser tool which is mentioined at [pegasus-frontend.org](https://pegasus-frontend.org/docs/user-guide/platform-retropie/)
 
 ## Scraping for pegasus
 
