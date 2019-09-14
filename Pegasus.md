@@ -43,8 +43,9 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 * Folder name: `screenshot` will hold screenshots.
 * Folder name: `videos` will hold videos.
 * Folder name: `wheel` will hold wheel images.
+* Folder name: `tile` will hold "Steam tile" composite images (screenshot with wheel art overlayed on top) similar to steam.
 
-> If using skyscraper instead, for best results, for the game grid art, you should have it generate a composite of the wheel art logo on top of the screenshot picture, and the composite image should be 168x82 pixels large, and stored in the wheel folder (in lieu of the wheel art.)  This way you get a "Steam tile" presentation of your games.  More info on how to do this - coming soon.  You'll also want to set the wheel art cropping inside of the theme settings apropriately. Here's a demo of art compositing: [https://youtu.be/TIDD8EFSz50](https://youtu.be/TIDD8EFSz50)
+> If using skyscraper instead, for best results, for the game grid art, you should have it generate a composite of the wheel art logo on top of the screenshot picture, and the composite image should be 168x82 pixels large, and stored in the tile folder (in lieu of the wheel art.)  This way you get a "Steam tile" presentation of your games.  More info on how to do this - coming soon.  You'll also want to set the wheel art cropping inside of the theme settings apropriately. Here's a demo of art compositing: [https://youtu.be/TIDD8EFSz50](https://youtu.be/TIDD8EFSz50) tiles are not yet setup in the theme, for now you can place them in the wheel folder until we have tiles supported.
 
 > Make sure to set skraper to resize your images to 160x120 (but keep aspect ratio, so only set either hight limit or width limit, not both!).
 
