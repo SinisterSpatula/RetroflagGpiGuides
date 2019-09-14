@@ -51,6 +51,8 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 
 Go ahead and Scrape (using Retropie as your system of choice so that we get a gamelist.xml in each games folder)!
 
+> Alternatively, you could use [skyscraper for linux](https://github.com/muldjord/skyscraper) which now has built in support for Pegasus!
+
 ## Editing your gamelist.xml
 
 Once skraper is finished, you will need to edit the resulting gamelist.xml for use with Pegasus.  I recommend [downloading Microsoft Visual Studio Code](https://code.visualstudio.com/download) (just a fancy text editor).  Use it to remove all of the image tags from your gamelist.xml:
@@ -69,7 +71,6 @@ Once skraper is finished, you will need to edit the resulting gamelist.xml for u
 
 Now that you have your media folders named correctly and have removed the image tags from your gamelist.xml, pegasus will do a good job at locating the images on it's own, and the gamelist.xml only serves to provide the meta data about the games (description, etc).
 
-> Alternatively, you could use [skyscraper for linux](https://github.com/muldjord/skyscraper) which now has built in support for Pegasus!
 
 ## Install Theme
 
