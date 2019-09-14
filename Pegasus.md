@@ -44,6 +44,8 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 * Folder name: `videos` will hold videos.
 * Folder name: `wheel` will hold wheel images.
 
+> If using skyscraper instead, for best results, for the game grid art, you should have it generate a composite of the wheel art logo on top of the screenshot picture, and the composite image should be 168x82 pixels large, and stored in the wheel folder (in lieu of the wheel art.)  This way you get a "Steam tile" presentation of your games.  More info on how to do this - coming soon.
+
 > Make sure to set skraper to resize your images to 160x120 (but keep aspect ratio, so only set either hight limit or width limit, not both!).
 
 Go ahead and Scrape (using Retropie as your system of choice so that we get a gamelist.xml in each games folder)!
