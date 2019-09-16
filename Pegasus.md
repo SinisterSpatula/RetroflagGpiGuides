@@ -43,9 +43,9 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 * Folder name: `screenshot` will hold screenshots.
 * Folder name: `videos` will hold videos.
 * Folder name: `wheel` will hold wheel images.
-* Folder name: `tile` will hold "Steam tile" composite images (screenshot with wheel art overlayed on top) similar to steam.
+* Folder name: `steamgrid` will hold "Steam tile" composite images (screenshot with wheel art overlayed on top) similar to steam.
 
-> Tiles: For the game grid art, you should have it generate a composite of the wheel art logo on top of the screenshot picture, and the composite image should be 168x82 pixels large, and stored in the tile folder.  This way you get a "Steam tile" presentation of your games.  More info on how to do this - coming soon.  You'll also want to set the wheel art cropping inside of the theme settings apropriately. Here's a demo of art compositing: [https://youtu.be/TIDD8EFSz50](https://youtu.be/TIDD8EFSz50) tiles are not yet setup in the theme, for now you can place them in the wheel folder until we have tiles supported.  Skraper.net also provides this function if you go to Media, and add a "User provided Mix" and create an XML file that outputs a composite of the screenshot + wheel art.
+> Tiles: For the game grid art, you should have it generate a composite of the wheel art logo on top of the screenshot picture, and the composite image should be 168x82 pixels large, and stored in the steamgrid folder.  This way you get a "Steam tile" presentation of your games.  More info on how to do this - coming soon.  Here's a demo of art compositing: [https://youtu.be/TIDD8EFSz50](https://youtu.be/TIDD8EFSz50).  Skraper.net also provides this function if you go to Media, and add a "User provided Mix" and create an XML file that outputs a composite of the screenshot + wheel art.
 
 > Make sure to set skraper to resize your images to 160x120 (but keep aspect ratio, so only set either hight limit or width limit, not both!).
 
