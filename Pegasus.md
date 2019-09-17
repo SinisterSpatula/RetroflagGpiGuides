@@ -34,7 +34,7 @@ function check_esrun() {
 It should now seekout and shutdown pegasus when you flick your power switch off.
 
 
-## Scraping for pegasus
+## Scraping for pegasus using scraper.net
 
 Currently the easiest way to scrape your media is to use skraper.net for windows.  Set it up to scrape for Screenshot, fanart, video, wheel, and Box2dfront.  In the settings for each, make sure they are setup as follows:
 
@@ -71,6 +71,31 @@ Once skraper is finished, you will need to edit the resulting gamelist.xml for u
 * save the edited gamelist.xml and keep it in it's normal place next to the games.
 
 Now that you have your media folders named correctly and have removed the image tags from your gamelist.xml, pegasus will do a good job at locating the images on it's own, and the gamelist.xml only serves to provide the meta data about the games (description, etc).
+
+## Scraping for Pegasus using Skyscraper
+
+This is the artwork.xml I'm using with good results.  After scraping you'll want to manually edit the pegasus.metadata.txt and change "marquee" to "steamgrid".
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is the default artwork.xml provided by Skyscraper. -->
+<artwork>
+  <!-- This is the screenshot, saved as a screenshot, with proper size. -->
+  <output type="screenshot"  width="320"/>
+  <!-- This is the wheel art, saved as a wheel, with proper size. -->
+  <output type="wheel" width="160"/>
+  <!-- This is the boxart, saved as a cover, with proper size. -->
+  <output type="cover" height="120"/>
+  <!-- This is the Steam Tile image, saved as a marquee -->
+  <output type="marquee" width="168" height="82">
+    <layer resource="screenshot" width="168" align="center" valign="middle">
+    </layer>
+    <layer resource="wheel" width="148" height="72" align="center" valign="middle">
+      <shadow distance="5" softness="5" opacity="70"/>
+    </layer>
+  </output>
+</artwork>
+```
 
 
 ## Install Theme
