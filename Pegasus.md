@@ -74,7 +74,7 @@ Now that you have your media folders named correctly and have removed the image 
 
 ## Scraping for Pegasus using Skyscraper
 
-This is the artwork.xml I'm using with good results.  After scraping you'll want to manually edit the pegasus.metadata.txt and change "marquee" to "steamgrid".
+This is the artwork.xml I'm using with good results.  After scraping you'll want to manually edit the pegasus.metadata.txt and change "marquee" to "steamgrid". (and rename the marquee folder to steamgrid)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
