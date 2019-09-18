@@ -74,7 +74,7 @@ Now that you have your media folders named correctly and have removed the image 
 
 ## Scraping for Pegasus using Skyscraper
 
-This is the artwork.xml I'm using with good results.  After scraping you'll want rename the folder from "marquee" to "steamgrid".
+This is the artwork.xml I'm using with good results.  After scraping you'll want rename the folder from "marquee" to "steamgrid".  For cartridge art, you'll need to use scraper.net (I don't think skyscraper has this yet)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
