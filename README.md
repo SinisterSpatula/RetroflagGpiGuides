@@ -1,6 +1,6 @@
 ![Logo Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-> News: Screenshots from your Gpi, Cloud sync saves, Spotify on Gpi, Boot Logo Pack, revised safeshutdown, Added Pico-8 guide,  Fixed discord link.  Added N64 to emulators chart.  Added theme links.
+> News: Pegasus Front End guide and new gameOS modified theme, checkout the [Video](https://youtu.be/d6TMs_Oz6CI).  Screenshots from your Gpi, Cloud sync saves, Spotify on Gpi, Boot Logo Pack, revised safeshutdown, Added Pico-8 guide,  Fixed discord link.  Added N64 to emulators chart.  Added theme links.
 
 > If you would like to contribute to these guides, create a fork of them on github, add your modifications, then make a pull request to send your changes and additions to be merged, here:  [Github Repository Link.](https://github.com/SinisterSpatula/RetroflagGpiGuides)
 
@@ -35,6 +35,8 @@
 [Openbor 3400 Install Guide older](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborInstall)
 
 [Openbor Beta 6xxx Newest](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborBeta6510)
+
+[Pegasus Front End Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/Pegasus)
 
 [Pisnes Emulator install guide](https://sinisterspatula.github.io/RetroflagGpiGuides/PISNES)
 
