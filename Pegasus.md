@@ -34,7 +34,7 @@ function check_esrun() {
 It should now seekout and shutdown pegasus when you flick your power switch off.
 
 
-## Scraping for pegasus using scraper.net
+## Scraping for pegasus using skraper.net
 
 Currently the easiest way to scrape your media is to use skraper.net for windows.  Set it up to scrape for Screenshot, fanart, video, wheel, Box2dfront, make a "custom mix" for the steam tile (save these to steamgrid) and for cartridge art, use the "support" media type and save those to box2dback.  In the settings for each, make sure they are setup as follows:
 
@@ -46,7 +46,30 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 * Folder name: `steamgrid` will hold "Steam tile" composite images (screenshot with wheel art overlayed on top) similar to steam.
 * Folder name: `box2dback` will hold game cartridge images. (Find these in screenscraper for windows under Media and images, called "Support" oddly.
 
-> Tiles: For the game grid art, you should have it generate a composite of the wheel art logo on top of the screenshot picture, and the composite image should be 168x82 pixels large, and stored in the steamgrid folder.  This way you get a "Steam tile" presentation of your games.  More info on how to do this - coming soon.  Here's a demo of art compositing: [https://youtu.be/TIDD8EFSz50](https://youtu.be/TIDD8EFSz50).  Skraper.net also provides this function if you go to Media, and add a "User provided Mix" and create an XML file that outputs a composite of the screenshot + wheel art.
+> Steam Grid Tiles: You should have it generate a composite of the wheel art logo on top of the screenshot picture, and the composite image should be 168x82 pixels large, and stored in the steamgrid folder.  This way you get a "Steam tile" presentation of your games.  If you go to Media, and add a "User provided Mix" and create an XML file that outputs a composite of the screenshot + wheel art.  Here is the XML custom mix for skraper.net that I'm using:
+
+```xml
+<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Information ShortName="Pegasus GPi grid" LongName="Pegasus GPi Tile" Description="Screenshot + Wheel " Author="SinisterSpatula" />
+  <Viewport Color="#00FFFFFF" Width="168" Height="82" ImageFormat="Png" CompressionPercent="0"/>
+  <Drawings>
+    <Item Type="Screenshot">
+      <Display X="50%" Y="50%" Antialiasing="None" Width="200%" Height="200%" Anchor="VCenterHCenter" KeepRatio="true" />
+      <Fallback Type="ScreenshotTitle">
+        <Fallback Type="SystemWallPaper">
+          <Children Reference="Parent">
+            <Item Type="Text" Text="No Screenshot!" TextColor="#FFFFFFFF" FontFamilly="Arial" FontStyle="Bold Italic" />
+          </Children>
+        </Fallback>
+      </Fallback>
+    </Item>
+    <Item Type="Wheel">
+      <Display X="50%" Y="50%" Width="90%" Height="90%" Anchor="VCenterHCenter" />
+      <Fallback Type="Text" Text="%name%" TextColor="#FFFFFFFF" FontFamilly="Arial" FontStyle="Bold Italic" />
+    </Item>
+  </Drawings>
+</ImageComposition>
+```
 
 > Make sure to set skraper to resize your images to 160x120 (but keep aspect ratio, so only set either hight limit or width limit, not both!).
 
@@ -74,7 +97,7 @@ Now that you have your media folders named correctly and have removed the image 
 
 ## Scraping for Pegasus using Skyscraper
 
-This is the artwork.xml I'm using with good results.  After scraping you'll want rename the folder from "marquee" to "steamgrid".  For cartridge art, you'll need to use scraper.net (I don't think skyscraper has this yet).  You'll also need to rename these folders to what you see under the scraper.net section (after scraping).
+This is the artwork.xml I'm using with good results.  After scraping you'll want rename the folder from "marquee" to "steamgrid".  For cartridge art, you'll need to use skraper.net (I don't think skyscraper has this yet).  You'll also need to rename these folders to what you see under the skraper.net section (after scraping).
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -99,7 +122,7 @@ This is the artwork.xml I'm using with good results.  After scraping you'll want
 
 ## After Scraping
 
-After scraping with either option, basically, you want to end up with all the art saved in roms/(system name)/media/ using the folder names above.  The metadata seems to work best when it does NOT contain paths to the artwork, and pegasus just finds the art on it's own.  I recommend using the gamelist.xml that scraper.net generates, with no image paths in it, and no metadata.pegasus.txt file either.
+After scraping with either option, basically, you want to end up with all the art saved in roms/(system name)/media/ using the folder names above.  The metadata seems to work best when it does NOT contain paths to the artwork, and pegasus just finds the art on it's own.  I recommend using the gamelist.xml that skraper.net generates, with no image paths in it, and no metadata.pegasus.txt file either.
 
 ## Install Theme
 
