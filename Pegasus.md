@@ -5,7 +5,7 @@
 
 # Pegasus Front End guide
 
-What is Pegasus?
+What is Pegasus?  Watch a quick [video demo](https://youtu.be/d6TMs_Oz6CI) of the gameOS modified theme.
 
 ## Introduction
 
