@@ -44,7 +44,7 @@ Currently the easiest way to scrape your media is to use skraper.net for windows
 * Folder name: `videos` will hold videos.
 * Folder name: `wheel` will hold wheel images.
 * Folder name: `steamgrid` will hold "Steam tile" composite images (screenshot with wheel art overlayed on top) similar to steam.
-* Folder name: `cartridge` will hold game cart images.  (this one seems to require actual pegasus metadata in order to work).
+* Folder name: `cartridge` will hold game cart images.  (something I'm experimenting with, the theme supports it, but I haven't figured out how to actually get these to scrape).
 
 > Tiles: For the game grid art, you should have it generate a composite of the wheel art logo on top of the screenshot picture, and the composite image should be 168x82 pixels large, and stored in the steamgrid folder.  This way you get a "Steam tile" presentation of your games.  More info on how to do this - coming soon.  Here's a demo of art compositing: [https://youtu.be/TIDD8EFSz50](https://youtu.be/TIDD8EFSz50).  Skraper.net also provides this function if you go to Media, and add a "User provided Mix" and create an XML file that outputs a composite of the screenshot + wheel art.
 
@@ -74,7 +74,7 @@ Now that you have your media folders named correctly and have removed the image 
 
 ## Scraping for Pegasus using Skyscraper
 
-This is the artwork.xml I'm using with good results.  After scraping you'll want to manually edit the pegasus.metadata.txt and change "marquee" to "steamgrid". (and rename the marquee folder to steamgrid)
+This is the artwork.xml I'm using with good results.  After scraping you'll want rename the folder from "marquee" to "steamgrid".
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
