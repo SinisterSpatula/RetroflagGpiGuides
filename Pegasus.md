@@ -99,7 +99,7 @@ This is the artwork.xml I'm using with good results.  After scraping you'll want
 
 ## After Scraping
 
-After scraping with either option, basically, you want to end up with all the art saved in roms/(system name)/media/ using the folder names above.  The metadata seems to work best when it does NOT contain paths to the artwork, and pegasus just finds the art on it's own.
+After scraping with either option, basically, you want to end up with all the art saved in roms/(system name)/media/ using the folder names above.  The metadata seems to work best when it does NOT contain paths to the artwork, and pegasus just finds the art on it's own.  I recommend using the gamelist.xml that scraper.net generates, with no image paths in it, and no metadata.pegasus.txt file either.
 
 ## Install Theme
 
