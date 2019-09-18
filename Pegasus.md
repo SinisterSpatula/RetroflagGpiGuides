@@ -36,7 +36,7 @@ It should now seekout and shutdown pegasus when you flick your power switch off.
 
 ## Scraping for pegasus using scraper.net
 
-Currently the easiest way to scrape your media is to use skraper.net for windows.  Set it up to scrape for Screenshot, fanart, video, wheel, and Box2dfront.  In the settings for each, make sure they are setup as follows:
+Currently the easiest way to scrape your media is to use skraper.net for windows.  Set it up to scrape for Screenshot, fanart, video, wheel, Box2dfront, make a "custom mix" for the steam tile (save these to steamgrid) and for cartridge art, use the "support" media type and save those to box2dback.  In the settings for each, make sure they are setup as follows:
 
 * Folder name: `box2dfront` will hold Box Front art.
 * Folder name: `fanart` will hold fan art.
