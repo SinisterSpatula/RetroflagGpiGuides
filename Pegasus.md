@@ -133,7 +133,7 @@ After scraping with either option, basically, you want to end up with all the ar
 Now that you have scraped your games for meta data and media, and pegasus installed, and safe shutdown configured, let's install the GameOS modified theme:
 
 ```shell
-cd ~/.config/pegasus-frontend/themes/ && git clone https://github.com/SinisterSpatula/gameOS.git --branch master --depth 1
+cd ~/.config/pegasus-frontend/themes/ && git clone https://github.com/SinisterSpatula/pegasus-theme-gpiOS.git --branch master --depth 1
 ```
 
 ## What else do I need to know?
