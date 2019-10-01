@@ -5,7 +5,7 @@
 
 # Pegasus Front End guide
 
-What is Pegasus?  Watch a quick [video demo](https://youtu.be/d6TMs_Oz6CI) of the gameOS modified theme.
+What is Pegasus?  Watch a quick [video demo](https://www.youtube.com/watch?v=O-kbEcsxYrM) of the gameOS modified theme.
 
 ## Introduction
 
@@ -141,6 +141,8 @@ cd ~/.config/pegasus-frontend/themes/ && git clone https://github.com/SinisterSp
 You should also re-encode your scraped video files to reduce their size and so they will play better.  Currently there's a bug with OMX player so we have to use software video playback, so it's crucial that your video's be optimized.  Follow this [Video Snaps Conversion Guide](https://sinisterspatula.github.io/RetroflagGpiGuides/snapsconversion)
 
 * To access the built in settings screen of the theme, press the select button while on the grid view/game tiles view.
+
+* For the Letter Jumping menu, press the Y button.
 
 
 ## Support Thread
