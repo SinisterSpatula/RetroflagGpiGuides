@@ -5,11 +5,11 @@
 
 # Pegasus Front End guide
 
-What is Pegasus?  Watch a quick [video demo](https://www.youtube.com/watch?v=O-kbEcsxYrM) of the gameOS modified theme.
+What is Pegasus?  Watch a quick [video demo](https://www.youtube.com/watch?v=O-kbEcsxYrM) of the gpiOS theme.
 
 ## Introduction
 
-Pegasus is a new front end that is being actively developed and is compatible with Retropie.  You can install and update it from retropie setup.  There are not many theme's made for small screen so we have developed one, based off gameOS, modified to fit the Gpi small screen.  It has a beautiful interface, and some nice features to make it even better.  Pegasus is currently in Alpha release so there might be a few quirks.  Don't let that stop you from experiencing what it can offer!  It is not replacing or removing retropie, it is 100% retropie!  Just a new interface and theme system.  Features of the theme include: User settings to toggle the grid artwork from cartridge, box art, screenshot, steam tile, etc.  User setting to toggle background art from default, screenshot, fan art, solid color.  You can choose from several colors for the background and the highlight color.  The last feature still being worked on is Favorites filtering.
+Pegasus is a new front end that is being actively developed and is compatible with Retropie.  You can install and update it from retropie setup.  There are not many theme's made for small screen so I have developed one, based off gameOS, modified to fit the Gpi small screen.  It has a beautiful interface, and some nice features to make it even better.  Pegasus is currently in Alpha release, but it's actually working very well and I have not encountered any issues.  Alpha sounds scary, but don't let that stop you from experiencing what it can offer!  It is not replacing or removing retropie, it is 100% retropie!  Just a new interface and theme system.  Features of the theme include: User settings to toggle the grid artwork from cartridge, box art, screenshot, steam tile, etc.  User setting to toggle background art from default, screenshot, fan art, solid color.  You can choose from several colors for the background and the highlight color.  Favorites and Last Played collections are working.  Alphabet letter jumping menu is working.  You can find the theme's announcement thread at the [Retropie Forums gpiOS thread](https://retropie.org.uk/forum/topic/23682/theme-gpios-based-on-gameos-pegasus-front-end-theme-modified-for-retroflag-gpi-case/)
 
 ## Safe Shutdown
 
