@@ -146,7 +146,7 @@ You should also re-encode your scraped video files to reduce their size and so t
 
 
 ## Support Thread
-[Go here for help](https://www.facebook.com/groups/401660300458844/)
+[Go here for help](https://retropie.org.uk/forum/topic/23682/theme-gpios-based-on-gameos-pegasus-front-end-theme-modified-for-retroflag-gpi-case/)
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
