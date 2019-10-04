@@ -13,7 +13,7 @@
 System Name | Recommended Core/Emulator | Notes
 ------------|---------------------------|--------------------------------
 2600 | lr-stella2014 | |
-Amiga | Amiberry | using whdload games the speed varies from game to game (some fully playable and others too slow, far from perfect but many games run great). |
+Amiga | Amiberry | using whdload games the speed varies from game to game (some fully playable and others too slow, far from perfect but many games run great). following need to be set in Amiberry GUI, Input panel: set Port 0 to your controller (means for GPi Case it's "Microsoft X-Box 360 pad"), set Mode to Mouse, Custom controls panel: Joystick Port - 0: Mouse|
 Arcade (MAME) | mame4all | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)  Speed and compatibility varies by game |
 Arcade (MAME) | lr-mame2000 | Speed and compatibility varies by game |
 Arcade (MAME) | advmame-0.94 | Uses [Advanced Control Framework.](https://sinisterspatula.github.io/RetroflagGpiGuides/AdvancedControlFramework)  Speed and compatibility varies by game |
