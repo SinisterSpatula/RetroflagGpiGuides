@@ -32,6 +32,22 @@ function check_esrun() {
     echo $ES_PID
 }
 ```
+Also around line 151 make it look like this:
+```
+"--ES-POWEROFF")
+            # Initiate system shutdown and give control back to ES
+            ES_PID=$(check_esrun)
+            if [[ -n $ES_PID ]]; then
+                #touch /tmp/es-shutdown
+                #chown pi:pi /tmp/es-shutdown
+                kill $ES_PID
+               	clear;
+		        wait_forpid $ES_PID
+		        sudo shutdown -h now >> /dev/null
+                exit
+            fi
+        ;;
+```
 
 It should now seekout and shutdown pegasus when you flick your power switch off.
 
