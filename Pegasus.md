@@ -54,7 +54,7 @@ It should now seekout and shutdown pegasus when you flick your power switch off.
 ## Booting Pegasus automatically
 
 You could either install the front end chooser, or, if you just want Pegasus to auto boot, simply edit the autostart:
-`sudo nano /opt/retropie/configs/all/autostart.sh` and switch it to: `pegasus-fe --silent 2&>1 >/dev/null #auto`
+`sudo nano /opt/retropie/configs/all/autostart.sh` and switch it to: `pegasus-fe #auto`
 
 ## Scraping for pegasus using skraper.net
 
