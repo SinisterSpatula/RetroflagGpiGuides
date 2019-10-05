@@ -41,7 +41,6 @@ Also around line 151 make it look like this:
                 #touch /tmp/es-shutdown
                 #chown pi:pi /tmp/es-shutdown
                 kill $ES_PID
-               	clear;
 		wait_forpid $ES_PID
 		sudo shutdown -h now
                 exit
