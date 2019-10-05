@@ -21,7 +21,7 @@ You will need to modify the safe shutdown script to terminate Pegasus instead of
 sudo nano /opt/RetroFlag/multi_switch.sh
 ```
 
-I just modified this section like so (perhaps this can be improved in the near future):
+Around line 77, make it look like this:
 
 ```shell
 # Emulationstation currently running?
