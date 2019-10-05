@@ -33,7 +33,7 @@ function check_esrun() {
 }
 ```
 Also around line 151 make it look like this:
-```
+```shell
 "--ES-POWEROFF")
             # Initiate system shutdown and give control back to ES
             ES_PID=$(check_esrun)
