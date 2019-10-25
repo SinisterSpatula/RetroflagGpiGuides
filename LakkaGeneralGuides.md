@@ -1,3 +1,7 @@
+![Banner Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
+
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
 # Lakka General Guides
 
 **Lakka** is a JeOS (Just Enough Operating System) based on LibreELEC, with RetroArch performing as both the frontend and the backend.
@@ -87,3 +91,10 @@ The following cores work on Lakka, but are either non-present or bugged:
 * The lr-pokemonmini core is not present, but runs every game at full speed.
 
 Either of those can be supplied from a RetroPie image, as long as the package is prefixed with an "lr-".
+
+## Support Thread
+[Go here for help](https://www.facebook.com/groups/401660300458844/)
+
+[Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
+
+###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
