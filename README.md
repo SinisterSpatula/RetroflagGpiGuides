@@ -30,6 +30,8 @@
 
 [File Checks on Every Bootup](https://sinisterspatula.github.io/RetroflagGpiGuides/FileChecksEveryBoot)
 
+[Lakka General Guides](https://sinisterspatula.github.io/RetroflagGpiGuides/LakkaGeneralGuides)
+
 [Outrun Engine (cannonball)](https://sinisterspatula.github.io/RetroflagGpiGuides/cannonball)
 
 [Openbor 3400 Install Guide older](https://sinisterspatula.github.io/RetroflagGpiGuides/OpenborInstall)
