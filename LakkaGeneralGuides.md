@@ -79,7 +79,7 @@ Views -> Settings -> Show Directory | All the directories are already set up, so
 
 You can also hide everything by either disabling the Settings tab or enabling the Kiosk Mode. Don't forget to set up the password to bring everything back to normal, else you will need to force shutdown RetroArch and edit retroarch.cfg while it's still closed (type `systemctl stop retroarch` into the console and `systemctl start retroarch` after you're done editing the config).
 
-## Adding ports
+### Adding ports
 
 There's a few RetroArch cores in Lakka that are available as either ports of existing games or standalones. Bundled with it are **2048** and **Mr.Boom** that don't require additional data and are playable right out of the box, which is not the case for the rest of the ports.
 
