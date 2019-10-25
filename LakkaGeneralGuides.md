@@ -27,8 +27,6 @@ Lakka doesn't require a wpa_supplicant.conf file or an external keyboard to conn
 
 ### Uploading games
 
-Lakka comes with two completely standalone cores, those being 2048 and Mr. Boom, thus acting 
-
 Make sure you're connected to a Wi-Fi hotspot first, then enable SSH in Settings -> Services. After that, go back to the Lakka tab and choose Information -> Network Information. If everything's done correctly, you should see your GPi's local IP address, marked as (wlan0).
 
 Using an SCP client, connect to Lakka using this IP address, SCP as the web protocol, 21 as the port, and root as both the login and the password. If everything went right, you shall gain access to Lakka's filesystem. Go to /storage/roms and upload your collection of games there.
