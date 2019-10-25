@@ -79,18 +79,30 @@ Views -> Settings -> Show Directory | All the directories are already set up, so
 
 You can also hide everything by either disabling the Settings tab or enabling the Kiosk Mode. Don't forget to set up the password to bring everything back to normal, else you will need to force shutdown RetroArch and edit retroarch.cfg while it's still closed (type `systemctl stop retroarch` into the console and `systemctl start retroarch` after you're done editing the config).
 
-## Additional notes on Lakka 2.3 GPi and performance
+## Adding ports
+
+There's a few RetroArch cores in Lakka that are available as either ports of existing games or standalones. Bundled with it are **2048** and **Mr.Boom** that don't require additional data and are playable right out of the box, which is not the case for the rest of the ports.
+
+Name | Performance | Prerequisites
+---- | ----------- | -------------
+2048 | Runs great | None
+Cave Story (NxEngine) | Runs great | The original Cave Story executable and data files. Launch `Doukutsu.exe`.
+Dinothawr | Runs great | Dinothawr data files, downloadable via RetroArch's own Online Updater. Launch `dinothawr.game`.
+Doom (PrBoom) | Runs great at 35FPS, some WADs may experience slowdown on 60FPS | Any Boom-compatible IWAD, as well as `prboom.wad` in the same folder. MP3 music tracks optional.
+Quake (TyrQuake) | Dips in performance even at 50FPS | Quake 1 or its' expansion packs. OGG music tracks optional.
+
+### Additional notes on Lakka 2.3 GPi
 
 The GPi-specific build of Lakka 2.3, while it does come with the safe shutdown script baked in, is also missing a few cores and menu features from the other versions.
 
 The following cores work on Lakka, but are either non-present or bugged:
-* The only SNES emulator present in lr-snes9x2002. You might want to get lr-snes9x2005 as well to emulate Super Mario World at full speed without graphical glitches.
-* The current build of lr-prboom comes with demo support and native music playback, but also retains the floor/ceiling texture warping bug.
-* The lr-fuse core on Lakka crashes whenever savestates are used. Keep in mind that, as of this writing, this is a bug present in **every** version of Lakka.
-* The lr-dosbox core is not present, but it runs a handful of early DOS games.
-* The lr-pokemonmini core is not present, but runs every game at full speed.
+* The only SNES emulator present is `lr-snes9x2002`. You might want to get `lr-snes9x2005` as well to emulate **Super Mario World** at full speed without graphical glitches.
+* The current build of `lr-prboom` comes with demo support and native music playback, but also retains the floor/ceiling texture warping bug.
+* The `lr-fuse` core on Lakka crashes whenever savestates are used. Keep in mind that, as of this writing, this is a bug present in **every** version of Lakka.
+* The `lr-dosbox core` is not present, but it runs a handful of early DOS games.
+* The `lr-pokemonmini` core is not present, but runs every game at full speed.
 
-Either of those can be supplied from a RetroPie image, as long as the package is prefixed with an "lr-".
+Either of those can be supplied from a RetroPie image, as long as the package is prefixed with an `lr-`.
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
