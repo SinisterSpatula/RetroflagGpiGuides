@@ -29,7 +29,7 @@ Lakka doesn't require a wpa_supplicant.conf file or an external keyboard to conn
 
 Make sure you're connected to a Wi-Fi hotspot first, then enable SSH in Settings -> Services. After that, go back to the Lakka tab and choose Information -> Network Information. If everything's done correctly, you should see your GPi's local IP address, marked as (wlan0).
 
-Using an SCP client, connect to Lakka using this IP address, SCP as the web protocol, 21 as the port, and root as both the login and the password. If everything went right, you shall gain access to Lakka's filesystem. Go to /storage/roms and upload your collection of games there.
+Using an SCP client, connect to Lakka using this IP address, SCP as the web protocol, 21 as the port, and `root` as both the login and the password. If everything went right, you shall gain access to Lakka's filesystem. Go to /storage/roms and upload your collection of games there.
 
 The naming of the folders doesn't matter as much as it does in RetroPie, but having games sorted by platforms is good practice for keeping everything easily navigatable outside RetroArch.
 
@@ -48,11 +48,40 @@ All of your scraped games can also have thumbnails and boxart attached to them. 
 
 ### Switching to the XMB/PlayStation Portable-like interface
 
-By default, the GPi build of Lakka defaults to the RGUI interface. While customizable, RetroArch is more known for using an XMB lookalike as its' UI, so you might want to swap it to XMB first.
+By default, the GPi build of Lakka defaults to the RGUI interface. While customizable, RetroArch is more known for using an XMB lookalike as its' UI, so you might want to swap it to XMB first. Remember that using XMB generally provides a somewhat slower experience as it's more taxing on the Raspberry Pi Zero than RGUI, even when all you do is change games.
 
 Go to Settings -> User Interface and set Show Advanced Settings to on. Back up to the Settings menu and go to Driver. Whenever you see the Menu Driver option, change that from rgui to xmb. After that, restart RetroArch.
 
 ## Advanced Guides
+
+### Connecting Bluetooth devices
+
+One downside of Lakka is that while Wi-Fi can be added directly through the UI, without having to hook up a keyboard, adding new Bluetooth devices has to be done via SSH, through the command line. Let's go through all of it.
+
+First off, make sure Bluetooth is enabled on your GPi. Go to Settings -> Services, and if Bluetooth isn't toggled on, do exactly that.
+
+Using PuTTY, connect to your GPi with its' local IP address (see Uploading Games for more) and port 22. Type `root` as both the login and the password. If you've put those credentials in correctly, you should be able to see the current version of Lakka in your PuTTY terminal. From there, type `bluetoothctl` and press Enter to open the Bluetooth devices manager. In there, you have to execute the following commands, preferably in the exact same order:
+
+```agent on
+default-agent
+power on
+discoverable on
+pairable on
+scan on
+```
+
+Get your controller working in pairing mode. You might see its' name and MAC address (stylized as XX:XX:XX:XX:XX:XX, with X being any hexadecimal number). Copy the latter, you will need it for the following commands:
+
+```pair [MAC]
+connect [MAC]
+trust [MAC]
+```
+
+Don't rush it, use the `connect` and `trust` commands *only* after you see a prompt about Lakka successfully pairing the controller. You can try rebooting just to make sure you've hooked this gamepad to Lakka, for good.
+
+Keep in mind that not all Bluetooth controllers will pair easily - the later revisions of DualShock 4 are particularly notorious for this. So if Lakka doesn't pick up the controller you need or is unable to pair it, you might want to look into using a different gamepad entirely.
+
+One more thing: in case you need to prioritize your external gamepad over the GPi's on-board buttons, set the former as player 1's device and the latter (known as `Xbox 360 Controller`) as player 2's. This way, Lakka will set GPi's own buttons to the P1 spot when no controllers are connected, but use them for P2 otherwise.
 
 ### Decluttering the UI
 
@@ -86,8 +115,12 @@ Name | Performance | Prerequisites
 2048 | Runs great | None
 Cave Story (NxEngine) | Runs great | The original Cave Story executable and data files. Launch `Doukutsu.exe`.
 Dinothawr | Runs great | Dinothawr data files, downloadable via RetroArch's own Online Updater. Launch `dinothawr.game`.
-Doom (PrBoom) | Runs great at 35FPS, some WADs may experience slowdown on 60FPS | Any Boom-compatible IWAD, as well as `prboom.wad` in the same folder. MP3 music tracks optional.
-Quake (TyrQuake) | Dips in performance even at 50FPS | Quake 1 or its' expansion packs. OGG music tracks optional.
+Doom (PrBoom) | Runs great at 35FPS, some WADs may experience slowdown on 60FPS | Any Boom-compatible IWAD, as well as `prboom.wad` in the same folder. MP3 music tracks optional. Launch the IWAD.
+Flashback (Reminiscence) | Runs great, but has very limited functionality outside of gameplay (no passwords or options, or sound during the intro segment) | The original DOS Flashback data. Launch `MENU1.MAP`.
+Mr.Boom | Runs great | None
+Outrun (Cannonball) | Not tested yet | The zipped Outrun Rev B ROM.
+RPG Maker 2000/2003 (EasyRPG) | Runs decently, though MIDI playback in the RetroArch menus *may* cause crashes | 
+Quake (TyrQuake) | Dips in performance even at 50FPS | Quake 1 or its' expansion packs. OGG music tracks optional. Launch `pak0.pak`.
 
 ### Additional notes on Lakka 2.3 GPi
 
