@@ -62,7 +62,8 @@ First off, make sure Bluetooth is enabled on your GPi. Go to Settings -> Service
 
 Using PuTTY, connect to your GPi with its' local IP address (see Uploading Games for more) and port 22. Type `root` as both the login and the password. If you've put those credentials in correctly, you should be able to see the current version of Lakka in your PuTTY terminal. From there, type `bluetoothctl` and press Enter to open the Bluetooth devices manager. In there, you have to execute the following commands, preferably in the exact same order:
 
-```agent on
+```
+agent on
 default-agent
 power on
 discoverable on
@@ -72,7 +73,8 @@ scan on
 
 Get your controller working in pairing mode. You might see its' name and MAC address (stylized as XX:XX:XX:XX:XX:XX, with X being any hexadecimal number). Copy the latter, you will need it for the following commands:
 
-```pair [MAC]
+```
+pair [MAC]
 connect [MAC]
 trust [MAC]
 ```
