@@ -84,6 +84,7 @@
 
 [Wifi and Bluetooth Toggle](https://sinisterspatula.github.io/RetroflagGpiGuides/WifiBTtoggle)
 
+[Tips & Triks](https://sinisterspatula.github.io/RetroflagGpiGuides/TipsAndTricks)
 
 # Additional Resources
   
