@@ -74,5 +74,19 @@ Then reboot and you should be propted to re-input your gamepad buttons.
 
 [Back to Index](https://sinisterspatula.github.io/RetroflagGpiGuides/)
 
+### Disable EmulationStation boot screen
+
+Thanks to: https://github.com/maddox/gpi-tools#hide-emulationstation-splash-screen
+
+During startup, after the kernel boot logo, the EmulationStation boot screen is shown before the system is fully started. To disable the EmulationStation boot screen you need to edit the `/opt/retropie/configs/all/autostart.sh` file so that it contains only this line:
+
+    emulationstation --no-splash #auto
+
+The `--no-splash` option does the trick.
+
+You can edit the file connecting to the GPi Case via sftp using WinSCP for Windows or Cyberduck for MacOS, or, if you prefer doing it via terminal, once you've logged via ssh, run
+
+    echo "emulationstation --no-splash #auto" > /opt/retropie/configs/all/autostart.sh
+
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
 
