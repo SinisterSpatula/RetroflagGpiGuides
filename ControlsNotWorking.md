@@ -9,6 +9,8 @@
 
 Try changing the D-pad mode:  Hold Select + Up until the power light flashes purple (HAT mode).  The other mode is: Select + Left (Axis mode).
 
+> For New Units try Start + Up or Start + Left. (use start button instead of select)
+
 * It's a good idea to be navigated to the Emulation Station configure input's screen before changing your mode.  Be ready to input your controls directly after switching the mode.  This way you can switch the controls and everything should work without getting stuck in a non-working mode.
 
 ## Reset Emulation Station Controller inputs
