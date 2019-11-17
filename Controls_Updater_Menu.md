@@ -22,13 +22,13 @@ command prompt.
 ## Install the Controls Updater Menu
 
 ```shell
-cd && cd RetroPie/retropiemenu && wget -O control_updater_menu.sh  https://raw.githubusercontent.com/SinisterSpatula/Gpi/master/control_updater_menu.sh && sudo chmod 775 control_updater_menu.sh
+cd && cd RetroPie/retropiemenu && wget -O migrate-controllertools.sh  https://raw.githubusercontent.com/SinisterSpatula/Gpi3/master/migrate-controllertools.sh && sudo chmod 775 migrate-controllertools.sh && sudo rm control_updater_menu.sh
 ```
 
 * Then run this command
 
 ```shell
- sudo /home/pi/RetroPie/retropiemenu/control_updater_menu.sh
+ sudo /home/pi/RetroPie/retropiemenu/migrate-controllertools.sh
 ```
 
 * choose Update Controls Framework, then exit.
@@ -40,6 +40,8 @@ cd && cd RetroPie/retropiemenu && wget -O control_updater_menu.sh  https://raw.g
 ### Switch the D-pad mode of the Gpi case (if you desire, you don't need to change it, this is just informational):
 
 The Gpi has a hidden option to change the D-PAD mode. To switch to direct input mode, press SELECT+DPAD LEFT for 5 seconds. You will know it worked when the LED flashes. If you need to revert back to facotry D-pad mode: To switch to hat mode (factory) press SELECT+DPAD UP for 5 seconds.  It does not matter which mode your d-pad is in for these mappings, they now work with both modes!
+
+If your Gpi is a newer model, the select button was changed to the start button, so select+DPAD LEFT becomes start+DPAD LEFT.
 
 ## Future updates
 
