@@ -1,6 +1,6 @@
 ![Logo Image](https://sinisterspatula.github.io/RetroflagGpiGuides/images/GuidesBanner.png)
 
-> News: Pegasus Front End guide and new gpiOS modified theme, checkout the [Video](https://www.youtube.com/watch?v=O-kbEcsxYrM).  Screenshots from your Gpi, Cloud sync saves, Spotify on Gpi, Boot Logo Pack, revised safeshutdown, Added Pico-8 guide,  Fixed discord link.  Added N64 to emulators chart.  Added theme links.
+> News: Pegasus Front End guide and new gpiOS modified theme, checkout the [Video](https://www.youtube.com/watch?v=O-kbEcsxYrM).  Screenshots from your Gpi, Cloud sync saves, Spotify on Gpi, Boot Logo Pack, revised safeshutdown, Added Pico-8 guide,  Fixed discord link.  Added N64 to emulators chart.  Added theme links.  Started a sister site: [MiSTer How-To's](https://sinisterspatula.github.io/MiSTer-Howto/)
 
 > If you would like to add to these guides, create a fork of them on github, add your modifications, then make a pull request to send your changes and additions to be merged, here:  [Github Repository Link.](https://github.com/SinisterSpatula/RetroflagGpiGuides)
 
