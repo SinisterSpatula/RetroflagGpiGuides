@@ -42,7 +42,7 @@ There are three ways to scrape everything you have uploaded:
 2) with the Load Content menu by pressing the Y button over a button or folder you want to scan,
 3) by manually launching the game from the Load Content menu.
 
-If something didn't get scanned, you can reach the /storage/playlists folder and add games by yourself.
+If something didn't get scanned, you can reach the `/storage/playlists/` folder and add games by yourself.
 
 All of your scraped games can also have thumbnails and boxart attached to them. You don't need to put those in by yourself: just go to the Online Updater menu and toggle the on-demand thumbnails downloader on. As long as you're connected to the internet, Lakka will automatically get the images for you.
 
@@ -54,7 +54,7 @@ Go to Settings -> User Interface and set Show Advanced Settings to on. Back up t
 
 ## Advanced Guides
 
-### Connecting Bluetooth devices
+### Connecting Bluetooth devices and using multiple controllers for multiplayer
 
 One downside of Lakka is that while Wi-Fi can be added directly through the UI, without having to hook up a keyboard, adding new Bluetooth devices has to be done via SSH, through the command line. Let's go through all of it.
 
@@ -83,7 +83,7 @@ Don't rush it, use the `connect` and `trust` commands *only* after you see a pro
 
 Keep in mind that not all Bluetooth controllers will pair easily - the later revisions of DualShock 4 are particularly notorious for this. So if Lakka doesn't pick up the controller you need or is unable to pair it, you might want to look into using a different gamepad entirely.
 
-One more thing: in case you need to prioritize your external gamepad over the GPi's on-board buttons, set the former as player 1's device and the latter (known as `Xbox 360 Controller`) as player 2's. This way, Lakka will set GPi's own buttons to the P1 spot when no controllers are connected, but use them for P2 otherwise.
+One more thing: in case you need to prioritize your external gamepad over the GPi's on-board buttons, set the former as player 1's device and the latter (known as `Xbox 360 Controller`) as player 2's. This way, Lakka will set GPi's own buttons to the P1 spot when no controllers are connected, but use them for P2 otherwise. If you want to have a local multiplayer session and, say, get two Bluetooth controllers working with Lakka, move the GPi's input to P3 or even further.
 
 ### Decluttering the UI
 
@@ -117,14 +117,24 @@ Name | Performance | Prerequisites
 2048 | Runs great | None
 Cave Story (NxEngine) | Runs great | The original Cave Story executable and data files. Launch `Doukutsu.exe`.
 Dinothawr | Runs great | Dinothawr data files, downloadable via RetroArch's own Online Updater. Launch `dinothawr.game`.
-Doom (PrBoom) | Runs great at 35FPS, some WADs may experience slowdown on 60FPS | Any Boom-compatible IWAD, as well as `prboom.wad` in the same folder. MP3 music tracks optional. Launch the IWAD.
+Doom (PrBoom) | Runs great at 35FPS, some WADs may be slow on 60FPS | Any Boom-compatible IWAD, as well as `prboom.wad` in the same folder. MP3 music tracks optional. Launch the IWAD.
 Flashback (Reminiscence) | Runs great, but has very limited functionality outside of gameplay (no passwords or options, or sound during the intro segment) | The original DOS Flashback data. Launch `MENU1.MAP`.
 Mr.Boom | Runs great | None
 Outrun (Cannonball) | Not tested yet | The zipped Outrun Rev B ROM.
 RPG Maker 2000/2003 (EasyRPG) | Runs decently, though MIDI playback in the RetroArch menus *may* cause crashes | 
-Quake (TyrQuake) | Dips in performance even at 50FPS | Quake 1 or its' expansion packs. OGG music tracks optional. Launch `pak0.pak`.
+Quake (TyrQuake) | Playable, but has dips in performance even at 50FPS | Quake 1 or its' expansion packs. OGG music tracks optional. Launch `pak0.pak`.
 
-### Additional notes on Lakka 2.3 GPi
+### Notes on adding Doom WADs
+
+`lr-prboom` is unable to play MIDI music included with the WAD, so you have to supply it yourself. Check `savefiles/[WAD name]/prboom.cfg` for the full list of songs that will be used by both **Doom** and **Doom II** - those are the filenames you'd have to use for each respective level's song, in MP3 format. All the themes should be in the same folder as the WAD itself. Alternatively, you can change the song filenames in `prboom.cfg` if you don't want to go through renaming everything or in case there's duplicate songs.
+
+PWADs (**Doom** mods) can also be loaded on top of IWADs (main games) - as long as they're Boom-compatible mappacks or contain DeHACKed patches. As in, more popular/advanced mods, be it **Brutal Doom** or **Death Foretold**, will *not* work, and you'd have to look for their vanilla-friendly equivalents.
+
+As an example, let's try to get **Scythe II** to work. Inside of the folder you keep your **Doom II** IWAD in, make a subfolder named "Scythe II" or whatever else you wanna call it. Then add your one PWAD, `scythe2.wad`, and `prboom.wad` into said subfolder. If you've got any WAD-specific MP3 music tracks you want to add in, put them in there as well. Then, run **Doom II** like you usually would and make sure "Look on parent folders for IWADs" is enabled in the core options - you can skip this step if you're sure it's already enabled. And, after that is done, go to the Load Content menu and run `scythe2.wad` from there. Voila! If your PWAD didn't work, it may either mean that the PWAD was made for a more advanced source port, like ZDoom or Zandronum, or that you've got your **Doom II** IWAD zipped.
+
+There's a few custom mappacks that make `lr-prboom` crash on certain maps, where the standalone PrBoom would render them properly (ex. MAP03 of **Plutonia 2**). The exact cause of the crashing remains unknown, so unfortunately, the only decent workaround is to simplify geometry on the problematic maps.
+
+### Notes on Lakka 2.3 GPi and its' cores
 
 The GPi-specific build of Lakka 2.3, while it does come with the safe shutdown script baked in, is also missing a few cores and menu features from the other versions.
 
@@ -132,10 +142,11 @@ The following cores work on Lakka, but are either non-present or bugged:
 * The only SNES emulator present is `lr-snes9x2002`. You might want to get `lr-snes9x2005` as well to emulate **Super Mario World** at full speed without graphical glitches.
 * The current build of `lr-prboom` comes with demo support and native music playback, but also retains the floor/ceiling texture warping bug.
 * The `lr-fuse` core on Lakka crashes whenever savestates are used. Keep in mind that, as of this writing, this is a bug present in **every** version of Lakka.
-* The `lr-dosbox core` is not present, but it runs a handful of early DOS games.
+* The `lr-dosbox` core is not present, but it runs a handful of early DOS games.
 * The `lr-pokemonmini` core is not present, but runs every game at full speed.
+* The `lr-prboom` core on Lakka doesn't come with tracker music, but otherwise works as intended.
 
-Either of those can be supplied from a RetroPie image, as long as the package is prefixed with an `lr-`.
+Either of those can be supplied from a RetroPie image (which was made ***specifically*** for Raspberry Pi 0 or 1, other builds simply won't work), as long as the package is prefixed with an `lr-`. All new cores should be placed in the `/storage/cores` and, as long as the core's respective `.info` file is present, Lakka will associate the ROMs with the emulator those work in.
 
 ## Support Thread
 [Go here for help](https://www.facebook.com/groups/401660300458844/)
