@@ -13,22 +13,25 @@
   * Paste the following code:
 
 ```
-# convert stereo to mono RIGHT output
- 
+# convert stereo to mono output
+
+# internal speaker only plays RIGHT channel
+# headphone jack plays BOTH channels
+# 50% volume per channel to prevent clipping
 pcm.monocard{
   slave.pcm "hw:0"
   slave.channels 2
   type route
   ttable {
     # Copy both input channels to output channel 1 (Right).
-    0.1 1
-    1.1 1
+    0.1 0.5
+    1.1 0.5
     # Copy both input channels to output channel 0 (Left).
-    0.0 1
-    1.0 1
+    0.0 0.5
+    1.0 0.5
   }
 }
- 
+
 pcm.!default monocard
 ```
 
