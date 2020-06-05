@@ -8,14 +8,14 @@ Ever been bothered by those letterboxed Game Boy ROMs? Time to put that to an en
 
 ## Installation
 
-Download the bezel pack from [here](https://github.com/brightentayle/supergpi-bezels/releases/download/initial/supergpi_bezels_v1_0.zip). The archive contains borders tailor-made for `lr-gambatte` running at 320x240 (basically, something every GPi Case user is going to have by default). `lr-gambatte` has a few monochrome coloration options, and
+Download the bezel pack from [here](https://github.com/brightentayle/supergpi-bezels/releases/download/initial/supergpi_bezels_v1_0.zip). The archive contains borders tailor-made for `lr-gambatte` running at 320x240 (basically, something every GPi Case user is going to have by default). `lr-gambatte` has a few monochrome coloration options, and each bezel should be matched with a specific setting:
 
 * **SuperGPi** - use with `Custom` (default option on RetroPie-based images!)
 * **DMG** - use with `Internal - DMG`
 * **Pocket** - use with `Internal - Pocket`
 * **Light** - use with `Internal - Light`
 
-The bezel pack has been tested specifically with Lakka so far, which means the RetroPie's implementation of RetroArch won't work with its' integer scaling, nor it will be seamless (i.e. there's gonna be obvious light/dark bars separating the bezel and the game screen), though it's going to work fine otherwise.
+The bezel pack has been tested specifically with Lakka so far, which means the RetroPie's implementation of RetroArch won't work with its' integer scaling, nor it will be seamless (i.e. there's gonna be obvious light/dark bars separating the bezel and the game screen), but it's going to work fine otherwise.
 
 ### RetroPie
 
@@ -33,7 +33,6 @@ input_overlay = "/opt/retropie/configs/all/retroarch/overlay/gb-supergpi.cfg"
 input_overlay_opacity = "1.000000"
 ```
 
-
 ### Lakka
 
 * Extract the archive's contents to `/storage/overlays/SuperGPi Bezels/`
@@ -48,7 +47,5 @@ input_overlay_scale = "1.000000"
 quick_menu_show_save_game_overrides = "true"
 quick_menu_show_save_core_overrides = "true"
 ```
-
-* Save it, and try running the game.
 
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
