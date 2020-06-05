@@ -52,6 +52,8 @@
 
 [Retroarch Cheats Setup](https://sinisterspatula.github.io/RetroflagGpiGuides/RetroarchCheatsSetup)
 
+[RetroArch Game Boy Bezels](https://sinisterspatula.github.io/RetroflagGpiGuides/SuperGPiBezels)
+
 [Safe Shutdown Install](https://sinisterspatula.github.io/RetroflagGpiGuides/SafeShutdown)
 
 [Screenshots from your Gpi](https://sinisterspatula.github.io/RetroflagGpiGuides/ScreenshotsGpi2)
