@@ -10,12 +10,12 @@ Ever been bothered by those letterboxed Game Boy ROMs? Time to put that to an en
 
 Download the bezel pack from [here](https://github.com/brightentayle/supergpi-bezels/releases/download/initial/supergpi_bezels_v1_0.zip). The archive contains borders tailor-made for `lr-gambatte` running at 320x240 (basically, something every GPi Case user is going to have by default). `lr-gambatte` has a few monochrome coloration options, and each bezel should be matched with a specific setting:
 
-* **SuperGPi** - use with `Custom` (default option on RetroPie-based images!)
-* **DMG** - use with `Internal - DMG`
-* **Pocket** - use with `Internal - Pocket`
-* **Light** - use with `Internal - Light`
+* **gb-supergpi** - use with `Custom` (default option on RetroPie-based images!)
+* **gb-dmg** - use with `Internal - DMG`
+* **gb-pocket** - use with `Internal - Pocket`
+* **gb-light** - use with `Internal - Light`
 
-The bezel pack has been tested specifically with Lakka so far, which means the RetroPie's implementation of RetroArch won't work with its' integer scaling, nor it will be seamless (i.e. there's gonna be obvious light/dark bars separating the bezel and the game screen), but it's going to work fine otherwise.
+RetroArch in RetroPie-based images runs at the resolution of 640x480 by default for some reason, so we're going to set it to 320x240, just to make sure there's going to be no visible seams (thin dark/light lines) between the bezel and the game itself.
 
 ### RetroPie
 
@@ -25,6 +25,8 @@ The bezel pack has been tested specifically with Lakka so far, which means the R
 ```
 soft_filter_enable = "true"
 input_overlay = "/opt/retropie/configs/all/retroarch/overlay/gb-supergpi.cfg"
+video_fullscreen_x = "320"
+video_fullscreen_y = "240"
 ```
 
 * Then go to `/opt/retropie/configs/all/retroarch/`, and change this one parameter in `retroarch.cfg`, just to make sure the border remains opaque every single time:
@@ -47,5 +49,16 @@ input_overlay_scale = "1.000000"
 quick_menu_show_save_game_overrides = "true"
 quick_menu_show_save_core_overrides = "true"
 ```
+
+## Bezel Preferences for Individual Games
+
+You can make it so that any Game Boy/Game Boy Color ROM would appear with its' own colour settings; for example, Super Mario Land with the DMG palette and Super Mario Land with the GB Light palette. It's fairly simple to do:
+
+* Get into the RetroArch menu (RetroPie users: Select+Y while ingame)
+* In `Options`, change `GB Colorization` to either `custom` (RetroPie users: for the **gpi-superpi** bezel) or to `internal` (for everything else)
+* In case you want to go with the latter, check the options in `Internal Palette`
+* Select `Create game-options file`
+* Go back and, in `Onscreen Overlay`, change the `Overlay Preset` to the bezel you want to match the GB colours
+* Go back again, then select `Overrides -> Save Game Overrides`
 
 ###### Head back to our [Facebook Group](https://www.facebook.com/groups/401660300458844/)
