@@ -15,7 +15,7 @@ command prompt.
 
 * pi@retropie:~ $  sudo ./RetroPie-Setup/retropie_setup.sh [enter]
 * go to manage packages, driver, xboxdrv, install from source.
-  * It takes 1 hour 15 mins to compile.
+  * It takes 1 hour 15 mins to compile on a raspberry pi zero(w) & 20minutes on a raspberry pi zero 2.
 
 * Exit the setup menu.
 
